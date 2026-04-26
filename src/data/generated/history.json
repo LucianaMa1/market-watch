@@ -1,0 +1,26 @@
+[
+  {
+    "generatedAt": "2026-04-26T21:00:49.805Z",
+    "headline": "No material changes detected this cycle — keep monitoring, but no immediate action is required.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
+    "generatedAt": "2026-04-26T20:41:49.342Z",
+    "headline": "pricing signals are leading this cycle, with Browser Use setting the pace.",
+    "topCategories": [
+      "pricing",
+      "enterprise",
+      "product"
+    ],
+    "topCompanies": [
+      "Browser Use",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "urgentSignals": 12,
+    "importantSignals": 12
+  }
+]

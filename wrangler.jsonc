@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "main": ".open-next/worker.js",
+  "name": "market-watch",
+  "compatibility_date": "2026-04-26",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "market.luciana.digital",
+      "custom_domain": true,
+      "zone_name": "luciana.digital"
+    }
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "market-watch"
+    }
+  ],
+  "images": {
+    "binding": "IMAGES"
+  }
+}

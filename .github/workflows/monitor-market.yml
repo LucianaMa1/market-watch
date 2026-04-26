@@ -1,0 +1,33 @@
+name: monitor-market
+
+on:
+  schedule:
+    - cron: "15 14 * * *"
+    - cron: "45 14 * * 1"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run monitor
+      - name: Commit refreshed market data
+        run: |
+          if [[ -n "$(git status --porcelain src/data/generated)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add src/data/generated
+            git commit -m "chore: refresh market watch data"
+            git push
+          else
+            echo "No data changes to commit."
+          fi

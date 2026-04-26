@@ -1,0 +1,105 @@
+[
+  {
+    "id": "browser-use",
+    "company": "Browser Use",
+    "category": "agent infrastructure",
+    "priority": "high",
+    "whyItMatters": "Directly relevant to browser-native operators and agent UX.",
+    "pages": [
+      { "type": "homepage", "url": "https://browser-use.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://browser-use.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.browser-use.com/", "label": "Docs" },
+      { "type": "github-releases", "url": "https://github.com/browser-use/browser-use/releases", "label": "GitHub Releases" }
+    ]
+  },
+  {
+    "id": "anthropic",
+    "company": "Anthropic",
+    "category": "foundation model platform",
+    "priority": "high",
+    "whyItMatters": "Sets operator expectations for agent capabilities, enterprise posture, and API packaging.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.anthropic.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.anthropic.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.anthropic.com/en/home", "label": "Docs" },
+      { "type": "jobs", "url": "https://www.anthropic.com/careers", "label": "Careers" }
+    ]
+  },
+  {
+    "id": "openai",
+    "company": "OpenAI",
+    "category": "foundation model platform",
+    "priority": "high",
+    "whyItMatters": "Pricing, platform positioning, and shipping cadence heavily influence the rest of the market.",
+    "pages": [
+      { "type": "homepage", "url": "https://openai.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://openai.com/api/pricing/", "label": "Pricing" },
+      { "type": "docs", "url": "https://platform.openai.com/docs/overview", "label": "Docs" },
+      { "type": "jobs", "url": "https://openai.com/careers/", "label": "Careers" }
+    ]
+  },
+  {
+    "id": "stripe",
+    "company": "Stripe",
+    "category": "payments infrastructure",
+    "priority": "high",
+    "whyItMatters": "Canonical signal source for monetization, trust, billing primitives, and platform packaging.",
+    "pages": [
+      { "type": "homepage", "url": "https://stripe.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://stripe.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.stripe.com/", "label": "Docs" },
+      { "type": "jobs", "url": "https://stripe.com/jobs/search", "label": "Jobs" }
+    ]
+  },
+  {
+    "id": "polar",
+    "company": "Polar",
+    "category": "developer commerce",
+    "priority": "high",
+    "whyItMatters": "Fast-moving billing and merchant-of-record product with strong overlap to AI developer tooling monetization.",
+    "pages": [
+      { "type": "homepage", "url": "https://polar.sh/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://polar.sh/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.polar.sh/", "label": "Docs" },
+      { "type": "github-releases", "url": "https://github.com/polarsource/polar/releases", "label": "GitHub Releases" }
+    ]
+  },
+  {
+    "id": "lemonsqueezy",
+    "company": "Lemon Squeezy",
+    "category": "developer commerce",
+    "priority": "medium",
+    "whyItMatters": "Useful comp for checkout, MoR packaging, and indie-friendly pricing language.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.lemonsqueezy.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.lemonsqueezy.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.lemonsqueezy.com/", "label": "Docs" }
+    ]
+  },
+  {
+    "id": "circle",
+    "company": "Circle",
+    "category": "community platform",
+    "priority": "medium",
+    "whyItMatters": "Strong benchmark for monetized communities, memberships, and productized networks.",
+    "pages": [
+      { "type": "homepage", "url": "https://circle.so/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://circle.so/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://community.circle.so/hc/en-us", "label": "Docs" },
+      { "type": "jobs", "url": "https://jobs.ashbyhq.com/circle", "label": "Jobs" }
+    ]
+  },
+  {
+    "id": "discourse",
+    "company": "Discourse",
+    "category": "community platform",
+    "priority": "medium",
+    "whyItMatters": "Helpful forum comp for agenticpayment.forum and adjacent moderation/community monetization patterns.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.discourse.org/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.discourse.org/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://meta.discourse.org/", "label": "Docs & Meta" },
+      { "type": "github-releases", "url": "https://github.com/discourse/discourse/releases", "label": "GitHub Releases" }
+    ]
+  }
+]
