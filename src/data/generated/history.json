@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-04-27T00:03:08.857Z",
+    "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Adyen",
+      "Adyen",
+      "Adyen"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 12
+  },
+  {
     "generatedAt": "2026-04-26T21:00:49.805Z",
     "headline": "No material changes detected this cycle — keep monitoring, but no immediate action is required.",
     "topCategories": [],

@@ -1,49 +1,10 @@
 [
   {
-    "id": "browser-use",
-    "company": "Browser Use",
-    "category": "agent infrastructure",
-    "priority": "high",
-    "whyItMatters": "Directly relevant to browser-native operators and agent UX.",
-    "pages": [
-      { "type": "homepage", "url": "https://browser-use.com/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://browser-use.com/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://docs.browser-use.com/", "label": "Docs" },
-      { "type": "github-releases", "url": "https://github.com/browser-use/browser-use/releases", "label": "GitHub Releases" }
-    ]
-  },
-  {
-    "id": "anthropic",
-    "company": "Anthropic",
-    "category": "foundation model platform",
-    "priority": "high",
-    "whyItMatters": "Sets operator expectations for agent capabilities, enterprise posture, and API packaging.",
-    "pages": [
-      { "type": "homepage", "url": "https://www.anthropic.com/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://www.anthropic.com/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://docs.anthropic.com/en/home", "label": "Docs" },
-      { "type": "jobs", "url": "https://www.anthropic.com/careers", "label": "Careers" }
-    ]
-  },
-  {
-    "id": "openai",
-    "company": "OpenAI",
-    "category": "foundation model platform",
-    "priority": "high",
-    "whyItMatters": "Pricing, platform positioning, and shipping cadence heavily influence the rest of the market.",
-    "pages": [
-      { "type": "homepage", "url": "https://openai.com/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://openai.com/api/pricing/", "label": "Pricing" },
-      { "type": "docs", "url": "https://platform.openai.com/docs/overview", "label": "Docs" },
-      { "type": "jobs", "url": "https://openai.com/careers/", "label": "Careers" }
-    ]
-  },
-  {
     "id": "stripe",
     "company": "Stripe",
-    "category": "payments infrastructure",
+    "category": "payments api platform",
     "priority": "high",
-    "whyItMatters": "Canonical signal source for monetization, trust, billing primitives, and platform packaging.",
+    "whyItMatters": "Canonical benchmark for API-first payments, billing, and platform packaging for developers.",
     "pages": [
       { "type": "homepage", "url": "https://stripe.com/", "label": "Homepage" },
       { "type": "pricing", "url": "https://stripe.com/pricing", "label": "Pricing" },
@@ -52,54 +13,94 @@
     ]
   },
   {
-    "id": "polar",
-    "company": "Polar",
-    "category": "developer commerce",
+    "id": "adyen",
+    "company": "Adyen",
+    "category": "enterprise payments api",
     "priority": "high",
-    "whyItMatters": "Fast-moving billing and merchant-of-record product with strong overlap to AI developer tooling monetization.",
+    "whyItMatters": "Important benchmark for enterprise-grade acquiring, global payments rails, and platform expansion.",
     "pages": [
-      { "type": "homepage", "url": "https://polar.sh/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://polar.sh/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://docs.polar.sh/", "label": "Docs" },
-      { "type": "github-releases", "url": "https://github.com/polarsource/polar/releases", "label": "GitHub Releases" }
+      { "type": "homepage", "url": "https://www.adyen.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.adyen.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.adyen.com/", "label": "Docs" },
+      { "type": "jobs", "url": "https://careers.adyen.com/", "label": "Jobs" }
     ]
   },
   {
-    "id": "lemonsqueezy",
-    "company": "Lemon Squeezy",
-    "category": "developer commerce",
-    "priority": "medium",
-    "whyItMatters": "Useful comp for checkout, MoR packaging, and indie-friendly pricing language.",
+    "id": "checkout",
+    "company": "Checkout.com",
+    "category": "enterprise payments api",
+    "priority": "high",
+    "whyItMatters": "Strong comp for API-first enterprise checkout, orchestration, and global payment performance messaging.",
     "pages": [
-      { "type": "homepage", "url": "https://www.lemonsqueezy.com/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://www.lemonsqueezy.com/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://docs.lemonsqueezy.com/", "label": "Docs" }
+      { "type": "homepage", "url": "https://www.checkout.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.checkout.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://www.checkout.com/docs", "label": "Docs" },
+      { "type": "jobs", "url": "https://www.checkout.com/careers", "label": "Jobs" }
     ]
   },
   {
-    "id": "circle",
-    "company": "Circle",
-    "category": "community platform",
-    "priority": "medium",
-    "whyItMatters": "Strong benchmark for monetized communities, memberships, and productized networks.",
+    "id": "primer",
+    "company": "Primer",
+    "category": "payments infrastructure platform",
+    "priority": "high",
+    "whyItMatters": "Useful signal source for payment orchestration, routing, and developer platform positioning.",
     "pages": [
-      { "type": "homepage", "url": "https://circle.so/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://circle.so/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://community.circle.so/hc/en-us", "label": "Docs" },
-      { "type": "jobs", "url": "https://jobs.ashbyhq.com/circle", "label": "Jobs" }
+      { "type": "homepage", "url": "https://primer.io/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://primer.io/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://primer.io/docs", "label": "Docs" },
+      { "type": "jobs", "url": "https://primer.io/careers", "label": "Jobs" }
     ]
   },
   {
-    "id": "discourse",
-    "company": "Discourse",
-    "category": "community platform",
-    "priority": "medium",
-    "whyItMatters": "Helpful forum comp for agenticpayment.forum and adjacent moderation/community monetization patterns.",
+    "id": "finix",
+    "company": "Finix",
+    "category": "payments api infrastructure",
+    "priority": "high",
+    "whyItMatters": "Directly relevant for payment acceptance APIs, merchant onboarding, and embedded-payments developer motion.",
     "pages": [
-      { "type": "homepage", "url": "https://www.discourse.org/", "label": "Homepage" },
-      { "type": "pricing", "url": "https://www.discourse.org/pricing", "label": "Pricing" },
-      { "type": "docs", "url": "https://meta.discourse.org/", "label": "Docs & Meta" },
-      { "type": "github-releases", "url": "https://github.com/discourse/discourse/releases", "label": "GitHub Releases" }
+      { "type": "homepage", "url": "https://finix.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://finix.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.finix.com/", "label": "Docs" },
+      { "type": "jobs", "url": "https://finix.com/careers", "label": "Jobs" }
+    ]
+  },
+  {
+    "id": "rapyd",
+    "company": "Rapyd",
+    "category": "global payments api",
+    "priority": "medium",
+    "whyItMatters": "Tracks cross-border API packaging, wallets, payouts, and global coverage messaging.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.rapyd.net/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.rapyd.net/pricing/", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.rapyd.net/", "label": "Docs" },
+      { "type": "jobs", "url": "https://www.rapyd.net/careers/", "label": "Jobs" }
+    ]
+  },
+  {
+    "id": "lithic",
+    "company": "Lithic",
+    "category": "card issuing api",
+    "priority": "medium",
+    "whyItMatters": "Good comp for developer-native issuing, card controls, and modern payments infrastructure narrative.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.lithic.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.lithic.com/pricing", "label": "Pricing" },
+      { "type": "docs", "url": "https://docs.lithic.com/", "label": "Docs" },
+      { "type": "jobs", "url": "https://www.lithic.com/careers", "label": "Jobs" }
+    ]
+  },
+  {
+    "id": "dwolla",
+    "company": "Dwolla",
+    "category": "bank payments api",
+    "priority": "medium",
+    "whyItMatters": "Useful benchmark for ACH / account-to-account payments and bank-transfer developer platform positioning.",
+    "pages": [
+      { "type": "homepage", "url": "https://www.dwolla.com/", "label": "Homepage" },
+      { "type": "pricing", "url": "https://www.dwolla.com/pricing/", "label": "Pricing" },
+      { "type": "docs", "url": "https://developers.dwolla.com/", "label": "Docs" },
+      { "type": "jobs", "url": "https://www.dwolla.com/company/careers/", "label": "Jobs" }
     ]
   }
 ]
