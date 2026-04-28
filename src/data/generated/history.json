@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-04-28T16:21:26.591Z",
+    "headline": "hiring signals are leading this cycle, with Primer setting the pace.",
+    "topCategories": [
+      "hiring",
+      "product"
+    ],
+    "topCompanies": [
+      "Primer",
+      "Rapyd",
+      "Lithic"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-04-28T08:50:00.051Z",
     "headline": "Radar initialized across 8 companies — the baseline is ready, now the next true change will be easier to spot.",
     "topCategories": [],
