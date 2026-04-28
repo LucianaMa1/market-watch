@@ -1,6 +1,8 @@
 import { describe, expect, it } from "vitest";
 
 import {
+  buildAudience,
+  buildPostAngle,
   buildTrendSummary,
   categorizeSignal,
   computePageDiff,
@@ -72,5 +74,15 @@ describe("buildTrendSummary", () => {
       companies: ["A", "B"],
       count: 2,
     });
+  });
+});
+
+describe("audience + post angles", () => {
+  it("returns operator-oriented audience guidance for pricing signals", () => {
+    expect(buildAudience("pricing")).toContain("Founders pricing agent products");
+  });
+
+  it("creates a reusable public post angle for positioning shifts", () => {
+    expect(buildPostAngle("positioning", "Checkout.com")).toContain("changed how it frames the category");
   });
 });

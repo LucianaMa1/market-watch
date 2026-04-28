@@ -1,74 +1,10 @@
 [
   {
-    "generatedAt": "2026-04-27T16:14:49.119Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-04-27T16:00:45.502Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 3,
-    "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-04-27T00:03:08.857Z",
-    "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Adyen",
-      "Adyen",
-      "Adyen"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 12
-  },
-  {
-    "generatedAt": "2026-04-26T21:00:49.805Z",
-    "headline": "No material changes detected this cycle — keep monitoring, but no immediate action is required.",
+    "generatedAt": "2026-04-28T08:50:00.051Z",
+    "headline": "Radar initialized across 8 companies — the baseline is ready, now the next true change will be easier to spot.",
     "topCategories": [],
     "topCompanies": [],
     "urgentSignals": 0,
     "importantSignals": 0
-  },
-  {
-    "generatedAt": "2026-04-26T20:41:49.342Z",
-    "headline": "pricing signals are leading this cycle, with Browser Use setting the pace.",
-    "topCategories": [
-      "pricing",
-      "enterprise",
-      "product"
-    ],
-    "topCompanies": [
-      "Browser Use",
-      "Anthropic",
-      "OpenAI"
-    ],
-    "urgentSignals": 12,
-    "importantSignals": 12
   }
 ]

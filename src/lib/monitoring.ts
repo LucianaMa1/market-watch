@@ -133,6 +133,48 @@ export function buildRecommendation(category: SignalCategory, company: string) {
   }
 }
 
+export function buildAudience(category: SignalCategory) {
+  switch (category) {
+    case "pricing":
+      return "Founders pricing agent products, payments infra teams, and GTM operators.";
+    case "enterprise":
+      return "Enterprise sellers, partnerships leads, and product teams moving upmarket.";
+    case "hiring":
+      return "Operators tracking where teams are placing their next strategic bets.";
+    case "github-release":
+      return "Developer advocates, product leads, and technical buyers comparing roadmap velocity.";
+    case "risk":
+      return "Anyone exposed to platform reliability, vendor concentration, or migration risk.";
+    case "product":
+      return "Builders, product strategists, and ecosystem teams looking for capability shifts.";
+    case "positioning":
+      return "Founders, marketers, and category designers watching narrative shifts.";
+    default:
+      return "Operators watching the category.";
+  }
+}
+
+export function buildPostAngle(category: SignalCategory, company: string) {
+  switch (category) {
+    case "pricing":
+      return `${company} just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.`;
+    case "enterprise":
+      return `${company} is stacking new enterprise proof points. That usually shows where sales pressure is coming from before the roadmap catches up.`;
+    case "hiring":
+      return `${company}'s jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.`;
+    case "github-release":
+      return `${company}'s release notes suggest where real product energy is going, not just what the homepage claims.`;
+    case "risk":
+      return `This looks like a trust signal from ${company}. Worth asking whether customers now need a backup plan or migration path.`;
+    case "product":
+      return `${company} appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.`;
+    case "positioning":
+      return `${company} changed how it frames the category. That is useful if you want to see where the market narrative is tightening.`;
+    default:
+      return `Keeping ${company} on the radar, but no public post angle yet.`;
+  }
+}
+
 export function buildTags(category: SignalCategory, pageType: PageType, text: string) {
   const tags = new Set<string>([pageType, category]);
 

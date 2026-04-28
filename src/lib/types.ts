@@ -62,7 +62,10 @@ export const signalSchema = z.object({
   summary: z.string(),
   added: z.array(z.string()),
   removed: z.array(z.string()),
+  isBaseline: z.boolean().default(false),
   recommendation: z.string(),
+  audience: z.string().default("Operators watching the category."),
+  postAngle: z.string().default("No public post angle yet."),
   tags: z.array(z.string()),
   capturedAt: z.string(),
 });
@@ -93,6 +96,7 @@ export const reportSchema = z.object({
   summary: z.object({
     totalSignals: z.number(),
     importantSignals: z.number(),
+    baselineSignals: z.number().default(0),
     targetsMonitored: z.number(),
     urgentSignals: z.number(),
   }),

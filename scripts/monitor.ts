@@ -3,7 +3,7 @@ import * as path from "node:path";
 
 import { chromium } from "playwright";
 
-import { buildRecommendation, buildTags, buildTrendSummary, buildWeeklyHeadline, categorizeSignal, computePageDiff, normalizeLines, scoreSignal, slugify } from "../src/lib/monitoring";
+import { buildAudience, buildPostAngle, buildRecommendation, buildTags, buildTrendSummary, buildWeeklyHeadline, categorizeSignal, computePageDiff, normalizeLines, scoreSignal, slugify } from "../src/lib/monitoring";
 import { reportSchema, targetSchema, type MonitoredSnapshot, type PageType, type Report, type Signal, type Target } from "../src/lib/types";
 
 const rootDir = process.cwd();
@@ -199,11 +199,18 @@ async function main() {
           summary: baselineSummary,
           added: diff.added,
           removed: diff.removed,
+          isBaseline,
           recommendation: isBaseline
             ? `Baseline captured for ${target.company}. Future runs will highlight true change instead of initial page state.`
             : diff.added.length || diff.removed.length
               ? buildRecommendation(signalMeta.category as Signal["category"], target.company)
               : "No action needed yet.",
+          audience: isBaseline
+            ? "Internal research use first. Wait for a true change before treating this as a public signal."
+            : buildAudience(signalMeta.category as Signal["category"]),
+          postAngle: isBaseline
+            ? `Baseline only for ${target.company} — do not post yet. Use this as future comparison fuel.`
+            : buildPostAngle(signalMeta.category as Signal["category"], target.company),
           tags: buildTags(signalMeta.category as Signal["category"], monitoredPage.type, baselineSummary),
           capturedAt: now,
         });
@@ -213,22 +220,24 @@ async function main() {
     await browser.close();
   }
 
-  const importantSignals = signals
-    .filter((signal) => signal.category !== "noise")
+  const actionableSignals = signals
+    .filter((signal) => signal.category !== "noise" && !signal.isBaseline)
     .sort((a, b) => b.score - a.score)
     .slice(0, 12);
+  const baselineSignals = signals.filter((signal) => signal.isBaseline);
   const noise = signals.filter((signal) => signal.category === "noise");
-  const trends = buildTrendSummary(importantSignals);
+  const trends = buildTrendSummary(actionableSignals);
 
   const report: Report = {
     generatedAt: now,
     summary: {
       totalSignals: signals.length,
-      importantSignals: importantSignals.length,
+      importantSignals: actionableSignals.length,
+      baselineSignals: baselineSignals.length,
       targetsMonitored: targets.length,
-      urgentSignals: importantSignals.filter((signal) => signal.score >= 85).length,
+      urgentSignals: actionableSignals.filter((signal) => signal.score >= 85).length,
     },
-    topChanges: importantSignals.slice(0, 6),
+    topChanges: actionableSignals.slice(0, 6),
     noise,
     signals,
     trends,
@@ -245,14 +254,22 @@ async function main() {
       ),
     })),
     weeklyBrief: {
-      headline: buildWeeklyHeadline(trends, importantSignals),
+      headline: actionableSignals.length
+        ? buildWeeklyHeadline(trends, actionableSignals)
+        : baselineSignals.length
+          ? `Radar initialized across ${targets.length} companies — the baseline is ready, now the next true change will be easier to spot.`
+          : "No material market movement detected this cycle.",
       bullets: [
-        importantSignals[0]
-          ? `${importantSignals[0].company}: ${importantSignals[0].summary}`
-          : "No material market movement detected.",
+        actionableSignals[0]
+          ? `${actionableSignals[0].company}: ${actionableSignals[0].summary}`
+          : baselineSignals.length
+            ? `${baselineSignals.length} monitored pages were captured as first-pass baselines.`
+            : "No material market movement detected.",
         trends[0]
           ? `${trends[0].category} is the strongest current theme across ${trends[0].companies.length} companies.`
-          : "No repeated market pattern yet.",
+          : baselineSignals.length
+            ? "No repeated pattern yet because the current run is mostly baseline setup."
+            : "No repeated market pattern yet.",
         `${targets.length} targets were monitored across ${targets.reduce((sum, target) => sum + target.pages.length, 0)} pages.`,
       ],
     },
@@ -263,7 +280,7 @@ async function main() {
   await writeFile(latestPath, `${JSON.stringify(report, null, 2)}\n`, "utf8");
   await writeFile(historyPath, `${JSON.stringify(history, null, 2)}\n`, "utf8");
 
-  console.log(`Generated report with ${importantSignals.length} important signals.`);
+  console.log(`Generated report with ${actionableSignals.length} actionable signals and ${baselineSignals.length} baselines.`);
 }
 
 main().catch((error) => {

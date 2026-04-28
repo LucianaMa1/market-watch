@@ -1,648 +1,14 @@
 {
-  "generatedAt": "2026-04-27T16:14:49.119Z",
+  "generatedAt": "2026-04-28T08:50:00.051Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 5,
+    "importantSignals": 0,
+    "baselineSignals": 32,
     "targetsMonitored": 8,
-    "urgentSignals": 2
+    "urgentSignals": 0
   },
-  "topChanges": [
-    {
-      "id": "rapyd-pricing",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "pricing",
-      "url": "https://www.rapyd.net/pricing/",
-      "category": "pricing",
-      "score": 100,
-      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details Global Reject All Accept",
-      "added": [
-        "Decline Optional Cookies",
-        "Accept All Cookies",
-        "Cookies Details"
-      ],
-      "removed": [
-        "Global",
-        "Reject All",
-        "Accept"
-      ],
-      "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "rapyd-docs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "docs",
-      "url": "https://docs.rapyd.net/",
-      "category": "product",
-      "score": 100,
-      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details‎ Global Reject All Accept",
-      "added": [
-        "Decline Optional Cookies",
-        "Accept All Cookies",
-        "Cookies Details‎"
-      ],
-      "removed": [
-        "Global",
-        "Reject All",
-        "Accept"
-      ],
-      "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "rapyd-jobs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "jobs",
-      "url": "https://www.rapyd.net/careers/",
-      "category": "hiring",
-      "score": 83,
-      "summary": "Cookie Settings • Partners • Global Cookie Settings Partners Global Your Privacy",
-      "added": [
-        "Cookie Settings",
-        "Partners"
-      ],
-      "removed": [
-        "Global",
-        "Your Privacy"
-      ],
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "rapyd-homepage",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "homepage",
-      "url": "https://www.rapyd.net/",
-      "category": "positioning",
-      "score": 81,
-      "summary": "Cookie Settings • Partners • Global Cookie Settings Partners Global Your Privacy",
-      "added": [
-        "Cookie Settings",
-        "Partners"
-      ],
-      "removed": [
-        "Global",
-        "Your Privacy"
-      ],
-      "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "lithic-jobs",
-      "company": "Lithic",
-      "companySlug": "lithic",
-      "targetId": "lithic",
-      "pageType": "jobs",
-      "url": "https://www.lithic.com/careers",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Accounts & Payment HubFlexible ledgering and accounts • Engineering Accounts & Payment HubFlexible ledgering and accounts Engineering",
-      "added": [
-        "Accounts & Payment HubFlexible ledgering and accounts"
-      ],
-      "removed": [
-        "Engineering"
-      ],
-      "recommendation": "Watch the role mix at Lithic; hiring patterns often reveal the next strategic bet before the homepage does.",
-      "tags": [
-        "jobs",
-        "hiring",
-        "talent"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    }
-  ],
-  "noise": [
-    {
-      "id": "stripe-homepage",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "targetId": "stripe",
-      "pageType": "homepage",
-      "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "stripe-pricing",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "targetId": "stripe",
-      "pageType": "pricing",
-      "url": "https://stripe.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "stripe-docs",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "targetId": "stripe",
-      "pageType": "docs",
-      "url": "https://docs.stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "stripe-jobs",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "targetId": "stripe",
-      "pageType": "jobs",
-      "url": "https://stripe.com/jobs/search",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "adyen-homepage",
-      "company": "Adyen",
-      "companySlug": "adyen",
-      "targetId": "adyen",
-      "pageType": "homepage",
-      "url": "https://www.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "adyen-pricing",
-      "company": "Adyen",
-      "companySlug": "adyen",
-      "targetId": "adyen",
-      "pageType": "pricing",
-      "url": "https://www.adyen.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "adyen-docs",
-      "company": "Adyen",
-      "companySlug": "adyen",
-      "targetId": "adyen",
-      "pageType": "docs",
-      "url": "https://docs.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "adyen-jobs",
-      "company": "Adyen",
-      "companySlug": "adyen",
-      "targetId": "adyen",
-      "pageType": "jobs",
-      "url": "https://careers.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "checkout-homepage",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "homepage",
-      "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "checkout-pricing",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "pricing",
-      "url": "https://www.checkout.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "checkout-docs",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "docs",
-      "url": "https://www.checkout.com/docs",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "checkout-jobs",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "jobs",
-      "url": "https://www.checkout.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "primer-homepage",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "homepage",
-      "url": "https://primer.io/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "primer-pricing",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "pricing",
-      "url": "https://primer.io/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "primer-docs",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "docs",
-      "url": "https://primer.io/docs",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "primer-jobs",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "jobs",
-      "url": "https://primer.io/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "finix-homepage",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "homepage",
-      "url": "https://finix.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "finix-pricing",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "pricing",
-      "url": "https://finix.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "finix-docs",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "docs",
-      "url": "https://docs.finix.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "finix-jobs",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "jobs",
-      "url": "https://finix.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "lithic-homepage",
-      "company": "Lithic",
-      "companySlug": "lithic",
-      "targetId": "lithic",
-      "pageType": "homepage",
-      "url": "https://www.lithic.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "lithic-pricing",
-      "company": "Lithic",
-      "companySlug": "lithic",
-      "targetId": "lithic",
-      "pageType": "pricing",
-      "url": "https://www.lithic.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "lithic-docs",
-      "company": "Lithic",
-      "companySlug": "lithic",
-      "targetId": "lithic",
-      "pageType": "docs",
-      "url": "https://docs.lithic.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "dwolla-homepage",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "homepage",
-      "url": "https://www.dwolla.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "dwolla-pricing",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "pricing",
-      "url": "https://www.dwolla.com/pricing/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "dwolla-docs",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "docs",
-      "url": "https://developers.dwolla.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    },
-    {
-      "id": "dwolla-jobs",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "jobs",
-      "url": "https://www.dwolla.com/company/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "recommendation": "No action needed yet.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
-    }
-  ],
+  "topChanges": [],
+  "noise": [],
   "signals": [
     {
       "id": "stripe-homepage",
@@ -651,17 +17,27 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
+      "category": "positioning",
+      "score": 65,
+      "summary": "Initial baseline captured for Stripe homepage.",
+      "added": [
+        "Financial infrastructure to grow your revenue. Accept payments, offer financial services, and implement custom revenue models—from your first transaction to your billionth.",
+        "Flexible solutions for every business model.",
+        "The backbone of global commerce",
+        "Powering businesses of all sizes.",
+        "Reliable, extensible infrastructure for every stack.",
+        "What’s happening"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Stripe. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Stripe — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "stripe-pricing",
@@ -670,16 +46,26 @@
       "targetId": "stripe",
       "pageType": "pricing",
       "url": "https://stripe.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Stripe pricing.",
+      "added": [
+        "Stripe logo",
+        "Payments",
+        "Revenue",
+        "Money Management",
+        "Platforms and marketplaces",
+        "More"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Stripe. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Stripe — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "stripe-docs",
@@ -688,17 +74,27 @@
       "targetId": "stripe",
       "pageType": "docs",
       "url": "https://docs.stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Stripe docs.",
+      "added": [
+        "Documentation",
+        "Payments",
+        "Revenue",
+        "Developers",
+        "Try it out",
+        "Browse by product"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Stripe. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Stripe — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "stripe-jobs",
@@ -707,17 +103,27 @@
       "targetId": "stripe",
       "pageType": "jobs",
       "url": "https://stripe.com/jobs/search",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Stripe jobs.",
+      "added": [
+        "Stripe logo Jobs",
+        "Jobs",
+        "Expand economic access across the globe",
+        "Products & pricing",
+        "Solutions",
+        "Integrations & custom solutions"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Stripe. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Stripe — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "adyen-homepage",
@@ -726,17 +132,27 @@
       "targetId": "adyen",
       "pageType": "homepage",
       "url": "https://www.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen homepage monitored successfully",
-      "added": [],
+      "category": "enterprise",
+      "score": 65,
+      "summary": "Initial baseline captured for Adyen homepage.",
+      "added": [
+        "Fintech you can bank on",
+        "Run your business with confidence. Adyen delivers the control, reliability, and expertise global enterprises depend on.",
+        "Control every aspect of your money. Offer financial products to your customers. All from the same, centralized stack.",
+        "Move money across your entire business",
+        "Launch payments and financial products under your brand",
+        "Different industries. One standard. Businesses across sectors trust Adyen to keep money moving."
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Adyen. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Adyen — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
-        "positioning"
+        "enterprise"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "adyen-pricing",
@@ -745,16 +161,26 @@
       "targetId": "adyen",
       "pageType": "pricing",
       "url": "https://www.adyen.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Adyen pricing.",
+      "added": [
+        "Pricing",
+        "Frequently asked questions",
+        "Any questions?",
+        "Cookie Policy",
+        "Cookie Preference Center",
+        "What is interchange++?"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Adyen. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Adyen — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "adyen-docs",
@@ -763,17 +189,27 @@
       "targetId": "adyen",
       "pageType": "docs",
       "url": "https://docs.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Adyen docs.",
+      "added": [
+        "Welcome to Adyen docs",
+        "Discover our developer resources",
+        "Join our Dev Community",
+        "Cookie Policy",
+        "Cookie Preference Center",
+        "Manage Consent Preferences"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Adyen. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Adyen — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "adyen-jobs",
@@ -782,17 +218,27 @@
       "targetId": "adyen",
       "pageType": "jobs",
       "url": "https://careers.adyen.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Adyen jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Adyen jobs.",
+      "added": [
+        "Ambitious? So are we.",
+        "Infinite ambitions. One financial technology platform.",
+        "Career types",
+        "Tech",
+        "Commercial",
+        "Product"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Adyen. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Adyen — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "checkout-homepage",
@@ -801,17 +247,27 @@
       "targetId": "checkout",
       "pageType": "homepage",
       "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
+      "category": "positioning",
+      "score": 65,
+      "summary": "Initial baseline captured for Checkout.com homepage.",
+      "added": [
+        "where",
+        "the world",
+        "checks out",
+        "Built for performance. Modular by design.",
+        "INTELLIGENTACCEPTANCE",
+        "Checkout.com named a Leader by Forrester"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Checkout.com. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Checkout.com — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "checkout-pricing",
@@ -820,16 +276,26 @@
       "targetId": "checkout",
       "pageType": "pricing",
       "url": "https://www.checkout.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Checkout.com pricing.",
+      "added": [
+        "Pricing that works for you",
+        "Pricing structures",
+        "We work with companies all over the world",
+        "Unbeatable benefits",
+        "Refreshingly transparent pricing",
+        "Empowering forward-thinking companies from startups to global superbrands."
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Checkout.com. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Checkout.com — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "checkout-docs",
@@ -838,17 +304,27 @@
       "targetId": "checkout",
       "pageType": "docs",
       "url": "https://www.checkout.com/docs",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Checkout.com docs.",
+      "added": [
+        "Build your integration and start accepting payments online",
+        "Payments",
+        "Intelligent Acceptance",
+        "Issuing",
+        "Checkout Business Account",
+        "Cookies and use of our website"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Checkout.com. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Checkout.com — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "checkout-jobs",
@@ -857,17 +333,27 @@
       "targetId": "checkout",
       "pageType": "jobs",
       "url": "https://www.checkout.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Checkout.com jobs.",
+      "added": [
+        "Think Big. Move Fast. Own it.",
+        "about us",
+        "Global Impact",
+        "\"We hire people who think big, move fast, and take ownership. You’ll be trusted early, challenged often, and supported by diverse, high-performing teams across the world.\"",
+        "LIFE AT CHECKOUT",
+        "START YOUR JOURNEY"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Checkout.com. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Checkout.com — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "primer-homepage",
@@ -876,17 +362,27 @@
       "targetId": "primer",
       "pageType": "homepage",
       "url": "https://primer.io/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer homepage monitored successfully",
-      "added": [],
+      "category": "positioning",
+      "score": 65,
+      "summary": "Initial baseline captured for Primer homepage.",
+      "added": [
+        "Customize your cookie preferences",
+        "Control every transactionOwn every outcome",
+        "Proven. Trusted. Built for Scale.",
+        "Businesses only move as fast as their money.But today, money moves in silos.",
+        "One source of truth for every transaction",
+        "Built for ambitious businesses of all sizes, anywhere"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Primer. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Primer — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "primer-pricing",
@@ -895,16 +391,26 @@
       "targetId": "primer",
       "pageType": "pricing",
       "url": "https://primer.io/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Primer pricing.",
+      "added": [
+        "Customize your cookie preferences",
+        "Page not found.",
+        "Accept all",
+        "Reject non-essential",
+        "Preferences",
+        "Provided by Silktide"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Primer. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Primer — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "primer-docs",
@@ -913,17 +419,27 @@
       "targetId": "primer",
       "pageType": "docs",
       "url": "https://primer.io/docs",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Primer docs.",
+      "added": [
+        "Customize your cookie preferences",
+        "Everything you need to build with Primer",
+        "Get Started",
+        "Connections",
+        "Changelogs",
+        "API Reference"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Primer. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Primer — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "primer-jobs",
@@ -932,17 +448,27 @@
       "targetId": "primer",
       "pageType": "jobs",
       "url": "https://primer.io/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Primer jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Primer jobs.",
+      "added": [
+        "Customize your cookie preferences",
+        "Unify the payments landscapewithArshiyaBoyiJulianaDanLeoClaraGan WeiHarrietIulianJasminePrimer",
+        "What's in it for you?",
+        "With love from our team",
+        "Our values",
+        "Women at Primer"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Primer. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Primer — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "finix-homepage",
@@ -951,17 +477,27 @@
       "targetId": "finix",
       "pageType": "homepage",
       "url": "https://finix.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix homepage monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Finix homepage.",
+      "added": [
+        "Payments built to scale with your business",
+        "One integration, hundreds of configuration options",
+        "Access better payments operations tools",
+        "Work smarter.",
+        "Move faster.",
+        "Optimize your payments revenue & margins"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Finix. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Finix — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
-        "positioning"
+        "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "finix-pricing",
@@ -970,16 +506,26 @@
       "targetId": "finix",
       "pageType": "pricing",
       "url": "https://finix.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Finix pricing.",
+      "added": [
+        "Don’t overpay for payments",
+        "Pricing Options",
+        "Contact Sales",
+        "Power Payments for Your Business—Talk to Our Experts Today",
+        "Company",
+        "Resources"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Finix. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Finix — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "finix-docs",
@@ -988,17 +534,27 @@
       "targetId": "finix",
       "pageType": "docs",
       "url": "https://docs.finix.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix docs monitored successfully",
-      "added": [],
+      "category": "positioning",
+      "score": 65,
+      "summary": "Initial baseline captured for Finix docs.",
+      "added": [
+        "Welcome to Finix DocsCopyCopy for LLMCopy page as Markdown for LLMsView as MarkdownOpen this page as MarkdownOpen in ChatGPTGet insights from ChatGPTOpen in ClaudeGet insights from ClaudeConnect to CursorInstall MCP server on CursorConnect to VS CodeInstall MCP server on VS Code",
+        "Accept Payments",
+        "Onboard Sellers",
+        "Payouts",
+        "Need help?",
+        "Send Payment Links"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Finix. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Finix — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
-        "product"
+        "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "finix-jobs",
@@ -1007,17 +563,27 @@
       "targetId": "finix",
       "pageType": "jobs",
       "url": "https://finix.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Finix jobs.",
+      "added": [
+        "Careers at Finix",
+        "Top ranked in the payments industry",
+        "Who We Are",
+        "How we work",
+        "Why I love Finix.",
+        "We invest in our people."
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Finix. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Finix — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1027,22 +593,26 @@
       "pageType": "homepage",
       "url": "https://www.rapyd.net/",
       "category": "positioning",
-      "score": 81,
-      "summary": "Cookie Settings • Partners • Global Cookie Settings Partners Global Your Privacy",
+      "score": 65,
+      "summary": "Initial baseline captured for Rapyd homepage.",
       "added": [
+        "The Fintech Platform For Card Acquiring Global Payouts Every Business",
+        "EXPERTISE.ACROSS INDUSTRIESWORLDWIDE.",
+        "LET'S GET REAL",
         "Cookie Settings",
-        "Partners"
+        "1 PAYMENT SOLUTION. 0 screaming.",
+        "B2B PAYMENTS"
       ],
-      "removed": [
-        "Global",
-        "Your Privacy"
-      ],
-      "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
+      "removed": [],
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Rapyd. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Rapyd — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1052,23 +622,25 @@
       "pageType": "pricing",
       "url": "https://www.rapyd.net/pricing/",
       "category": "pricing",
-      "score": 100,
-      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details Global Reject All Accept",
+      "score": 65,
+      "summary": "Initial baseline captured for Rapyd pricing.",
       "added": [
-        "Decline Optional Cookies",
-        "Accept All Cookies",
-        "Cookies Details"
+        "SORRY, THIS PAGE COULD NOT BE FOUND.",
+        "Cookie Settings",
+        "Partners",
+        "Products",
+        "Icelandic",
+        "Industries"
       ],
-      "removed": [
-        "Global",
-        "Reject All",
-        "Accept"
-      ],
-      "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "removed": [],
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Rapyd. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Rapyd — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "rapyd-docs",
@@ -1078,24 +650,26 @@
       "pageType": "docs",
       "url": "https://docs.rapyd.net/",
       "category": "product",
-      "score": 100,
-      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details‎ Global Reject All Accept",
+      "score": 65,
+      "summary": "Initial baseline captured for Rapyd docs.",
       "added": [
-        "Decline Optional Cookies",
-        "Accept All Cookies",
-        "Cookies Details‎"
+        "Documentation",
+        "Search results",
+        "Cookie Settings",
+        "Your Privacy",
+        "Strictly Necessary Cookies",
+        "Functional Cookies"
       ],
-      "removed": [
-        "Global",
-        "Reject All",
-        "Accept"
-      ],
-      "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
+      "removed": [],
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Rapyd. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Rapyd — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1105,22 +679,26 @@
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
       "category": "hiring",
-      "score": 83,
-      "summary": "Cookie Settings • Partners • Global Cookie Settings Partners Global Your Privacy",
+      "score": 65,
+      "summary": "Initial baseline captured for Rapyd jobs.",
       "added": [
-        "Cookie Settings",
-        "Partners"
+        "DREAM JOBS.REAL OPPORTUNITIES.",
+        "BUILD BOLD",
+        "LIBERATE GLOBALCOMMERCE",
+        "Buenos Aires, Argentina (2)",
+        "Hong Kong (1)",
+        "Cape Town, South Africa (2)"
       ],
-      "removed": [
-        "Global",
-        "Your Privacy"
-      ],
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "removed": [],
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Rapyd. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Rapyd — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "lithic-homepage",
@@ -1129,17 +707,27 @@
       "targetId": "lithic",
       "pageType": "homepage",
       "url": "https://www.lithic.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic homepage monitored successfully",
-      "added": [],
+      "category": "positioning",
+      "score": 65,
+      "summary": "Initial baseline captured for Lithic homepage.",
+      "added": [
+        "Rock solid issuing for breakthrough card products",
+        "Reliable and fast at scale",
+        "Customize your offerings",
+        "Stay compliant and in control",
+        "Never second guess settlements",
+        "100+ high growth brands, billions in volume"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Lithic. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Lithic — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "lithic-pricing",
@@ -1148,16 +736,26 @@
       "targetId": "lithic",
       "pageType": "pricing",
       "url": "https://www.lithic.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Lithic pricing.",
+      "added": [
+        "Rock solid issuing for breakthrough card products",
+        "Reliable and fast at scale",
+        "Customize your offerings",
+        "Stay compliant and in control",
+        "Never second guess settlements",
+        "100+ high growth brands, billions in volume"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Lithic. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Lithic — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "lithic-docs",
@@ -1166,17 +764,27 @@
       "targetId": "lithic",
       "pageType": "docs",
       "url": "https://docs.lithic.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Lithic docs.",
+      "added": [
+        "Lithic Developer Documentation",
+        "Welcome",
+        "Getting Started",
+        "Solutions",
+        "Lithic Dashboard",
+        "Developer"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Lithic. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Lithic — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "lithic-jobs",
@@ -1186,21 +794,26 @@
       "pageType": "jobs",
       "url": "https://www.lithic.com/careers",
       "category": "hiring",
-      "score": 73,
-      "summary": "Accounts & Payment HubFlexible ledgering and accounts • Engineering Accounts & Payment HubFlexible ledgering and accounts Engineering",
+      "score": 65,
+      "summary": "Initial baseline captured for Lithic jobs.",
       "added": [
-        "Accounts & Payment HubFlexible ledgering and accounts"
-      ],
-      "removed": [
+        "We’re making payments safer and easier for everyone.",
+        "What we value",
+        "Benefits",
+        "Job openings",
+        "Design",
         "Engineering"
       ],
-      "recommendation": "Watch the role mix at Lithic; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "removed": [],
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Lithic. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Lithic — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
-        "hiring",
-        "talent"
+        "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1209,17 +822,27 @@
       "targetId": "dwolla",
       "pageType": "homepage",
       "url": "https://www.dwolla.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla homepage monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Dwolla homepage.",
+      "added": [
+        "Move money like a fintech—without becoming one.",
+        "One integration for ACH & real-time bank payments",
+        "Built for platforms and enterprises that embed payments into their product.",
+        "Proven at scale.",
+        "One integration. Fewer payment fire drills.",
+        "Payments you can track, explain, and trust."
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Dwolla. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Dwolla — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "homepage",
-        "positioning"
+        "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1228,16 +851,26 @@
       "targetId": "dwolla",
       "pageType": "pricing",
       "url": "https://www.dwolla.com/pricing/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla pricing monitored successfully",
-      "added": [],
+      "category": "pricing",
+      "score": 65,
+      "summary": "Initial baseline captured for Dwolla pricing.",
+      "added": [
+        "Custom pricing built around how you move money.",
+        "Ready to talk through your use case?",
+        "Experience the Benefits of Dwolla’s Solution",
+        "Let's build pricing for your business",
+        "Pricing built for your outcomes",
+        "Transparent, predictable costs"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Dwolla. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Dwolla — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "dwolla-docs",
@@ -1246,17 +879,27 @@
       "targetId": "dwolla",
       "pageType": "docs",
       "url": "https://developers.dwolla.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla docs monitored successfully",
-      "added": [],
+      "category": "product",
+      "score": 65,
+      "summary": "Initial baseline captured for Dwolla docs.",
+      "added": [
+        "The Unified API for Account-to-Account Payments",
+        "Everything you need to build powerful payment experiences",
+        "Account-to-Account Transfers",
+        "Flexible End-user Types",
+        "Open Banking Services",
+        "Webhooks"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Dwolla. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Dwolla — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1265,54 +908,30 @@
       "targetId": "dwolla",
       "pageType": "jobs",
       "url": "https://www.dwolla.com/company/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Dwolla jobs monitored successfully",
-      "added": [],
+      "category": "hiring",
+      "score": 65,
+      "summary": "Initial baseline captured for Dwolla jobs.",
+      "added": [
+        "PAGE NOT FOUND.",
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "Close Cookie Preferences",
+        "Privacy Policy"
+      ],
       "removed": [],
-      "recommendation": "No action needed yet.",
+      "isBaseline": true,
+      "recommendation": "Baseline captured for Dwolla. Future runs will highlight true change instead of initial page state.",
+      "audience": "Internal research use first. Wait for a true change before treating this as a public signal.",
+      "postAngle": "Baseline only for Dwolla — do not post yet. Use this as future comparison fuel.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-04-27T16:14:49.119Z"
+      "capturedAt": "2026-04-28T08:50:00.051Z"
     }
   ],
-  "trends": [
-    {
-      "category": "pricing",
-      "count": 1,
-      "companies": [
-        "Rapyd"
-      ],
-      "averageScore": 100
-    },
-    {
-      "category": "product",
-      "count": 1,
-      "companies": [
-        "Rapyd"
-      ],
-      "averageScore": 100
-    },
-    {
-      "category": "positioning",
-      "count": 1,
-      "companies": [
-        "Rapyd"
-      ],
-      "averageScore": 81
-    },
-    {
-      "category": "hiring",
-      "count": 2,
-      "companies": [
-        "Lithic",
-        "Rapyd"
-      ],
-      "averageScore": 78
-    }
-  ],
+  "trends": [],
   "snapshots": [
     {
       "company": "Stripe",
@@ -1344,7 +963,7 @@
         "Businesses on Stripe generated $1.9T in 2025.",
         "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Stripe",
@@ -1376,7 +995,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Stripe",
@@ -1408,7 +1027,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Stripe",
@@ -1440,7 +1059,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Adyen",
@@ -1472,7 +1091,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Adyen",
@@ -1504,7 +1123,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Adyen",
@@ -1536,7 +1155,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Adyen",
@@ -1568,7 +1187,7 @@
         "Filter Icon",
         "Clear"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Checkout.com",
@@ -1600,7 +1219,7 @@
         "Business expense cards: what are the benefits?",
         "What the Gartner® Market Guide reveals about the future of digital payments"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Checkout.com",
@@ -1632,7 +1251,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Checkout.com",
@@ -1664,7 +1283,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Checkout.com",
@@ -1696,7 +1315,7 @@
         "Isabel Scavetta",
         "Keisi Mançellari"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Primer",
@@ -1728,7 +1347,7 @@
         "Cookie Policy.",
         "We just shipped new features in Q1. See what's new"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Primer",
@@ -1750,7 +1369,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Primer",
@@ -1782,7 +1401,7 @@
         "Documentation",
         "Get StartedYour first stop - everything you need to start building with Primer."
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Primer",
@@ -1814,7 +1433,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Finix",
@@ -1846,7 +1465,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Finix",
@@ -1878,7 +1497,7 @@
         "SaaS Platforms",
         "Marketplaces"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Finix",
@@ -1910,7 +1529,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Finix",
@@ -1942,7 +1561,7 @@
         "Customer Delivery Manager",
         "Technical Recruiter"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Rapyd",
@@ -1974,7 +1593,7 @@
         "Build Bold. Get Rapyd.",
         "Partners"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Rapyd",
@@ -2006,7 +1625,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Rapyd",
@@ -2038,7 +1657,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Rapyd",
@@ -2048,6 +1667,10 @@
         "DREAM JOBS.REAL OPPORTUNITIES.",
         "BUILD BOLD",
         "LIBERATE GLOBALCOMMERCE",
+        "Buenos Aires, Argentina (2)",
+        "Hong Kong (1)",
+        "Cape Town, South Africa (2)",
+        "Chile (2)",
         "Singapore (1)",
         "United Kingdom (2)",
         "Dubai (7)",
@@ -2056,10 +1679,6 @@
         "Mexico (1)",
         "Reykjavík, Iceland (1)",
         "Bogota, Colombia (13)",
-        "Buenos Aires, Argentina (1)",
-        "Hong Kong (1)",
-        "Cape Town, South Africa (2)",
-        "Chile (2)",
         "POWER GLOBALPAYMENTS",
         "DRIVE REALBUSINESS IMPACT",
         "Cookie Settings",
@@ -2070,7 +1689,7 @@
         "Get Ready to Love What You Do",
         "Partners"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Lithic",
@@ -2102,7 +1721,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Lithic",
@@ -2134,7 +1753,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Lithic",
@@ -2166,7 +1785,7 @@
         "Funding",
         "Legal Library"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Lithic",
@@ -2178,6 +1797,7 @@
         "Benefits",
         "Job openings",
         "Design",
+        "Engineering",
         "Partnerships",
         "Product",
         "Technical Services",
@@ -2195,10 +1815,9 @@
         "Get 3% Cash Back",
         "Health Insurance",
         "Family Leave",
-        "Card IssuingFor individuals and businesses",
-        "Accounts & Payment HubFlexible ledgering and accounts"
+        "Card IssuingFor individuals and businesses"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Dwolla",
@@ -2230,7 +1849,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Dwolla",
@@ -2262,7 +1881,7 @@
         "Learn",
         "Privacy Policy"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Dwolla",
@@ -2294,7 +1913,7 @@
         "Search...",
         "NavigationDwolla Developers"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     },
     {
       "company": "Dwolla",
@@ -2326,7 +1945,7 @@
         "Open Banking Services",
         "Tokenization"
       ],
-      "fetchedAt": "2026-04-27T16:14:49.119Z"
+      "fetchedAt": "2026-04-28T08:50:00.051Z"
     }
   ],
   "targetCoverage": [
@@ -2334,56 +1953,56 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     },
     {
       "company": "Adyen",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     },
     {
       "company": "Checkout.com",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     },
     {
       "company": "Primer",
       "category": "payments infrastructure platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     },
     {
       "company": "Finix",
       "category": "payments api infrastructure",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     },
     {
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 100
+      "latestSignalScore": 65
     },
     {
       "company": "Lithic",
       "category": "card issuing api",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 65
     },
     {
       "company": "Dwolla",
       "category": "bank payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 65
     }
   ],
   "weeklyBrief": {
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "headline": "Radar initialized across 8 companies — the baseline is ready, now the next true change will be easier to spot.",
     "bullets": [
-      "Rapyd: Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details Global Reject All Accept",
-      "pricing is the strongest current theme across 1 companies.",
+      "32 monitored pages were captured as first-pass baselines.",
+      "No repeated pattern yet because the current run is mostly baseline setup.",
       "8 targets were monitored across 32 pages."
     ]
   }

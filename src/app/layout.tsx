@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Market Watch",
-  description: "Competitor monitoring dashboard for agent, payments, and community tooling.",
+  title: "market.luciana.digital — agent monetization radar",
+  description: "Market intelligence for agent monetization and payments infrastructure: pricing, positioning, docs, hiring, and release signals.",
 };
 
 export default function RootLayout({

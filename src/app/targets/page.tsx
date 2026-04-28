@@ -12,7 +12,9 @@ export default function TargetsPage() {
           <Badge tone="cyan">Target map</Badge>
           <h1 className="mt-4 text-4xl font-semibold text-white">Tracked companies and surfaces</h1>
           <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-300">
-            V1 covers homepage, pricing, docs/changelog, and V2 extends into hiring + GitHub releases. The dashboard below shows why each company is monitored and how many pages contribute to the signal model.
+            These are not generic competitors. They are the reference set for agent monetization,
+            payments infrastructure, and upmarket product packaging. Each card explains why the
+            company is on the board and how much signal surface it contributes.
           </p>
         </header>
 
