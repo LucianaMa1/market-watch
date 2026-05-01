@@ -1,5 +1,19 @@
 [
   {
+    "generatedAt": "2026-05-01T15:17:48.221Z",
+    "headline": "product signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "product",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Stripe"
+    ],
+    "urgentSignals": 1,
+    "importantSignals": 2
+  },
+  {
     "generatedAt": "2026-04-30T15:57:31.447Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
