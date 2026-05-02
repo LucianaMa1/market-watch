@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-05-02T15:06:38.123Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Rapyd",
+      "Dwolla"
+    ],
+    "urgentSignals": 5,
+    "importantSignals": 9
+  },
+  {
     "generatedAt": "2026-05-01T15:17:48.221Z",
     "headline": "product signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
