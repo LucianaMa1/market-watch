@@ -1,39 +1,13 @@
 {
-  "generatedAt": "2026-05-04T16:16:25.403Z",
+  "generatedAt": "2026-05-04T16:23:45.944Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 2,
+    "importantSignals": 1,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 0
   },
   "topChanges": [
-    {
-      "id": "primer-homepage",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "homepage",
-      "url": "https://primer.io/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Real outcomes.Real impact. • Now live: All your payment costs in one place. Learn more Real outcomes.Real impact. Now live: All your payment costs in one place. Learn more",
-      "added": [
-        "Real outcomes.Real impact."
-      ],
-      "removed": [
-        "Now live: All your payment costs in one place. Learn more"
-      ],
-      "isBaseline": false,
-      "recommendation": "Compare Primer's new messaging against peers to see if a broader category shift is underway.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Primer changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
-    },
     {
       "id": "rapyd-homepage",
       "company": "Rapyd",
@@ -43,12 +17,12 @@
       "url": "https://www.rapyd.net/",
       "category": "positioning",
       "score": 71,
-      "summary": "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business • The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business",
+      "summary": "The Fintech Platform For Every Business • The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business",
       "added": [
-        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
+        "The Fintech Platform For Every Business"
       ],
       "removed": [
-        "The Fintech Platform For Every Business"
+        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
       ],
       "isBaseline": false,
       "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
@@ -58,7 +32,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     }
   ],
   "noise": [
@@ -82,7 +56,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-pricing",
@@ -103,7 +77,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-docs",
@@ -125,7 +99,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-jobs",
@@ -147,7 +121,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-homepage",
@@ -169,7 +143,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-pricing",
@@ -190,7 +164,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-docs",
@@ -212,7 +186,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-jobs",
@@ -234,7 +208,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-homepage",
@@ -256,7 +230,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-pricing",
@@ -277,7 +251,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-docs",
@@ -299,7 +273,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-jobs",
@@ -321,7 +295,29 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
+    },
+    {
+      "id": "primer-homepage",
+      "company": "Primer",
+      "companySlug": "primer",
+      "targetId": "primer",
+      "pageType": "homepage",
+      "url": "https://primer.io/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Primer homepage monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Primer changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "tags": [
+        "homepage",
+        "positioning"
+      ],
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-pricing",
@@ -342,7 +338,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-docs",
@@ -364,7 +360,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-jobs",
@@ -386,7 +382,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-homepage",
@@ -408,7 +404,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-pricing",
@@ -429,7 +425,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-docs",
@@ -451,7 +447,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-jobs",
@@ -473,7 +469,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-pricing",
@@ -494,7 +490,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-docs",
@@ -516,7 +512,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-jobs",
@@ -538,7 +534,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-homepage",
@@ -560,7 +556,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-pricing",
@@ -581,7 +577,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-docs",
@@ -603,7 +599,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-jobs",
@@ -625,7 +621,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-homepage",
@@ -647,7 +643,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-pricing",
@@ -668,7 +664,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-docs",
@@ -690,7 +686,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-jobs",
@@ -712,7 +708,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     }
   ],
   "signals": [
@@ -736,7 +732,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-pricing",
@@ -757,7 +753,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-docs",
@@ -779,7 +775,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "stripe-jobs",
@@ -801,7 +797,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-homepage",
@@ -823,7 +819,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-pricing",
@@ -844,7 +840,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-docs",
@@ -866,7 +862,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "adyen-jobs",
@@ -888,7 +884,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-homepage",
@@ -910,7 +906,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-pricing",
@@ -931,7 +927,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-docs",
@@ -953,7 +949,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "checkout-jobs",
@@ -975,7 +971,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-homepage",
@@ -984,24 +980,20 @@
       "targetId": "primer",
       "pageType": "homepage",
       "url": "https://primer.io/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Real outcomes.Real impact. • Now live: All your payment costs in one place. Learn more Real outcomes.Real impact. Now live: All your payment costs in one place. Learn more",
-      "added": [
-        "Real outcomes.Real impact."
-      ],
-      "removed": [
-        "Now live: All your payment costs in one place. Learn more"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Primer homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Primer's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Primer changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-pricing",
@@ -1022,7 +1014,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-docs",
@@ -1044,7 +1036,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "primer-jobs",
@@ -1066,7 +1058,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-homepage",
@@ -1088,7 +1080,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-pricing",
@@ -1109,7 +1101,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-docs",
@@ -1131,7 +1123,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "finix-jobs",
@@ -1153,7 +1145,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1164,12 +1156,12 @@
       "url": "https://www.rapyd.net/",
       "category": "positioning",
       "score": 71,
-      "summary": "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business • The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business",
+      "summary": "The Fintech Platform For Every Business • The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business",
       "added": [
-        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
+        "The Fintech Platform For Every Business"
       ],
       "removed": [
-        "The Fintech Platform For Every Business"
+        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
       ],
       "isBaseline": false,
       "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
@@ -1179,7 +1171,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1200,7 +1192,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-docs",
@@ -1222,7 +1214,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1244,7 +1236,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-homepage",
@@ -1266,7 +1258,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-pricing",
@@ -1287,7 +1279,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-docs",
@@ -1309,7 +1301,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "lithic-jobs",
@@ -1331,7 +1323,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1353,7 +1345,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1374,7 +1366,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-docs",
@@ -1396,7 +1388,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1418,15 +1410,14 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-04T16:16:25.403Z"
+      "capturedAt": "2026-05-04T16:23:45.944Z"
     }
   ],
   "trends": [
     {
       "category": "positioning",
-      "count": 2,
+      "count": 1,
       "companies": [
-        "Primer",
         "Rapyd"
       ],
       "averageScore": 71
@@ -1463,7 +1454,7 @@
         "Businesses on Stripe generated $1.9T in 2025.",
         "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Stripe",
@@ -1495,7 +1486,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Stripe",
@@ -1527,7 +1518,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Stripe",
@@ -1559,7 +1550,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Adyen",
@@ -1591,7 +1582,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Adyen",
@@ -1623,7 +1614,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Adyen",
@@ -1655,7 +1646,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Adyen",
@@ -1687,7 +1678,7 @@
         "Filter Icon",
         "Clear"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Checkout.com",
@@ -1719,7 +1710,7 @@
         "How to issue an effective payments RFP",
         "Business expense cards: what are the benefits?"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Checkout.com",
@@ -1751,7 +1742,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Checkout.com",
@@ -1783,7 +1774,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Checkout.com",
@@ -1815,7 +1806,7 @@
         "Isabel Scavetta",
         "Keisi Mançellari"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Primer",
@@ -1847,7 +1838,7 @@
         "Provided by Silktide",
         "Cookie Policy."
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Primer",
@@ -1869,7 +1860,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Primer",
@@ -1901,7 +1892,7 @@
         "Documentation",
         "Get StartedYour first stop - everything you need to start building with Primer."
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Primer",
@@ -1933,7 +1924,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Finix",
@@ -1965,7 +1956,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Finix",
@@ -1997,7 +1988,7 @@
         "SaaS Platforms",
         "Marketplaces"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Finix",
@@ -2029,7 +2020,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Finix",
@@ -2061,14 +2052,14 @@
         "Compliance Operations Specialist",
         "Customer Delivery Manager"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Rapyd",
       "pageType": "homepage",
       "url": "https://www.rapyd.net/",
       "lines": [
-        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business",
+        "The Fintech Platform For Every Business",
         "EXPERTISE.ACROSS INDUSTRIESWORLDWIDE.",
         "LET'S GET REAL",
         "Global",
@@ -2093,7 +2084,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Rapyd",
@@ -2125,7 +2116,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Rapyd",
@@ -2157,7 +2148,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Rapyd",
@@ -2189,7 +2180,7 @@
         "Create What’s Next At Rapyd",
         "Get Ready to Love What You Do"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Lithic",
@@ -2221,7 +2212,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Lithic",
@@ -2253,7 +2244,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Lithic",
@@ -2285,7 +2276,7 @@
         "Funding",
         "Legal Library"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Lithic",
@@ -2317,7 +2308,7 @@
         "Family Leave",
         "Card IssuingFor individuals and businesses"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Dwolla",
@@ -2349,7 +2340,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Dwolla",
@@ -2381,7 +2372,7 @@
         "Learn",
         "Privacy Policy"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Dwolla",
@@ -2413,7 +2404,7 @@
         "Ask AI or search...⌘K",
         "Ask AI"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     },
     {
       "company": "Dwolla",
@@ -2445,7 +2436,7 @@
         "Open Banking Services",
         "Tokenization"
       ],
-      "fetchedAt": "2026-05-04T16:16:25.403Z"
+      "fetchedAt": "2026-05-04T16:23:45.944Z"
     }
   ],
   "targetCoverage": [
@@ -2471,7 +2462,7 @@
       "company": "Primer",
       "category": "payments infrastructure platform",
       "pagesTracked": 4,
-      "latestSignalScore": 71
+      "latestSignalScore": 24
     },
     {
       "company": "Finix",
@@ -2499,10 +2490,10 @@
     }
   ],
   "weeklyBrief": {
-    "headline": "positioning signals are leading this cycle, with Primer setting the pace.",
+    "headline": "positioning signals are leading this cycle, with Rapyd setting the pace.",
     "bullets": [
-      "Primer: Real outcomes.Real impact. • Now live: All your payment costs in one place. Learn more Real outcomes.Real impact. Now live: All your payment costs in one place. Learn more",
-      "positioning is the strongest current theme across 2 companies.",
+      "Rapyd: The Fintech Platform For Every Business • The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business",
+      "positioning is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }
