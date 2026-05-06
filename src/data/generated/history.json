@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-05-06T16:12:54.281Z",
+    "headline": "hiring signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Finix",
+      "Stripe"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 4
+  },
+  {
     "generatedAt": "2026-05-04T16:23:45.944Z",
     "headline": "positioning signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
