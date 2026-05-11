@@ -1,5 +1,19 @@
 [
   {
+    "generatedAt": "2026-05-11T16:48:43.832Z",
+    "headline": "hiring signals are leading this cycle, with Lithic setting the pace.",
+    "topCategories": [
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Lithic",
+      "Checkout.com"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 2
+  },
+  {
     "generatedAt": "2026-05-10T15:15:32.699Z",
     "headline": "positioning signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -191,13 +205,5 @@
     ],
     "urgentSignals": 0,
     "importantSignals": 3
-  },
-  {
-    "generatedAt": "2026-04-28T08:50:00.051Z",
-    "headline": "Radar initialized across 8 companies — the baseline is ready, now the next true change will be easier to spot.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]

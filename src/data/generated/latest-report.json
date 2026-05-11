@@ -1,38 +1,64 @@
 {
-  "generatedAt": "2026-05-10T15:15:32.699Z",
+  "generatedAt": "2026-05-11T16:48:43.832Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 1,
+    "importantSignals": 2,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 0
   },
   "topChanges": [
     {
-      "id": "rapyd-homepage",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "homepage",
-      "url": "https://www.rapyd.net/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business • The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business",
+      "id": "lithic-jobs",
+      "company": "Lithic",
+      "companySlug": "lithic",
+      "targetId": "lithic",
+      "pageType": "jobs",
+      "url": "https://www.lithic.com/careers",
+      "category": "hiring",
+      "score": 73,
+      "summary": "Program ManagementReduce operational complexity • Partnerships Program ManagementReduce operational complexity Partnerships",
       "added": [
-        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
+        "Program ManagementReduce operational complexity"
       ],
       "removed": [
-        "The Fintech Platform For Every Business"
+        "Partnerships"
       ],
       "isBaseline": false,
-      "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "Watch the role mix at Lithic; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Lithic's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-05-11T16:48:43.832Z"
+    },
+    {
+      "id": "checkout-homepage",
+      "company": "Checkout.com",
+      "companySlug": "checkout-com",
+      "targetId": "checkout",
+      "pageType": "homepage",
+      "url": "https://www.checkout.com/",
+      "category": "positioning",
+      "score": 71,
+      "summary": "My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt • Business expense cards: what are the benefits? My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt Business expense cards: what are the benefits?",
+      "added": [
+        "My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt"
+      ],
+      "removed": [
+        "Business expense cards: what are the benefits?"
+      ],
+      "isBaseline": false,
+      "recommendation": "Compare Checkout.com's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Rapyd changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     }
   ],
   "noise": [
@@ -56,7 +82,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-pricing",
@@ -77,7 +103,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-docs",
@@ -99,7 +125,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-jobs",
@@ -121,7 +147,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-homepage",
@@ -143,7 +169,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-pricing",
@@ -164,7 +190,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-docs",
@@ -186,7 +212,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-jobs",
@@ -208,29 +234,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
-    },
-    {
-      "id": "checkout-homepage",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "homepage",
-      "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-pricing",
@@ -251,7 +255,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-docs",
@@ -273,7 +277,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-jobs",
@@ -295,7 +299,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-homepage",
@@ -317,7 +321,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-pricing",
@@ -338,7 +342,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-docs",
@@ -360,7 +364,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-jobs",
@@ -382,7 +386,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-homepage",
@@ -404,7 +408,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-pricing",
@@ -425,7 +429,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-docs",
@@ -447,7 +451,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-jobs",
@@ -469,7 +473,29 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
+    },
+    {
+      "id": "rapyd-homepage",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "homepage",
+      "url": "https://www.rapyd.net/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd homepage monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Rapyd changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "tags": [
+        "homepage",
+        "positioning"
+      ],
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-pricing",
@@ -490,7 +516,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-docs",
@@ -512,7 +538,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-jobs",
@@ -534,7 +560,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-homepage",
@@ -556,7 +582,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-pricing",
@@ -577,7 +603,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-docs",
@@ -599,29 +625,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
-    },
-    {
-      "id": "lithic-jobs",
-      "company": "Lithic",
-      "companySlug": "lithic",
-      "targetId": "lithic",
-      "pageType": "jobs",
-      "url": "https://www.lithic.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Lithic's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-homepage",
@@ -643,7 +647,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-pricing",
@@ -664,7 +668,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-docs",
@@ -686,7 +690,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-jobs",
@@ -708,7 +712,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     }
   ],
   "signals": [
@@ -732,7 +736,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-pricing",
@@ -753,7 +757,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-docs",
@@ -775,7 +779,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "stripe-jobs",
@@ -797,7 +801,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-homepage",
@@ -819,7 +823,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-pricing",
@@ -840,7 +844,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-docs",
@@ -862,7 +866,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "adyen-jobs",
@@ -884,7 +888,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-homepage",
@@ -893,20 +897,24 @@
       "targetId": "checkout",
       "pageType": "homepage",
       "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt • Business expense cards: what are the benefits? My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt Business expense cards: what are the benefits?",
+      "added": [
+        "My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt"
+      ],
+      "removed": [
+        "Business expense cards: what are the benefits?"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Checkout.com's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-pricing",
@@ -927,7 +935,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-docs",
@@ -949,7 +957,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "checkout-jobs",
@@ -971,7 +979,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-homepage",
@@ -993,7 +1001,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-pricing",
@@ -1014,7 +1022,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-docs",
@@ -1036,7 +1044,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "primer-jobs",
@@ -1058,7 +1066,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-homepage",
@@ -1080,7 +1088,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-pricing",
@@ -1101,7 +1109,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-docs",
@@ -1123,7 +1131,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "finix-jobs",
@@ -1145,7 +1153,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1154,24 +1162,20 @@
       "targetId": "rapyd",
       "pageType": "homepage",
       "url": "https://www.rapyd.net/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business • The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business",
-      "added": [
-        "The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business"
-      ],
-      "removed": [
-        "The Fintech Platform For Every Business"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Rapyd changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1192,7 +1196,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-docs",
@@ -1214,7 +1218,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1236,7 +1240,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-homepage",
@@ -1258,7 +1262,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-pricing",
@@ -1279,7 +1283,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-docs",
@@ -1301,7 +1305,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "lithic-jobs",
@@ -1310,20 +1314,24 @@
       "targetId": "lithic",
       "pageType": "jobs",
       "url": "https://www.lithic.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Lithic jobs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "hiring",
+      "score": 73,
+      "summary": "Program ManagementReduce operational complexity • Partnerships Program ManagementReduce operational complexity Partnerships",
+      "added": [
+        "Program ManagementReduce operational complexity"
+      ],
+      "removed": [
+        "Partnerships"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Watch the role mix at Lithic; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Lithic's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1345,7 +1353,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1366,7 +1374,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-docs",
@@ -1388,7 +1396,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1410,15 +1418,23 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-10T15:15:32.699Z"
+      "capturedAt": "2026-05-11T16:48:43.832Z"
     }
   ],
   "trends": [
     {
+      "category": "hiring",
+      "count": 1,
+      "companies": [
+        "Lithic"
+      ],
+      "averageScore": 73
+    },
+    {
       "category": "positioning",
       "count": 1,
       "companies": [
-        "Rapyd"
+        "Checkout.com"
       ],
       "averageScore": 71
     }
@@ -1454,7 +1470,7 @@
         "Choose an integration path.",
         "Businesses on Stripe generated $1.9T in 2025."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Stripe",
@@ -1486,7 +1502,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Stripe",
@@ -1518,7 +1534,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Stripe",
@@ -1550,7 +1566,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Adyen",
@@ -1582,7 +1598,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Adyen",
@@ -1614,7 +1630,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Adyen",
@@ -1646,7 +1662,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Adyen",
@@ -1678,7 +1694,7 @@
         "Filter Icon",
         "Clear"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Checkout.com",
@@ -1700,6 +1716,7 @@
         "Frequently asked questions",
         "Cookies and use of our website",
         "Cookies Settings",
+        "My Path in Payments: Sarah Boehmer, Senior Director, Payments & Chargebacks Strategy at justt",
         "Issuing meets acquiring: Better together on a single platform",
         "OpenAI’s agentic commerce shift: What it means for merchants",
         "MRC collaboration: Thriving starts with education",
@@ -1707,10 +1724,9 @@
         "How Checkout.com helps enterprises improve money movement efficiency with Visa Direct",
         "Payment tracking update: What is Mastercard TLID?",
         "How we build at Checkout.com",
-        "How to issue an effective payments RFP",
-        "Business expense cards: what are the benefits?"
+        "How to issue an effective payments RFP"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Checkout.com",
@@ -1742,7 +1758,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Checkout.com",
@@ -1774,7 +1790,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Checkout.com",
@@ -1806,7 +1822,7 @@
         "Keisi Mançellari",
         "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Primer",
@@ -1838,7 +1854,7 @@
         "Provided by Silktide",
         "Cookie Policy."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Primer",
@@ -1860,7 +1876,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Primer",
@@ -1892,7 +1908,7 @@
         "Documentation",
         "Get StartedYour first stop - everything you need to start building with Primer."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Primer",
@@ -1924,7 +1940,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Finix",
@@ -1956,7 +1972,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Finix",
@@ -1988,7 +2004,7 @@
         "SaaS Platforms",
         "Marketplaces"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Finix",
@@ -2020,7 +2036,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Finix",
@@ -2052,7 +2068,7 @@
         "Administrative Coordinator, Product Development",
         "Customer Delivery Manager"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Rapyd",
@@ -2084,7 +2100,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Rapyd",
@@ -2116,7 +2132,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Rapyd",
@@ -2148,7 +2164,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Rapyd",
@@ -2180,7 +2196,7 @@
         "Create What’s Next At Rapyd",
         "Get Ready to Love What You Do"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Lithic",
@@ -2212,7 +2228,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Lithic",
@@ -2244,7 +2260,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Lithic",
@@ -2276,7 +2292,7 @@
         "Funding",
         "Legal Library"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Lithic",
@@ -2289,7 +2305,6 @@
         "Job openings",
         "Design",
         "Engineering",
-        "Partnerships",
         "Product",
         "Department",
         "Customer Centricity",
@@ -2306,9 +2321,10 @@
         "Health Insurance",
         "Family Leave",
         "Card IssuingFor individuals and businesses",
-        "Accounts & Payment HubFlexible ledgering and accounts"
+        "Accounts & Payment HubFlexible ledgering and accounts",
+        "Program ManagementReduce operational complexity"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Dwolla",
@@ -2340,7 +2356,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Dwolla",
@@ -2372,7 +2388,7 @@
         "Privacy Policy",
         "Skip to content"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Dwolla",
@@ -2404,7 +2420,7 @@
         "Ask AI",
         "Search..."
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     },
     {
       "company": "Dwolla",
@@ -2436,7 +2452,7 @@
         "Tokenization",
         "Bank Verification"
       ],
-      "fetchedAt": "2026-05-10T15:15:32.699Z"
+      "fetchedAt": "2026-05-11T16:48:43.832Z"
     }
   ],
   "targetCoverage": [
@@ -2456,7 +2472,7 @@
       "company": "Checkout.com",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 71
     },
     {
       "company": "Primer",
@@ -2474,13 +2490,13 @@
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 71
+      "latestSignalScore": 24
     },
     {
       "company": "Lithic",
       "category": "card issuing api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 73
     },
     {
       "company": "Dwolla",
@@ -2490,10 +2506,10 @@
     }
   ],
   "weeklyBrief": {
-    "headline": "positioning signals are leading this cycle, with Rapyd setting the pace.",
+    "headline": "hiring signals are leading this cycle, with Lithic setting the pace.",
     "bullets": [
-      "Rapyd: The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business • The Fintech Platform For Every Business The Fintech Platform For Every Business Card Acquiring Global Payouts Every Business The Fintech Platform For Every Business",
-      "positioning is the strongest current theme across 1 companies.",
+      "Lithic: Program ManagementReduce operational complexity • Partnerships Program ManagementReduce operational complexity Partnerships",
+      "hiring is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }
