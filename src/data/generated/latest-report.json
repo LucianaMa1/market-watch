@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T15:17:23.835Z",
+  "generatedAt": "2026-05-17T15:18:36.394Z",
   "summary": {
     "totalSignals": 32,
     "importantSignals": 3,
@@ -17,14 +17,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Close this dialog • Skip to content • Accept Close this dialog Skip to content Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog Skip to content",
       "added": [
-        "Close this dialog",
-        "Skip to content"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "Skip to content"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -33,7 +33,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-docs",
@@ -44,14 +44,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Close this dialog • NavigationDwolla Developers • Accept Close this dialog NavigationDwolla Developers Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog NavigationDwolla Developers",
       "added": [
-        "Close this dialog",
-        "NavigationDwolla Developers"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "NavigationDwolla Developers"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -61,7 +61,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-jobs",
@@ -72,14 +72,14 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 83,
-      "summary": "Close this dialog • Bank Verification • Accept Close this dialog Bank Verification Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog Bank Verification",
       "added": [
-        "Close this dialog",
-        "Bank Verification"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "Bank Verification"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -89,7 +89,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     }
   ],
   "noise": [
@@ -113,7 +113,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-pricing",
@@ -134,7 +134,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-docs",
@@ -156,7 +156,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-jobs",
@@ -178,7 +178,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-homepage",
@@ -200,7 +200,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-pricing",
@@ -221,7 +221,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-docs",
@@ -243,7 +243,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-jobs",
@@ -265,7 +265,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-homepage",
@@ -287,7 +287,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-pricing",
@@ -308,7 +308,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-docs",
@@ -330,7 +330,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-jobs",
@@ -352,7 +352,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-homepage",
@@ -374,7 +374,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-pricing",
@@ -395,7 +395,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-docs",
@@ -417,7 +417,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-jobs",
@@ -439,7 +439,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-homepage",
@@ -461,7 +461,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-pricing",
@@ -482,7 +482,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-docs",
@@ -504,7 +504,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-jobs",
@@ -526,7 +526,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-homepage",
@@ -548,7 +548,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-pricing",
@@ -569,7 +569,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-docs",
@@ -591,7 +591,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-jobs",
@@ -613,7 +613,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-homepage",
@@ -635,7 +635,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-pricing",
@@ -656,7 +656,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-docs",
@@ -678,7 +678,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-jobs",
@@ -700,7 +700,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-homepage",
@@ -722,7 +722,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     }
   ],
   "signals": [
@@ -746,7 +746,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-pricing",
@@ -767,7 +767,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-docs",
@@ -789,7 +789,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "stripe-jobs",
@@ -811,7 +811,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-homepage",
@@ -833,7 +833,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-pricing",
@@ -854,7 +854,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-docs",
@@ -876,7 +876,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "adyen-jobs",
@@ -898,7 +898,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-homepage",
@@ -920,7 +920,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-pricing",
@@ -941,7 +941,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-docs",
@@ -963,7 +963,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "checkout-jobs",
@@ -985,7 +985,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-homepage",
@@ -1007,7 +1007,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-pricing",
@@ -1028,7 +1028,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-docs",
@@ -1050,7 +1050,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "primer-jobs",
@@ -1072,7 +1072,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-homepage",
@@ -1094,7 +1094,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-pricing",
@@ -1115,7 +1115,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-docs",
@@ -1137,7 +1137,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "finix-jobs",
@@ -1159,7 +1159,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1181,7 +1181,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1202,7 +1202,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-docs",
@@ -1224,7 +1224,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1246,7 +1246,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-homepage",
@@ -1268,7 +1268,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-pricing",
@@ -1289,7 +1289,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-docs",
@@ -1311,7 +1311,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "lithic-jobs",
@@ -1333,7 +1333,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1355,7 +1355,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1366,14 +1366,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Close this dialog • Skip to content • Accept Close this dialog Skip to content Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog Skip to content",
       "added": [
-        "Close this dialog",
-        "Skip to content"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "Skip to content"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -1382,7 +1382,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-docs",
@@ -1393,14 +1393,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Close this dialog • NavigationDwolla Developers • Accept Close this dialog NavigationDwolla Developers Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog NavigationDwolla Developers",
       "added": [
-        "Close this dialog",
-        "NavigationDwolla Developers"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "NavigationDwolla Developers"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -1410,7 +1410,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1421,14 +1421,14 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 83,
-      "summary": "Close this dialog • Bank Verification • Accept Close this dialog Bank Verification Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog Bank Verification",
       "added": [
-        "Close this dialog",
-        "Bank Verification"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this dialog",
+        "Bank Verification"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1438,7 +1438,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-05-16T15:17:23.835Z"
+      "capturedAt": "2026-05-17T15:18:36.394Z"
     }
   ],
   "trends": [
@@ -1498,7 +1498,7 @@
         "Choose an integration path.",
         "Businesses on Stripe generated $1.9T in 2025."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Stripe",
@@ -1530,7 +1530,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Stripe",
@@ -1562,7 +1562,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Stripe",
@@ -1594,7 +1594,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Adyen",
@@ -1626,7 +1626,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Adyen",
@@ -1658,7 +1658,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Adyen",
@@ -1690,7 +1690,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Adyen",
@@ -1722,7 +1722,7 @@
         "Filter Icon",
         "Clear"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Checkout.com",
@@ -1754,7 +1754,7 @@
         "How we build at Checkout.com",
         "How to issue an effective payments RFP"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Checkout.com",
@@ -1786,7 +1786,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Checkout.com",
@@ -1818,7 +1818,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Checkout.com",
@@ -1850,7 +1850,7 @@
         "Keisi Mançellari",
         "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Primer",
@@ -1882,7 +1882,7 @@
         "Provided by Silktide",
         "Cookie Policy."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Primer",
@@ -1904,7 +1904,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Primer",
@@ -1936,7 +1936,7 @@
         "Documentation",
         "Get StartedYour first stop - everything you need to start building with Primer."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Primer",
@@ -1968,7 +1968,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Finix",
@@ -2000,7 +2000,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Finix",
@@ -2032,7 +2032,7 @@
         "SaaS Platforms",
         "Marketplaces"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Finix",
@@ -2064,7 +2064,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Finix",
@@ -2096,7 +2096,7 @@
         "Administrative Coordinator, Product Development",
         "Customer Delivery Manager"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Rapyd",
@@ -2128,7 +2128,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Rapyd",
@@ -2160,7 +2160,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Rapyd",
@@ -2192,7 +2192,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Rapyd",
@@ -2224,7 +2224,7 @@
         "Products",
         "Icelandic"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Lithic",
@@ -2256,7 +2256,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Lithic",
@@ -2288,7 +2288,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Lithic",
@@ -2320,7 +2320,7 @@
         "Funding",
         "Legal Library"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Lithic",
@@ -2352,7 +2352,7 @@
         "Program ManagementReduce operational complexity",
         "ProcessingReliable and fast, at scale"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Dwolla",
@@ -2384,7 +2384,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Dwolla",
@@ -2406,17 +2406,17 @@
         "No Hidden Fees",
         "Multiple Rails Included",
         "Dedicated Support",
-        "Close this dialog",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
         "Close Cookie Preferences",
         "Platform",
         "Solutions",
         "Developers",
         "Learn",
-        "Privacy Policy",
-        "Skip to content"
+        "Privacy Policy"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Dwolla",
@@ -2441,14 +2441,14 @@
         "Developer Forum",
         "Developer Support",
         "Ready to start building?",
-        "Close this dialog",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
         "Close Cookie Preferences",
         "Ask AI or search...⌘K",
-        "Search...",
-        "NavigationDwolla Developers"
+        "Search..."
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     },
     {
       "company": "Dwolla",
@@ -2456,7 +2456,8 @@
       "url": "https://www.dwolla.com/company/careers/",
       "lines": [
         "PAGE NOT FOUND.",
-        "Close this dialog",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
         "Close Cookie Preferences",
         "Privacy Policy",
@@ -2477,10 +2478,9 @@
         "Addenda Records",
         "Security",
         "Open Banking Services",
-        "Tokenization",
-        "Bank Verification"
+        "Tokenization"
       ],
-      "fetchedAt": "2026-05-16T15:17:23.835Z"
+      "fetchedAt": "2026-05-17T15:18:36.394Z"
     }
   ],
   "targetCoverage": [
@@ -2536,7 +2536,7 @@
   "weeklyBrief": {
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "bullets": [
-      "Dwolla: Close this dialog • Skip to content • Accept Close this dialog Skip to content Accept Deny Non-Essential",
+      "Dwolla: Accept • Deny Non-Essential • Close this dialog Accept Deny Non-Essential Close this dialog Skip to content",
       "pricing is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
