@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-05-18T17:20:42.676Z",
+    "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Adyen",
+      "Adyen",
+      "Rapyd"
+    ],
+    "urgentSignals": 6,
+    "importantSignals": 8
+  },
+  {
     "generatedAt": "2026-05-18T17:13:04.258Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -184,20 +200,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-05-06T16:12:54.281Z",
-    "headline": "hiring signals are leading this cycle, with Checkout.com setting the pace.",
-    "topCategories": [
-      "hiring",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Checkout.com",
-      "Finix",
-      "Stripe"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 4
   }
 ]
