@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-05-27T17:35:07.046Z",
+    "headline": "product signals are leading this cycle, with Lithic setting the pace.",
+    "topCategories": [
+      "product",
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Lithic",
+      "Lithic",
+      "Stripe"
+    ],
+    "urgentSignals": 1,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-05-26T17:36:06.689Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -188,13 +204,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 3
-  },
-  {
-    "generatedAt": "2026-05-15T16:17:15.673Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
