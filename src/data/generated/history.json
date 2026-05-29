@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-05-29T17:45:39.912Z",
+    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 4
+  },
+  {
     "generatedAt": "2026-05-28T17:45:48.445Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -188,21 +204,5 @@
     "topCompanies": [],
     "urgentSignals": 0,
     "importantSignals": 0
-  },
-  {
-    "generatedAt": "2026-05-17T15:18:36.394Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 3
   }
 ]
