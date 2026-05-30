@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-05-30T15:37:38.336Z",
+    "headline": "product signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "product",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Primer",
+      "Finix"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 4
+  },
+  {
     "generatedAt": "2026-05-29T17:45:39.912Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -196,13 +211,5 @@
     ],
     "urgentSignals": 6,
     "importantSignals": 8
-  },
-  {
-    "generatedAt": "2026-05-18T17:13:04.258Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
