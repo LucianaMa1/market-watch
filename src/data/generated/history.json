@@ -1,5 +1,17 @@
 [
   {
+    "generatedAt": "2026-06-01T19:33:37.440Z",
+    "headline": "hiring signals are leading this cycle, with Primer setting the pace.",
+    "topCategories": [
+      "hiring"
+    ],
+    "topCompanies": [
+      "Primer"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 1
+  },
+  {
     "generatedAt": "2026-06-01T19:26:37.996Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -193,21 +205,5 @@
     ],
     "urgentSignals": 4,
     "importantSignals": 8
-  },
-  {
-    "generatedAt": "2026-05-20T17:33:16.462Z",
-    "headline": "enterprise signals are leading this cycle, with Primer setting the pace.",
-    "topCategories": [
-      "enterprise",
-      "pricing",
-      "product"
-    ],
-    "topCompanies": [
-      "Primer",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 3,
-    "importantSignals": 5
   }
 ]
