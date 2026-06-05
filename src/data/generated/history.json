@@ -1,5 +1,17 @@
 [
   {
+    "generatedAt": "2026-06-05T16:42:39.234Z",
+    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "positioning"
+    ],
+    "topCompanies": [
+      "Stripe"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 1
+  },
+  {
     "generatedAt": "2026-06-04T17:24:08.952Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -199,19 +211,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-05-24T15:34:46.516Z",
-    "headline": "hiring signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "hiring",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Stripe"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 2
   }
 ]
