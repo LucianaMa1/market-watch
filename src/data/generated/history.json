@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-06-14T15:58:37.707Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-06-13T15:51:27.445Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -191,17 +199,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 6
-  },
-  {
-    "generatedAt": "2026-06-01T19:33:37.440Z",
-    "headline": "hiring signals are leading this cycle, with Primer setting the pace.",
-    "topCategories": [
-      "hiring"
-    ],
-    "topCompanies": [
-      "Primer"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 1
   }
 ]
