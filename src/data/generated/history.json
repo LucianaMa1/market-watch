@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-06-15T18:54:48.366Z",
+    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-06-15T18:47:33.635Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -175,21 +191,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-06-03T18:34:05.902Z",
-    "headline": "pricing signals are leading this cycle, with Lithic setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Lithic",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
-    "importantSignals": 8
   }
 ]
