@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-06-17T17:25:04.977Z",
+    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "github-release"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 4,
+    "importantSignals": 7
+  },
+  {
     "generatedAt": "2026-06-16T18:40:34.014Z",
     "headline": "pricing signals are leading this cycle, with Primer setting the pace.",
     "topCategories": [
@@ -179,17 +195,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-06-05T16:42:39.234Z",
-    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
-    "topCategories": [
-      "positioning"
-    ],
-    "topCompanies": [
-      "Stripe"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 1
   }
 ]
