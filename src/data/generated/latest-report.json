@@ -1,13 +1,66 @@
 {
-  "generatedAt": "2026-06-22T18:37:12.020Z",
+  "generatedAt": "2026-06-23T16:43:23.203Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 0,
+    "importantSignals": 2,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 0
   },
-  "topChanges": [],
+  "topChanges": [
+    {
+      "id": "finix-jobs",
+      "company": "Finix",
+      "companySlug": "finix",
+      "targetId": "finix",
+      "pageType": "jobs",
+      "url": "https://finix.com/careers",
+      "category": "hiring",
+      "score": 73,
+      "summary": "Business Operations Analyst • Senior Business Recruiter Business Operations Analyst Senior Business Recruiter",
+      "added": [
+        "Business Operations Analyst"
+      ],
+      "removed": [
+        "Senior Business Recruiter"
+      ],
+      "isBaseline": false,
+      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-06-23T16:43:23.203Z"
+    },
+    {
+      "id": "rapyd-jobs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "jobs",
+      "url": "https://www.rapyd.net/careers/",
+      "category": "hiring",
+      "score": 73,
+      "summary": "Tel Aviv, Israel (6) • Tel Aviv, Israel (7) Tel Aviv, Israel (6) Tel Aviv, Israel (7)",
+      "added": [
+        "Tel Aviv, Israel (6)"
+      ],
+      "removed": [
+        "Tel Aviv, Israel (7)"
+      ],
+      "isBaseline": false,
+      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-06-23T16:43:23.203Z"
+    }
+  ],
   "noise": [
     {
       "id": "stripe-homepage",
@@ -29,7 +82,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-pricing",
@@ -50,7 +103,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-docs",
@@ -72,7 +125,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-jobs",
@@ -94,7 +147,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-homepage",
@@ -116,7 +169,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-pricing",
@@ -137,7 +190,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-docs",
@@ -159,7 +212,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-jobs",
@@ -181,7 +234,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-homepage",
@@ -203,7 +256,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-pricing",
@@ -224,7 +277,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-docs",
@@ -246,7 +299,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-jobs",
@@ -268,7 +321,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-homepage",
@@ -290,7 +343,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-pricing",
@@ -311,7 +364,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-docs",
@@ -333,7 +386,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-jobs",
@@ -355,7 +408,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-homepage",
@@ -377,7 +430,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-pricing",
@@ -398,7 +451,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-docs",
@@ -420,29 +473,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
-    },
-    {
-      "id": "finix-jobs",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "jobs",
-      "url": "https://finix.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-homepage",
@@ -464,7 +495,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-pricing",
@@ -485,7 +516,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-docs",
@@ -507,29 +538,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
-    },
-    {
-      "id": "rapyd-jobs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "jobs",
-      "url": "https://www.rapyd.net/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-homepage",
@@ -551,7 +560,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-pricing",
@@ -572,7 +581,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-docs",
@@ -594,7 +603,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-jobs",
@@ -616,7 +625,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-homepage",
@@ -638,7 +647,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-pricing",
@@ -659,7 +668,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-docs",
@@ -681,7 +690,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-jobs",
@@ -703,7 +712,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     }
   ],
   "signals": [
@@ -727,7 +736,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-pricing",
@@ -748,7 +757,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-docs",
@@ -770,7 +779,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "stripe-jobs",
@@ -792,7 +801,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-homepage",
@@ -814,7 +823,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-pricing",
@@ -835,7 +844,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-docs",
@@ -857,7 +866,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "adyen-jobs",
@@ -879,7 +888,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-homepage",
@@ -901,7 +910,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-pricing",
@@ -922,7 +931,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-docs",
@@ -944,7 +953,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "checkout-jobs",
@@ -966,7 +975,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-homepage",
@@ -988,7 +997,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-pricing",
@@ -1009,7 +1018,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-docs",
@@ -1031,7 +1040,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "primer-jobs",
@@ -1053,7 +1062,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-homepage",
@@ -1075,7 +1084,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-pricing",
@@ -1096,7 +1105,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-docs",
@@ -1118,7 +1127,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "finix-jobs",
@@ -1127,20 +1136,24 @@
       "targetId": "finix",
       "pageType": "jobs",
       "url": "https://finix.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Finix jobs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "hiring",
+      "score": 73,
+      "summary": "Business Operations Analyst • Senior Business Recruiter Business Operations Analyst Senior Business Recruiter",
+      "added": [
+        "Business Operations Analyst"
+      ],
+      "removed": [
+        "Senior Business Recruiter"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1162,7 +1175,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1183,7 +1196,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-docs",
@@ -1205,7 +1218,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1214,20 +1227,24 @@
       "targetId": "rapyd",
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd jobs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "hiring",
+      "score": 73,
+      "summary": "Tel Aviv, Israel (6) • Tel Aviv, Israel (7) Tel Aviv, Israel (6) Tel Aviv, Israel (7)",
+      "added": [
+        "Tel Aviv, Israel (6)"
+      ],
+      "removed": [
+        "Tel Aviv, Israel (7)"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-homepage",
@@ -1249,7 +1266,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-pricing",
@@ -1270,7 +1287,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-docs",
@@ -1292,7 +1309,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "lithic-jobs",
@@ -1314,7 +1331,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1336,7 +1353,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1357,7 +1374,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-docs",
@@ -1379,7 +1396,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1401,10 +1418,20 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-06-22T18:37:12.020Z"
+      "capturedAt": "2026-06-23T16:43:23.203Z"
     }
   ],
-  "trends": [],
+  "trends": [
+    {
+      "category": "hiring",
+      "count": 2,
+      "companies": [
+        "Finix",
+        "Rapyd"
+      ],
+      "averageScore": 73
+    }
+  ],
   "snapshots": [
     {
       "company": "Stripe",
@@ -1436,7 +1463,7 @@
         "Businesses on Stripe generated $1.9T in 2025.",
         "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Stripe",
@@ -1468,7 +1495,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Stripe",
@@ -1500,7 +1527,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Stripe",
@@ -1532,7 +1559,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Adyen",
@@ -1564,7 +1591,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Adyen",
@@ -1596,7 +1623,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Adyen",
@@ -1628,7 +1655,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Adyen",
@@ -1660,7 +1687,7 @@
         "Filter Icon",
         "Clear"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Checkout.com",
@@ -1692,7 +1719,7 @@
         "MRC collaboration: Thriving starts with education",
         "The profit formula: How to balance revenue, fraud, and costs at checkout"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Checkout.com",
@@ -1724,7 +1751,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Checkout.com",
@@ -1756,7 +1783,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Checkout.com",
@@ -1788,7 +1815,7 @@
         "Keisi Mançellari",
         "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Primer",
@@ -1820,7 +1847,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Primer",
@@ -1842,7 +1869,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Primer",
@@ -1874,7 +1901,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Primer",
@@ -1906,7 +1933,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Finix",
@@ -1938,7 +1965,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Finix",
@@ -1970,7 +1997,7 @@
         "SaaS Platforms",
         "Marketplaces"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Finix",
@@ -2002,7 +2029,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Finix",
@@ -2028,13 +2055,13 @@
         "San Francisco",
         "Chicago",
         "US-Remote",
-        "Senior Business Recruiter",
+        "Business Operations Analyst",
         "Senior Product Designer",
         "Sales Development Representative",
         "Customer Delivery Manager",
         "Senior Technical Recruiter"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Rapyd",
@@ -2066,7 +2093,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Rapyd",
@@ -2098,7 +2125,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Rapyd",
@@ -2130,7 +2157,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Rapyd",
@@ -2140,9 +2167,9 @@
         "DREAM JOBS.REAL OPPORTUNITIES.",
         "BUILD BOLD",
         "LIBERATE GLOBALCOMMERCE",
-        "Tel Aviv, Israel (7)",
-        "Bogota, Colombia (7)",
         "Buenos Aires, Argentina (1)",
+        "Tel Aviv, Israel (6)",
+        "Bogota, Colombia (7)",
         "POWER GLOBALPAYMENTS",
         "DRIVE REALBUSINESS IMPACT",
         "Global",
@@ -2162,7 +2189,7 @@
         "Targeting Cookies",
         "Functional Cookies"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Lithic",
@@ -2194,7 +2221,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Lithic",
@@ -2226,7 +2253,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Lithic",
@@ -2258,7 +2285,7 @@
         "Digital Banking",
         "Revolving Credit"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Lithic",
@@ -2290,7 +2317,7 @@
         "Accounts & Payment HubFlexible ledgering and accounts",
         "Program ManagementReduce operational complexity"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Dwolla",
@@ -2322,7 +2349,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Dwolla",
@@ -2354,7 +2381,7 @@
         "Privacy Policy",
         "Skip to content"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Dwolla",
@@ -2386,7 +2413,7 @@
         "Close Cookie Preferences",
         "Resources"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     },
     {
       "company": "Dwolla",
@@ -2418,7 +2445,7 @@
         "Tokenization",
         "Bank Verification"
       ],
-      "fetchedAt": "2026-06-22T18:37:12.020Z"
+      "fetchedAt": "2026-06-23T16:43:23.203Z"
     }
   ],
   "targetCoverage": [
@@ -2450,13 +2477,13 @@
       "company": "Finix",
       "category": "payments api infrastructure",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 73
     },
     {
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 73
     },
     {
       "company": "Lithic",
@@ -2472,10 +2499,10 @@
     }
   ],
   "weeklyBrief": {
-    "headline": "No material market movement detected this cycle.",
+    "headline": "hiring signals are leading this cycle, with Finix setting the pace.",
     "bullets": [
-      "No material market movement detected.",
-      "No repeated market pattern yet.",
+      "Finix: Business Operations Analyst • Senior Business Recruiter Business Operations Analyst Senior Business Recruiter",
+      "hiring is the strongest current theme across 2 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }
