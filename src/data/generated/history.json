@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-06-29T17:21:35.733Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-06-29T17:13:10.798Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -176,22 +184,6 @@
   },
   {
     "generatedAt": "2026-06-18T17:37:51.638Z",
-    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "github-release"
-    ],
-    "topCompanies": [
-      "Checkout.com",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
-    "importantSignals": 7
-  },
-  {
-    "generatedAt": "2026-06-17T17:25:04.977Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
       "pricing",
