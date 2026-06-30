@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-06-30T16:33:14.055Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Rapyd",
+      "Rapyd"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 4
+  },
+  {
     "generatedAt": "2026-06-29T17:21:35.733Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -181,21 +197,5 @@
     ],
     "urgentSignals": 5,
     "importantSignals": 9
-  },
-  {
-    "generatedAt": "2026-06-18T17:37:51.638Z",
-    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "github-release"
-    ],
-    "topCompanies": [
-      "Checkout.com",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
-    "importantSignals": 7
   }
 ]
