@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-07-13T16:44:11.754Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Rapyd",
+      "Rapyd"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-07-12T15:17:11.372Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -189,21 +205,5 @@
     ],
     "urgentSignals": 6,
     "importantSignals": 8
-  },
-  {
-    "generatedAt": "2026-06-30T16:33:14.055Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 3,
-    "importantSignals": 4
   }
 ]
