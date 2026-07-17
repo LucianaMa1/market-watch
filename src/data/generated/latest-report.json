@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:48:12.989Z",
+  "generatedAt": "2026-07-17T15:42:24.071Z",
   "summary": {
     "totalSignals": 32,
     "importantSignals": 1,
@@ -9,55 +9,33 @@
   },
   "topChanges": [
     {
-      "id": "checkout-homepage",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "homepage",
-      "url": "https://www.checkout.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "What is payment acceptance rate and why does it matter? • MRC collaboration: Thriving starts with education What is payment acceptance rate and why does it matter? MRC collaboration: Thriving starts with education",
-      "added": [
-        "What is payment acceptance rate and why does it matter?"
-      ],
-      "removed": [
-        "MRC collaboration: Thriving starts with education"
-      ],
-      "isBaseline": false,
-      "recommendation": "Compare Checkout.com's new messaging against peers to see if a broader category shift is underway.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
-    }
-  ],
-  "noise": [
-    {
       "id": "stripe-homepage",
       "company": "Stripe",
       "companySlug": "stripe",
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "Not sure where to start? • 150K+ users have their best day ever on Stripe. Not sure where to start? 150K+ users have their best day ever on Stripe.",
+      "added": [
+        "Not sure where to start?"
+      ],
+      "removed": [
+        "150K+ users have their best day ever on Stripe."
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
-    },
+      "capturedAt": "2026-07-17T15:42:24.071Z"
+    }
+  ],
+  "noise": [
     {
       "id": "stripe-pricing",
       "company": "Stripe",
@@ -77,7 +55,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "stripe-docs",
@@ -99,7 +77,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "stripe-jobs",
@@ -121,7 +99,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-homepage",
@@ -143,7 +121,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-pricing",
@@ -164,7 +142,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-docs",
@@ -186,7 +164,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-jobs",
@@ -208,7 +186,29 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
+    },
+    {
+      "id": "checkout-homepage",
+      "company": "Checkout.com",
+      "companySlug": "checkout-com",
+      "targetId": "checkout",
+      "pageType": "homepage",
+      "url": "https://www.checkout.com/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Checkout.com homepage monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "tags": [
+        "homepage",
+        "positioning"
+      ],
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-pricing",
@@ -229,7 +229,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-docs",
@@ -251,7 +251,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-jobs",
@@ -273,7 +273,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-homepage",
@@ -295,7 +295,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-pricing",
@@ -316,7 +316,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-docs",
@@ -338,7 +338,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-jobs",
@@ -360,7 +360,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-homepage",
@@ -382,7 +382,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-pricing",
@@ -403,7 +403,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-docs",
@@ -425,7 +425,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-jobs",
@@ -447,7 +447,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-homepage",
@@ -469,7 +469,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-pricing",
@@ -490,7 +490,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-docs",
@@ -512,7 +512,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-jobs",
@@ -534,7 +534,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-homepage",
@@ -556,7 +556,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-pricing",
@@ -577,7 +577,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-docs",
@@ -599,7 +599,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-jobs",
@@ -621,7 +621,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-homepage",
@@ -643,7 +643,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-pricing",
@@ -664,7 +664,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-docs",
@@ -686,7 +686,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-jobs",
@@ -708,7 +708,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     }
   ],
   "signals": [
@@ -719,20 +719,24 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "Not sure where to start? • 150K+ users have their best day ever on Stripe. Not sure where to start? 150K+ users have their best day ever on Stripe.",
+      "added": [
+        "Not sure where to start?"
+      ],
+      "removed": [
+        "150K+ users have their best day ever on Stripe."
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "stripe-pricing",
@@ -753,7 +757,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "stripe-docs",
@@ -775,7 +779,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "stripe-jobs",
@@ -797,7 +801,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-homepage",
@@ -819,7 +823,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-pricing",
@@ -840,7 +844,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-docs",
@@ -862,7 +866,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "adyen-jobs",
@@ -884,7 +888,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-homepage",
@@ -893,24 +897,20 @@
       "targetId": "checkout",
       "pageType": "homepage",
       "url": "https://www.checkout.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "What is payment acceptance rate and why does it matter? • MRC collaboration: Thriving starts with education What is payment acceptance rate and why does it matter? MRC collaboration: Thriving starts with education",
-      "added": [
-        "What is payment acceptance rate and why does it matter?"
-      ],
-      "removed": [
-        "MRC collaboration: Thriving starts with education"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Checkout.com homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Checkout.com's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-pricing",
@@ -931,7 +931,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-docs",
@@ -953,7 +953,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "checkout-jobs",
@@ -975,7 +975,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-homepage",
@@ -997,7 +997,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-pricing",
@@ -1018,7 +1018,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-docs",
@@ -1040,7 +1040,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "primer-jobs",
@@ -1062,7 +1062,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-homepage",
@@ -1084,7 +1084,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-pricing",
@@ -1105,7 +1105,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-docs",
@@ -1127,7 +1127,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "finix-jobs",
@@ -1149,7 +1149,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1171,7 +1171,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1192,7 +1192,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-docs",
@@ -1214,7 +1214,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1236,7 +1236,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-homepage",
@@ -1258,7 +1258,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-pricing",
@@ -1279,7 +1279,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-docs",
@@ -1301,7 +1301,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "lithic-jobs",
@@ -1323,7 +1323,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1345,7 +1345,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1366,7 +1366,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-docs",
@@ -1388,7 +1388,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1410,7 +1410,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-07-16T15:48:12.989Z"
+      "capturedAt": "2026-07-17T15:42:24.071Z"
     }
   ],
   "trends": [
@@ -1418,7 +1418,7 @@
       "category": "positioning",
       "count": 1,
       "companies": [
-        "Checkout.com"
+        "Stripe"
       ],
       "averageScore": 71
     }
@@ -1441,6 +1441,7 @@
         "Create a card issuing program",
         "Access borderless money movement with stablecoins and crypto",
         "Embed payments in your platform",
+        "Not sure where to start?",
         "Transform your enterprise with agile financial infrastructure",
         "Hertz unifies commerce with Stripe.",
         "URBN consolidates $5 billion in online and in-store revenue onto Stripe.",
@@ -1451,10 +1452,9 @@
         "Connect to existing systems.",
         "Scale with confidence.",
         "Choose an integration path.",
-        "Businesses on Stripe generated $1.9T in 2025.",
-        "150K+ users have their best day ever on Stripe."
+        "Businesses on Stripe generated $1.9T in 2025."
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Stripe",
@@ -1486,7 +1486,7 @@
         "Buy Now Pay Later",
         "Bank-based and other payment methods"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Stripe",
@@ -1518,7 +1518,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Stripe",
@@ -1550,7 +1550,7 @@
         "See open roles",
         "Open mobile navigation"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Adyen",
@@ -1582,7 +1582,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Adyen",
@@ -1614,7 +1614,7 @@
         "Global (English)Global (English)",
         "Accept Cookies"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Adyen",
@@ -1646,7 +1646,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Adyen",
@@ -1678,7 +1678,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Checkout.com",
@@ -1710,7 +1710,7 @@
         "Issuing meets acquiring: Better together on a single platform",
         "OpenAI’s agentic commerce shift: What it means for merchants"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Checkout.com",
@@ -1742,7 +1742,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Checkout.com",
@@ -1774,7 +1774,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Checkout.com",
@@ -1806,7 +1806,7 @@
         "Keisi Mançellari",
         "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Primer",
@@ -1838,7 +1838,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Primer",
@@ -1860,7 +1860,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Primer",
@@ -1892,7 +1892,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Primer",
@@ -1924,7 +1924,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Finix",
@@ -1956,7 +1956,7 @@
         "Industries",
         "Documentation"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Finix",
@@ -1988,7 +1988,7 @@
         "PayFacs",
         "SaaS Platforms"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Finix",
@@ -2020,7 +2020,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Finix",
@@ -2052,7 +2052,7 @@
         "Customer Delivery Manager",
         "Senior Technical Recruiter"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Rapyd",
@@ -2084,7 +2084,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Rapyd",
@@ -2116,7 +2116,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Rapyd",
@@ -2148,7 +2148,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Rapyd",
@@ -2180,7 +2180,7 @@
         "Company",
         "Legal, Security & Privacy"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Lithic",
@@ -2212,7 +2212,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Lithic",
@@ -2244,7 +2244,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Lithic",
@@ -2276,7 +2276,7 @@
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics",
         "Digital Banking"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Lithic",
@@ -2308,7 +2308,7 @@
         "Card IssuingFor individuals and businesses",
         "Accounts & Payment HubFlexible ledgering and accounts"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Dwolla",
@@ -2340,7 +2340,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Dwolla",
@@ -2372,7 +2372,7 @@
         "Learn",
         "Privacy Policy"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Dwolla",
@@ -2404,7 +2404,7 @@
         "Manage Preferences",
         "Close Cookie Preferences"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     },
     {
       "company": "Dwolla",
@@ -2436,7 +2436,7 @@
         "Open Banking Services",
         "Tokenization"
       ],
-      "fetchedAt": "2026-07-16T15:48:12.989Z"
+      "fetchedAt": "2026-07-17T15:42:24.071Z"
     }
   ],
   "targetCoverage": [
@@ -2444,7 +2444,7 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 71
     },
     {
       "company": "Adyen",
@@ -2456,7 +2456,7 @@
       "company": "Checkout.com",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 71
+      "latestSignalScore": 24
     },
     {
       "company": "Primer",
@@ -2490,9 +2490,9 @@
     }
   ],
   "weeklyBrief": {
-    "headline": "positioning signals are leading this cycle, with Checkout.com setting the pace.",
+    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
     "bullets": [
-      "Checkout.com: What is payment acceptance rate and why does it matter? • MRC collaboration: Thriving starts with education What is payment acceptance rate and why does it matter? MRC collaboration: Thriving starts with education",
+      "Stripe: Not sure where to start? • 150K+ users have their best day ever on Stripe. Not sure where to start? 150K+ users have their best day ever on Stripe.",
       "positioning is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
