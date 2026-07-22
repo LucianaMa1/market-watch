@@ -1,5 +1,19 @@
 [
   {
+    "generatedAt": "2026-07-22T15:52:53.793Z",
+    "headline": "hiring signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Checkout.com"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 2
+  },
+  {
     "generatedAt": "2026-07-21T15:54:05.580Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -180,21 +194,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-07-10T16:35:01.436Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
-    "importantSignals": 8
   }
 ]
