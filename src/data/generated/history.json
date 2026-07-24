@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-07-24T15:45:17.941Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-07-23T16:03:25.600Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -170,21 +178,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-07-12T15:17:11.372Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 4
   }
 ]
