@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-07-29T15:59:13.141Z",
+    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Dwolla",
+      "Stripe"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-07-28T16:16:36.058Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -170,17 +186,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 3
-  },
-  {
-    "generatedAt": "2026-07-17T15:42:24.071Z",
-    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
-    "topCategories": [
-      "positioning"
-    ],
-    "topCompanies": [
-      "Stripe"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 1
   }
 ]
