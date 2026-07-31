@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-07-31T16:13:19.592Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-07-30T16:01:13.477Z",
     "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
     "topCategories": [
@@ -178,13 +194,5 @@
     ],
     "urgentSignals": 0,
     "importantSignals": 2
-  },
-  {
-    "generatedAt": "2026-07-19T15:16:22.119Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
