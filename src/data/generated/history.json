@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-08-07T15:09:48.778Z",
+    "headline": "hiring signals are leading this cycle, with Lithic setting the pace.",
+    "topCategories": [
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Lithic",
+      "Rapyd",
+      "Finix"
+    ],
+    "urgentSignals": 1,
+    "importantSignals": 4
+  },
+  {
     "generatedAt": "2026-08-05T16:12:33.861Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -196,21 +211,5 @@
     "topCompanies": [],
     "urgentSignals": 0,
     "importantSignals": 0
-  },
-  {
-    "generatedAt": "2026-07-25T15:29:13.101Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 3
   }
 ]
