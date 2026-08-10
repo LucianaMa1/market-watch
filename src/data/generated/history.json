@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-08-10T15:40:21.026Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Rapyd",
+      "Rapyd"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-08-10T15:17:44.419Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -194,22 +210,6 @@
       "Stripe"
     ],
     "urgentSignals": 3,
-    "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-07-28T16:16:36.058Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Rapyd"
-    ],
-    "urgentSignals": 2,
     "importantSignals": 5
   }
 ]
