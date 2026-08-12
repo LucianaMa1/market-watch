@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-08-12T15:15:40.460Z",
+    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Rapyd",
+      "Rapyd",
+      "Dwolla"
+    ],
+    "urgentSignals": 5,
+    "importantSignals": 8
+  },
+  {
     "generatedAt": "2026-08-11T15:17:07.688Z",
     "headline": "pricing signals are leading this cycle, with Finix setting the pace.",
     "topCategories": [
@@ -195,21 +211,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-07-30T16:01:13.477Z",
-    "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Stripe",
-      "Rapyd",
-      "Dwolla"
-    ],
-    "urgentSignals": 5,
-    "importantSignals": 7
   }
 ]
