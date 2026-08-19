@@ -1,67 +1,13 @@
 {
-  "generatedAt": "2026-08-18T14:53:49.833Z",
+  "generatedAt": "2026-08-19T14:54:26.472Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 2,
+    "importantSignals": 1,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 0
   },
   "topChanges": [
-    {
-      "id": "finix-jobs",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "jobs",
-      "url": "https://finix.com/careers",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Head of Startup & VC Partnerships • Sales Development Representative Head of Startup & VC Partnerships Sales Development Representative",
-      "added": [
-        "Head of Startup & VC Partnerships"
-      ],
-      "removed": [
-        "Sales Development Representative"
-      ],
-      "isBaseline": false,
-      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
-    },
-    {
-      "id": "rapyd-jobs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "jobs",
-      "url": "https://www.rapyd.net/careers/",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Tel Aviv, Israel (13) • Tel Aviv, Israel (12) Tel Aviv, Israel (13) Tel Aviv, Israel (12)",
-      "added": [
-        "Tel Aviv, Israel (13)"
-      ],
-      "removed": [
-        "Tel Aviv, Israel (12)"
-      ],
-      "isBaseline": false,
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
-    }
-  ],
-  "noise": [
     {
       "id": "stripe-homepage",
       "company": "Stripe",
@@ -69,21 +15,27 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
+      "added": [
+        "150K+ users have their best day ever on Stripe."
+      ],
+      "removed": [
+        "Get Stripe product recommendations"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
-    },
+      "capturedAt": "2026-08-19T14:54:26.472Z"
+    }
+  ],
+  "noise": [
     {
       "id": "stripe-pricing",
       "company": "Stripe",
@@ -103,7 +55,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "stripe-docs",
@@ -125,7 +77,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "stripe-jobs",
@@ -147,7 +99,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-homepage",
@@ -169,7 +121,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-pricing",
@@ -190,7 +142,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-docs",
@@ -212,7 +164,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-jobs",
@@ -234,7 +186,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-homepage",
@@ -256,7 +208,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-pricing",
@@ -277,7 +229,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-docs",
@@ -299,7 +251,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-jobs",
@@ -321,7 +273,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-homepage",
@@ -343,7 +295,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-pricing",
@@ -364,7 +316,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-docs",
@@ -386,7 +338,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-jobs",
@@ -408,7 +360,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-homepage",
@@ -430,7 +382,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-pricing",
@@ -451,7 +403,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-docs",
@@ -473,7 +425,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
+    },
+    {
+      "id": "finix-jobs",
+      "company": "Finix",
+      "companySlug": "finix",
+      "targetId": "finix",
+      "pageType": "jobs",
+      "url": "https://finix.com/careers",
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-homepage",
@@ -495,7 +469,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-pricing",
@@ -516,7 +490,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-docs",
@@ -538,7 +512,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
+    },
+    {
+      "id": "rapyd-jobs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "jobs",
+      "url": "https://www.rapyd.net/careers/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-homepage",
@@ -560,7 +556,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-pricing",
@@ -581,7 +577,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-docs",
@@ -603,7 +599,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-jobs",
@@ -625,7 +621,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-homepage",
@@ -647,7 +643,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-pricing",
@@ -668,7 +664,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-docs",
@@ -690,7 +686,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-jobs",
@@ -712,7 +708,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     }
   ],
   "signals": [
@@ -723,20 +719,24 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
+      "added": [
+        "150K+ users have their best day ever on Stripe."
+      ],
+      "removed": [
+        "Get Stripe product recommendations"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "stripe-pricing",
@@ -757,7 +757,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "stripe-docs",
@@ -779,7 +779,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "stripe-jobs",
@@ -801,7 +801,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-homepage",
@@ -823,7 +823,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-pricing",
@@ -844,7 +844,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-docs",
@@ -866,7 +866,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "adyen-jobs",
@@ -888,7 +888,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-homepage",
@@ -910,7 +910,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-pricing",
@@ -931,7 +931,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-docs",
@@ -953,7 +953,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "checkout-jobs",
@@ -975,7 +975,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-homepage",
@@ -997,7 +997,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-pricing",
@@ -1018,7 +1018,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-docs",
@@ -1040,7 +1040,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "primer-jobs",
@@ -1062,7 +1062,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-homepage",
@@ -1084,7 +1084,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-pricing",
@@ -1105,7 +1105,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-docs",
@@ -1127,7 +1127,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "finix-jobs",
@@ -1136,24 +1136,20 @@
       "targetId": "finix",
       "pageType": "jobs",
       "url": "https://finix.com/careers",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Head of Startup & VC Partnerships • Sales Development Representative Head of Startup & VC Partnerships Sales Development Representative",
-      "added": [
-        "Head of Startup & VC Partnerships"
-      ],
-      "removed": [
-        "Sales Development Representative"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1175,7 +1171,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1196,7 +1192,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-docs",
@@ -1218,7 +1214,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1227,24 +1223,20 @@
       "targetId": "rapyd",
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Tel Aviv, Israel (13) • Tel Aviv, Israel (12) Tel Aviv, Israel (13) Tel Aviv, Israel (12)",
-      "added": [
-        "Tel Aviv, Israel (13)"
-      ],
-      "removed": [
-        "Tel Aviv, Israel (12)"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-homepage",
@@ -1266,7 +1258,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-pricing",
@@ -1287,7 +1279,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-docs",
@@ -1309,7 +1301,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "lithic-jobs",
@@ -1331,7 +1323,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1353,7 +1345,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1374,7 +1366,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-docs",
@@ -1396,7 +1388,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1418,18 +1410,17 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-08-18T14:53:49.833Z"
+      "capturedAt": "2026-08-19T14:54:26.472Z"
     }
   ],
   "trends": [
     {
-      "category": "hiring",
-      "count": 2,
+      "category": "positioning",
+      "count": 1,
       "companies": [
-        "Finix",
-        "Rapyd"
+        "Stripe"
       ],
-      "averageScore": 73
+      "averageScore": 71
     }
   ],
   "snapshots": [
@@ -1440,7 +1431,6 @@
       "lines": [
         "Financial infrastructure to grow your revenue. Accept payments, offer financial services, and implement custom revenue models—from your first transaction to your billionth.",
         "Flexible solutions for every business model.",
-        "Get Stripe product recommendations",
         "The backbone of global commerce",
         "Powering businesses of all sizes.",
         "Reliable, extensible infrastructure for every stack.",
@@ -1461,9 +1451,10 @@
         "Connect to existing systems.",
         "Scale with confidence.",
         "Choose an integration path.",
-        "Businesses on Stripe generated $1.9T in 2025."
+        "Businesses on Stripe generated $1.9T in 2025.",
+        "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Stripe",
@@ -1495,7 +1486,7 @@
         "Bank-based and other payment methods",
         "Stablecoins"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Stripe",
@@ -1527,7 +1518,7 @@
         "Platforms and marketplaces",
         "Money management"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Stripe",
@@ -1559,7 +1550,7 @@
         "Account Executive - Enterprise, Growth",
         "Account Executive - SEA, Platforms (Grower)"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Adyen",
@@ -1591,7 +1582,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Adyen",
@@ -1623,7 +1614,7 @@
         "Global (English)Global (English)",
         "Accept Cookies"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Adyen",
@@ -1655,7 +1646,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Adyen",
@@ -1687,7 +1678,7 @@
         "Cookie settings",
         "Allow All"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Checkout.com",
@@ -1719,7 +1710,7 @@
         "Operationalizing AI in engineering and beyond",
         "Reduce friction to boost conversion"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Checkout.com",
@@ -1751,7 +1742,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Checkout.com",
@@ -1783,7 +1774,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Checkout.com",
@@ -1815,7 +1806,7 @@
         "Keisi Mançellari",
         "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Primer",
@@ -1847,7 +1838,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Primer",
@@ -1869,7 +1860,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Primer",
@@ -1901,7 +1892,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Primer",
@@ -1933,7 +1924,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Finix",
@@ -1965,7 +1956,7 @@
         "Decline",
         "Industries"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Finix",
@@ -1997,7 +1988,7 @@
         "PayFacs & Platforms",
         "PayFacs"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Finix",
@@ -2029,7 +2020,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Finix",
@@ -2061,7 +2052,7 @@
         "Business Operations Analyst",
         "Senior Product Designer"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Rapyd",
@@ -2093,7 +2084,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Rapyd",
@@ -2125,7 +2116,7 @@
         "Filter Button",
         "Clear"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Rapyd",
@@ -2157,7 +2148,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Rapyd",
@@ -2189,7 +2180,7 @@
         "Industries",
         "Developers"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Lithic",
@@ -2221,7 +2212,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Lithic",
@@ -2253,7 +2244,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Lithic",
@@ -2285,7 +2276,7 @@
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics",
         "Digital Banking"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Lithic",
@@ -2317,7 +2308,7 @@
         "Accounts & Payment HubFlexible ledgering and accounts",
         "Program ManagementReduce operational complexity"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Dwolla",
@@ -2349,7 +2340,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Dwolla",
@@ -2381,7 +2372,7 @@
         "Privacy Policy",
         "Skip to content"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Dwolla",
@@ -2413,7 +2404,7 @@
         "Manage Preferences",
         "Resources"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     },
     {
       "company": "Dwolla",
@@ -2445,7 +2436,7 @@
         "Tokenization",
         "Bank Verification"
       ],
-      "fetchedAt": "2026-08-18T14:53:49.833Z"
+      "fetchedAt": "2026-08-19T14:54:26.472Z"
     }
   ],
   "targetCoverage": [
@@ -2453,7 +2444,7 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 71
     },
     {
       "company": "Adyen",
@@ -2477,13 +2468,13 @@
       "company": "Finix",
       "category": "payments api infrastructure",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 24
     },
     {
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 24
     },
     {
       "company": "Lithic",
@@ -2499,10 +2490,10 @@
     }
   ],
   "weeklyBrief": {
-    "headline": "hiring signals are leading this cycle, with Finix setting the pace.",
+    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
     "bullets": [
-      "Finix: Head of Startup & VC Partnerships • Sales Development Representative Head of Startup & VC Partnerships Sales Development Representative",
-      "hiring is the strongest current theme across 2 companies.",
+      "Stripe: 150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
+      "positioning is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }

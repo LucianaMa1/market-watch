@@ -1,5 +1,17 @@
 [
   {
+    "generatedAt": "2026-08-19T14:54:26.472Z",
+    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "positioning"
+    ],
+    "topCompanies": [
+      "Stripe"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 1
+  },
+  {
     "generatedAt": "2026-08-18T14:53:49.833Z",
     "headline": "hiring signals are leading this cycle, with Finix setting the pace.",
     "topCategories": [
@@ -195,20 +207,5 @@
     "topCompanies": [],
     "urgentSignals": 0,
     "importantSignals": 0
-  },
-  {
-    "generatedAt": "2026-08-07T15:09:48.778Z",
-    "headline": "hiring signals are leading this cycle, with Lithic setting the pace.",
-    "topCategories": [
-      "hiring",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Lithic",
-      "Rapyd",
-      "Finix"
-    ],
-    "urgentSignals": 1,
-    "importantSignals": 4
   }
 ]
