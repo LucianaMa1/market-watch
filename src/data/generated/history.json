@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-08-21T14:54:36.946Z",
+    "headline": "product signals are leading this cycle, with Lithic setting the pace.",
+    "topCategories": [
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Lithic",
+      "Stripe",
+      "Checkout.com"
+    ],
+    "urgentSignals": 1,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-08-20T14:56:28.527Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -199,21 +214,5 @@
     ],
     "urgentSignals": 5,
     "importantSignals": 9
-  },
-  {
-    "generatedAt": "2026-08-09T14:53:50.484Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 5
   }
 ]
