@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-08-23T14:41:37.184Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-08-22T14:40:00.869Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -198,21 +206,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 6
-  },
-  {
-    "generatedAt": "2026-08-10T15:40:21.026Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 5
   }
 ]
