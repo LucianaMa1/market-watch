@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-08-27T23:48:27.911Z",
+    "headline": "enterprise signals are leading this cycle, with Finix setting the pace.",
+    "topCategories": [
+      "enterprise",
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Finix",
+      "Rapyd",
+      "Finix"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-08-26T15:55:18.215Z",
     "headline": "hiring signals are leading this cycle, with Stripe setting the pace.",
     "topCategories": [
@@ -179,21 +195,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-08-15T14:40:38.354Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 4
   }
 ]
