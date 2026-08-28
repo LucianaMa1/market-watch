@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-08-28T23:34:04.043Z",
+    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Dwolla",
+      "Primer"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 6
+  },
+  {
     "generatedAt": "2026-08-27T23:48:27.911Z",
     "headline": "enterprise signals are leading this cycle, with Finix setting the pace.",
     "topCategories": [
@@ -179,21 +195,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 6
-  },
-  {
-    "generatedAt": "2026-08-16T14:40:41.145Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 5
   }
 ]
