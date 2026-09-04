@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-09-04T17:37:38.673Z",
+    "headline": "pricing signals are leading this cycle, with Lithic setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Lithic",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 3,
+    "importantSignals": 7
+  },
+  {
     "generatedAt": "2026-09-03T17:53:35.038Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
@@ -195,13 +211,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 5
-  },
-  {
-    "generatedAt": "2026-08-23T14:41:37.184Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
