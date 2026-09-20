@@ -1,5 +1,17 @@
 [
   {
+    "generatedAt": "2026-09-20T17:29:50.780Z",
+    "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "positioning"
+    ],
+    "topCompanies": [
+      "Stripe"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 1
+  },
+  {
     "generatedAt": "2026-09-19T17:17:59.682Z",
     "headline": "pricing signals are leading this cycle, with Lithic setting the pace.",
     "topCategories": [
@@ -186,22 +198,6 @@
   },
   {
     "generatedAt": "2026-09-07T18:53:17.957Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "positioning"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
-    "importantSignals": 7
-  },
-  {
-    "generatedAt": "2026-09-07T18:45:08.512Z",
     "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
     "topCategories": [
       "pricing",
