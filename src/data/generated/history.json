@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-09-21T19:45:39.707Z",
+    "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Stripe",
+      "Adyen",
+      "Adyen"
+    ],
+    "urgentSignals": 12,
+    "importantSignals": 12
+  },
+  {
     "generatedAt": "2026-09-21T19:29:44.608Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -186,22 +202,6 @@
       "Dwolla"
     ],
     "urgentSignals": 5,
-    "importantSignals": 8
-  },
-  {
-    "generatedAt": "2026-09-08T17:56:32.169Z",
-    "headline": "enterprise signals are leading this cycle, with Finix setting the pace.",
-    "topCategories": [
-      "enterprise",
-      "pricing",
-      "product"
-    ],
-    "topCompanies": [
-      "Finix",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 4,
     "importantSignals": 8
   }
 ]
