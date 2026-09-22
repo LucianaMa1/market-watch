@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-09-22T18:07:16.832Z",
+    "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Stripe",
+      "Adyen",
+      "Adyen"
+    ],
+    "urgentSignals": 12,
+    "importantSignals": 12
+  },
+  {
     "generatedAt": "2026-09-21T19:45:39.707Z",
     "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
     "topCategories": [
@@ -187,21 +203,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-09-10T17:43:10.698Z",
-    "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Stripe",
-      "Dwolla",
-      "Dwolla"
-    ],
-    "urgentSignals": 5,
-    "importantSignals": 8
   }
 ]
