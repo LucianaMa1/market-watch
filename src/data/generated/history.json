@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-09-24T18:26:26.963Z",
+    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "enterprise"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 4,
+    "importantSignals": 9
+  },
+  {
     "generatedAt": "2026-09-23T18:25:14.869Z",
     "headline": "pricing signals are leading this cycle, with Finix setting the pace.",
     "topCategories": [
@@ -191,17 +207,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-09-12T17:12:27.383Z",
-    "headline": "hiring signals are leading this cycle, with Lithic setting the pace.",
-    "topCategories": [
-      "hiring"
-    ],
-    "topCompanies": [
-      "Lithic"
-    ],
-    "urgentSignals": 0,
-    "importantSignals": 1
   }
 ]
