@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-09-26T17:46:29.373Z",
+    "headline": "hiring signals are leading this cycle, with Finix setting the pace.",
+    "topCategories": [
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Finix",
+      "Lithic",
+      "Stripe"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-09-25T18:38:49.982Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
@@ -191,21 +206,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 3
-  },
-  {
-    "generatedAt": "2026-09-14T19:23:44.937Z",
-    "headline": "pricing signals are leading this cycle, with Rapyd setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Rapyd",
-      "Rapyd",
-      "Dwolla"
-    ],
-    "urgentSignals": 5,
-    "importantSignals": 8
   }
 ]
