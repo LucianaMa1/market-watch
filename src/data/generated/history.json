@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-09-28T20:50:49.062Z",
+    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Dwolla",
+      "Checkout.com"
+    ],
+    "urgentSignals": 4,
+    "importantSignals": 7
+  },
+  {
     "generatedAt": "2026-09-28T20:34:49.331Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
@@ -187,22 +203,6 @@
       "Dwolla",
       "Dwolla",
       "Rapyd"
-    ],
-    "urgentSignals": 2,
-    "importantSignals": 7
-  },
-  {
-    "generatedAt": "2026-09-16T18:12:47.761Z",
-    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Dwolla",
-      "Dwolla",
-      "Dwolla"
     ],
     "urgentSignals": 2,
     "importantSignals": 7

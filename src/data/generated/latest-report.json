@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-28T20:34:49.331Z",
+  "generatedAt": "2026-09-28T20:50:49.062Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 11,
+    "importantSignals": 7,
     "baselineSignals": 0,
     "targetsMonitored": 8,
-    "urgentSignals": 5
+    "urgentSignals": 4
   },
   "topChanges": [
     {
@@ -17,20 +17,20 @@
       "url": "https://www.checkout.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Opt out of sale of personal data and targeted advertising • Cookie List • Cookies and use of our website Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "Cookie List",
-        "Your Opt-Out Rights",
-        "Accept Cookies",
-        "Filter Icon"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings",
         "Vendors List",
         "Accept All Cookies",
         "View Vendor Details"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "Cookie List",
+        "Your Opt-Out Rights",
+        "Accept Cookies",
+        "Filter Icon"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -39,7 +39,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-pricing",
@@ -50,14 +50,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
+      "summary": "Close this consent banner • Close • Accept Close this consent banner Close Accept Deny Non-Essential",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
         "Close this consent banner",
         "Close"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -66,7 +66,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-homepage",
@@ -77,14 +77,14 @@
       "url": "https://www.checkout.com/",
       "category": "pricing",
       "score": 98,
-      "summary": "Opt out of sale of personal data and targeted advertising • 2025 Annual Letter: The Power of the Long View • Cookies and use of our website Opt out of sale of personal data and targeted advertising 2025 Annual Letter: The Power of the Long View Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Opt out of sale of personal data and targeted advertising 2025 Annual Letter: The Power of the Long View",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "2025 Annual Letter: The Power of the Long View"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "2025 Annual Letter: The Power of the Long View"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -94,7 +94,7 @@
         "homepage",
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-docs",
@@ -105,14 +105,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
+      "summary": "Close this consent banner • Search...⌘K • Accept Close this consent banner Search...⌘K Accept Deny Non-Essential",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
         "Close this consent banner",
         "Search...⌘K"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -122,38 +122,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
-    },
-    {
-      "id": "finix-jobs",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "jobs",
-      "url": "https://finix.com/careers",
-      "category": "hiring",
-      "score": 93,
-      "summary": "Sr. Field & Community Manager • Sr. Creative & Design Manager • Senior Digital Marketing Manager Sr. Field & Community Manager Sr. Creative & Design Manager Sr. Organic Growth Manager Senior Digital Marketing Manager GTM Engineer Partnership Success Manager",
-      "added": [
-        "Sr. Field & Community Manager",
-        "Sr. Creative & Design Manager",
-        "Sr. Organic Growth Manager"
-      ],
-      "removed": [
-        "Senior Digital Marketing Manager",
-        "GTM Engineer",
-        "Partnership Success Manager"
-      ],
-      "isBaseline": false,
-      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring",
-        "talent"
-      ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-jobs",
@@ -164,14 +133,14 @@
       "url": "https://www.checkout.com/careers",
       "category": "hiring",
       "score": 83,
-      "summary": "Opt out of sale of personal data and targeted advertising • Cookie List • Cookies and use of our website Opt out of sale of personal data and targeted advertising Cookie List Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Opt out of sale of personal data and targeted advertising Cookie List",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "Cookie List"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "Cookie List"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Checkout.com; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -181,7 +150,35 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
+    },
+    {
+      "id": "dwolla-jobs",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
+      "pageType": "jobs",
+      "url": "https://www.dwolla.com/company/careers/",
+      "category": "hiring",
+      "score": 83,
+      "summary": "Close this consent banner • Secure Exchange Solution • Accept Close this consent banner Secure Exchange Solution Accept Deny Non-Essential",
+      "added": [
+        "Close this consent banner",
+        "Secure Exchange Solution"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
+      ],
+      "isBaseline": false,
+      "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Dwolla's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     }
   ],
   "noise": [
@@ -204,7 +201,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "stripe-docs",
@@ -226,7 +223,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
+    },
+    {
+      "id": "stripe-jobs",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "targetId": "stripe",
+      "pageType": "jobs",
+      "url": "https://stripe.com/jobs/search",
+      "category": "noise",
+      "score": 24,
+      "summary": "Stripe jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Stripe's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-homepage",
@@ -248,7 +267,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-pricing",
@@ -269,7 +288,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-docs",
@@ -291,7 +310,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
+    },
+    {
+      "id": "adyen-jobs",
+      "company": "Adyen",
+      "companySlug": "adyen",
+      "targetId": "adyen",
+      "pageType": "jobs",
+      "url": "https://careers.adyen.com/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Adyen jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Adyen's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-docs",
@@ -313,7 +354,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-homepage",
@@ -335,7 +376,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-pricing",
@@ -356,7 +397,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-docs",
@@ -378,7 +419,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-jobs",
@@ -400,7 +441,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-homepage",
@@ -422,7 +463,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-pricing",
@@ -443,7 +484,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-docs",
@@ -465,7 +506,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
+    },
+    {
+      "id": "finix-jobs",
+      "company": "Finix",
+      "companySlug": "finix",
+      "targetId": "finix",
+      "pageType": "jobs",
+      "url": "https://finix.com/careers",
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-homepage",
@@ -487,7 +550,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-pricing",
@@ -508,7 +571,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-docs",
@@ -530,7 +593,29 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
+    },
+    {
+      "id": "rapyd-jobs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "jobs",
+      "url": "https://www.rapyd.net/careers/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-homepage",
@@ -552,7 +637,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-pricing",
@@ -573,7 +658,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-docs",
@@ -595,7 +680,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-jobs",
@@ -617,7 +702,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-homepage",
@@ -639,7 +724,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     }
   ],
   "signals": [
@@ -652,12 +737,12 @@
       "url": "https://stripe.com/",
       "category": "positioning",
       "score": 71,
-      "summary": "Get Stripe product recommendations • 150K+ users have their best day ever on Stripe. Get Stripe product recommendations 150K+ users have their best day ever on Stripe.",
+      "summary": "150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
       "added": [
-        "Get Stripe product recommendations"
+        "150K+ users have their best day ever on Stripe."
       ],
       "removed": [
-        "150K+ users have their best day ever on Stripe."
+        "Get Stripe product recommendations"
       ],
       "isBaseline": false,
       "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
@@ -667,7 +752,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "stripe-pricing",
@@ -688,7 +773,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "stripe-docs",
@@ -710,7 +795,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "stripe-jobs",
@@ -719,24 +804,20 @@
       "targetId": "stripe",
       "pageType": "jobs",
       "url": "https://stripe.com/jobs/search",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Authorization Boost • APAC Executive Marketing Authorization Boost APAC Executive Marketing",
-      "added": [
-        "Authorization Boost"
-      ],
-      "removed": [
-        "APAC Executive Marketing"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Stripe jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Stripe; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Stripe's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-homepage",
@@ -758,7 +839,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-pricing",
@@ -779,7 +860,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-docs",
@@ -801,7 +882,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "adyen-jobs",
@@ -810,24 +891,20 @@
       "targetId": "adyen",
       "pageType": "jobs",
       "url": "https://careers.adyen.com/",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Back Button • Student Program Back Button Student Program",
-      "added": [
-        "Back Button"
-      ],
-      "removed": [
-        "Student Program"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Adyen jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Adyen; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Adyen's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-homepage",
@@ -838,14 +915,14 @@
       "url": "https://www.checkout.com/",
       "category": "pricing",
       "score": 98,
-      "summary": "Opt out of sale of personal data and targeted advertising • 2025 Annual Letter: The Power of the Long View • Cookies and use of our website Opt out of sale of personal data and targeted advertising 2025 Annual Letter: The Power of the Long View Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Opt out of sale of personal data and targeted advertising 2025 Annual Letter: The Power of the Long View",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "2025 Annual Letter: The Power of the Long View"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "2025 Annual Letter: The Power of the Long View"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -855,7 +932,7 @@
         "homepage",
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-pricing",
@@ -866,20 +943,20 @@
       "url": "https://www.checkout.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Opt out of sale of personal data and targeted advertising • Cookie List • Cookies and use of our website Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "Cookie List",
-        "Your Opt-Out Rights",
-        "Accept Cookies",
-        "Filter Icon"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings",
         "Vendors List",
         "Accept All Cookies",
         "View Vendor Details"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "Cookie List",
+        "Your Opt-Out Rights",
+        "Accept Cookies",
+        "Filter Icon"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -888,7 +965,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-docs",
@@ -910,7 +987,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "checkout-jobs",
@@ -921,14 +998,14 @@
       "url": "https://www.checkout.com/careers",
       "category": "hiring",
       "score": 83,
-      "summary": "Opt out of sale of personal data and targeted advertising • Cookie List • Cookies and use of our website Opt out of sale of personal data and targeted advertising Cookie List Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Opt out of sale of personal data and targeted advertising Cookie List",
       "added": [
-        "Opt out of sale of personal data and targeted advertising",
-        "Cookie List"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Opt out of sale of personal data and targeted advertising",
+        "Cookie List"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Checkout.com; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -938,7 +1015,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-homepage",
@@ -960,7 +1037,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-pricing",
@@ -981,7 +1058,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-docs",
@@ -1003,7 +1080,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "primer-jobs",
@@ -1025,7 +1102,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-homepage",
@@ -1047,7 +1124,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-pricing",
@@ -1068,7 +1145,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-docs",
@@ -1090,7 +1167,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "finix-jobs",
@@ -1099,29 +1176,20 @@
       "targetId": "finix",
       "pageType": "jobs",
       "url": "https://finix.com/careers",
-      "category": "hiring",
-      "score": 93,
-      "summary": "Sr. Field & Community Manager • Sr. Creative & Design Manager • Senior Digital Marketing Manager Sr. Field & Community Manager Sr. Creative & Design Manager Sr. Organic Growth Manager Senior Digital Marketing Manager GTM Engineer Partnership Success Manager",
-      "added": [
-        "Sr. Field & Community Manager",
-        "Sr. Creative & Design Manager",
-        "Sr. Organic Growth Manager"
-      ],
-      "removed": [
-        "Senior Digital Marketing Manager",
-        "GTM Engineer",
-        "Partnership Success Manager"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Finix; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Finix's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
-        "hiring",
-        "talent"
+        "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1143,7 +1211,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1164,7 +1232,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-docs",
@@ -1186,7 +1254,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1195,24 +1263,20 @@
       "targetId": "rapyd",
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
-      "category": "hiring",
-      "score": 73,
-      "summary": "Developers • Dubai (1) Developers Dubai (1)",
-      "added": [
-        "Developers"
-      ],
-      "removed": [
-        "Dubai (1)"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-homepage",
@@ -1234,7 +1298,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-pricing",
@@ -1255,7 +1319,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-docs",
@@ -1277,7 +1341,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "lithic-jobs",
@@ -1299,7 +1363,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1321,7 +1385,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1332,14 +1396,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
+      "summary": "Close this consent banner • Close • Accept Close this consent banner Close Accept Deny Non-Essential",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
         "Close this consent banner",
         "Close"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -1348,7 +1412,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-docs",
@@ -1359,14 +1423,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
+      "summary": "Close this consent banner • Search...⌘K • Accept Close this consent banner Search...⌘K Accept Deny Non-Essential",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
         "Close this consent banner",
         "Search...⌘K"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -1376,7 +1440,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1387,14 +1451,14 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 83,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Secure Exchange Solution",
+      "summary": "Close this consent banner • Secure Exchange Solution • Accept Close this consent banner Secure Exchange Solution Accept Deny Non-Essential",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
         "Close this consent banner",
         "Secure Exchange Solution"
+      ],
+      "removed": [
+        "Accept",
+        "Deny Non-Essential"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1404,7 +1468,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-28T20:34:49.331Z"
+      "capturedAt": "2026-09-28T20:50:49.062Z"
     }
   ],
   "trends": [
@@ -1427,16 +1491,12 @@
     },
     {
       "category": "hiring",
-      "count": 6,
+      "count": 2,
       "companies": [
-        "Adyen",
         "Checkout.com",
-        "Dwolla",
-        "Finix",
-        "Rapyd",
-        "Stripe"
+        "Dwolla"
       ],
-      "averageScore": 80
+      "averageScore": 83
     },
     {
       "category": "positioning",
@@ -1455,7 +1515,6 @@
       "lines": [
         "Financial infrastructure to grow your revenue. Accept payments, offer financial services, and implement custom revenue models—from your first transaction to your billionth.",
         "Flexible solutions for every business model.",
-        "Get Stripe product recommendations",
         "The backbone of global commerce",
         "Powering businesses of all sizes.",
         "Reliable, extensible infrastructure for every stack.",
@@ -1476,9 +1535,10 @@
         "Connect to existing systems.",
         "Scale with confidence.",
         "Choose an integration path.",
-        "Businesses on Stripe generated $1.9T in 2025."
+        "Businesses on Stripe generated $1.9T in 2025.",
+        "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Stripe",
@@ -1510,7 +1570,7 @@
         "Bank-based and other payment methods",
         "Stablecoins"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Stripe",
@@ -1542,7 +1602,7 @@
         "Data",
         "Platforms and marketplaces"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Stripe",
@@ -1574,7 +1634,7 @@
         "Atlas",
         "Authorization Boost"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Adyen",
@@ -1606,7 +1666,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Adyen",
@@ -1638,7 +1698,7 @@
         "Global (English)Global (English)",
         "Accept Cookies"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Adyen",
@@ -1670,7 +1730,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Adyen",
@@ -1702,7 +1762,7 @@
         "Allow All",
         "Back Button"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Checkout.com",
@@ -1722,7 +1782,8 @@
         "Popular resources",
         "Developer resources",
         "Frequently asked questions",
-        "Opt out of sale of personal data and targeted advertising",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Australia’s 2026 card payment changes: What merchants should know",
         "How to master payments in Europe and the UK",
         "Building trusted AI infrastructure with the Checkout.com MCP",
@@ -1731,10 +1792,9 @@
         "What is a direct debit mandate?",
         "My Path in Payments: Laura Treude Director of Group Payment",
         "Consumers welcome agentic commerce in MENA",
-        "Mastering the digital checkout: Choosing the right integration pathway for your business",
-        "2025 Annual Letter: The Power of the Long View"
+        "Mastering the digital checkout: Choosing the right integration pathway for your business"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Checkout.com",
@@ -1747,7 +1807,8 @@
         "Unbeatable benefits",
         "Refreshingly transparent pricing",
         "Empowering forward-thinking companies from startups to global superbrands.",
-        "Opt out of sale of personal data and targeted advertising",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Fully flat-rate",
         "Free for charities",
         "Simple interchange++ fees",
@@ -1756,17 +1817,16 @@
         "Fraud tools",
         "Unified Payments API",
         "Manage Consent Preferences",
-        "Cookie List",
+        "Vendors List",
         "Back",
         "Next",
-        "Your Opt-Out Rights",
         "Reject All",
-        "Accept Cookies",
+        "Accept All Cookies",
         "Allow All",
-        "Back Button",
-        "Filter Icon"
+        "View Vendor Details",
+        "Back Button"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Checkout.com",
@@ -1798,7 +1858,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Checkout.com",
@@ -1815,7 +1875,8 @@
         "our values",
         "EMPLOYABILITY HUB",
         "Voices of Checkout",
-        "Opt out of sale of personal data and targeted advertising",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Diverse Perspectives",
         "Collaboration",
         "Transparency",
@@ -1827,10 +1888,9 @@
         "Davi Chikasha-Auld",
         "Isabel Scavetta",
         "Keisi Mançellari",
-        "Manage Consent Preferences",
-        "Cookie List"
+        "Manage Consent Preferences"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Primer",
@@ -1862,7 +1922,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Primer",
@@ -1884,7 +1944,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Primer",
@@ -1916,7 +1976,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Primer",
@@ -1948,7 +2008,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Finix",
@@ -1980,7 +2040,7 @@
         "Documentation",
         "Reach out"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Finix",
@@ -2012,7 +2072,7 @@
         "PayoutsSend money to any recipient with Finix payouts",
         "Merchant Underwriting"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Finix",
@@ -2044,7 +2104,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Finix",
@@ -2076,7 +2136,7 @@
         "Sr. Organic Growth Manager",
         "Senior Software Engineer"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Rapyd",
@@ -2108,7 +2168,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Rapyd",
@@ -2140,7 +2200,7 @@
         "Cancel",
         "Confirm My Choices"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Rapyd",
@@ -2172,7 +2232,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Rapyd",
@@ -2204,7 +2264,7 @@
         "Industries",
         "Developers"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Lithic",
@@ -2236,7 +2296,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Lithic",
@@ -2268,7 +2328,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Lithic",
@@ -2300,7 +2360,7 @@
         "Sandbox A safe environment mirroring production — run cards, transactions, and webhooks end-to-end. Open the sandbox",
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Lithic",
@@ -2332,7 +2392,7 @@
         "Health Insurance",
         "Family Leave"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Dwolla",
@@ -2364,7 +2424,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Dwolla",
@@ -2386,17 +2446,17 @@
         "No Hidden Fees",
         "Multiple Rails Included",
         "Dedicated Support",
-        "Accept",
-        "Deny Non-Essential",
+        "Close this consent banner",
         "Manage Preferences",
         "Platform",
         "Solutions",
         "Developers",
         "Learn",
         "Privacy Policy",
-        "Skip to content"
+        "Skip to content",
+        "Close"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Dwolla",
@@ -2423,12 +2483,12 @@
         "Support",
         "Blog",
         "GitHub",
-        "Accept",
-        "Deny Non-Essential",
+        "Close this consent banner",
         "Manage Preferences",
-        "Resources"
+        "Resources",
+        "Search...⌘K"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     },
     {
       "company": "Dwolla",
@@ -2436,8 +2496,7 @@
       "url": "https://www.dwolla.com/company/careers/",
       "lines": [
         "PAGE NOT FOUND.",
-        "Accept",
-        "Deny Non-Essential",
+        "Close this consent banner",
         "Manage Preferences",
         "Privacy Policy",
         "Skip to content",
@@ -2458,9 +2517,10 @@
         "Security",
         "Open Banking Services",
         "Tokenization",
-        "Bank Verification"
+        "Bank Verification",
+        "Secure Exchange Solution"
       ],
-      "fetchedAt": "2026-09-28T20:34:49.331Z"
+      "fetchedAt": "2026-09-28T20:50:49.062Z"
     }
   ],
   "targetCoverage": [
@@ -2468,13 +2528,13 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 71
     },
     {
       "company": "Adyen",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 24
     },
     {
       "company": "Checkout.com",
@@ -2492,13 +2552,13 @@
       "company": "Finix",
       "category": "payments api infrastructure",
       "pagesTracked": 4,
-      "latestSignalScore": 93
+      "latestSignalScore": 24
     },
     {
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 73
+      "latestSignalScore": 24
     },
     {
       "company": "Lithic",
@@ -2516,7 +2576,7 @@
   "weeklyBrief": {
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "bullets": [
-      "Checkout.com: Opt out of sale of personal data and targeted advertising • Cookie List • Cookies and use of our website Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
+      "Checkout.com: Cookies and use of our website • Cookies Settings • Opt out of sale of personal data and targeted advertising Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details Opt out of sale of personal data and targeted advertising Cookie List Your Opt-Out Rights Accept Cookies Filter Icon",
       "pricing is the strongest current theme across 2 companies.",
       "8 targets were monitored across 32 pages."
     ]
