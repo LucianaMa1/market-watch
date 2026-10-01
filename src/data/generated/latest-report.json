@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-30T19:25:29.613Z",
+  "generatedAt": "2026-10-01T19:37:49.452Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 8,
+    "importantSignals": 9,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 7
@@ -17,20 +17,20 @@
       "url": "https://www.adyen.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Adyen Logo • Contact usContact us • Cookie Policy Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies",
+      "summary": "Cookie Policy • Cookie Preference Center • Adyen Logo Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel",
       "added": [
-        "Adyen Logo",
-        "Contact usContact us",
-        "Get in touch",
-        "7-Eleven Malaysia",
-        "Accel"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List",
         "Accept Cookies"
+      ],
+      "removed": [
+        "Adyen Logo",
+        "Contact usContact us",
+        "Get in touch",
+        "7-Eleven Malaysia",
+        "Accel"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Adyen is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -39,7 +39,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-docs",
@@ -50,18 +50,18 @@
       "url": "https://docs.adyen.com/",
       "category": "product",
       "score": 100,
-      "summary": "Testing tools Use API logs and Adyen POS test cards • Postman collections Fork Adyen's Postman collections • Cookie Policy Testing tools Use API logs and Adyen POS test cards Postman collections Fork Adyen's Postman collections API Logs See the details of past API requests Go to Adyen Docs homepage Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List",
+      "summary": "Cookie Policy • Cookie Preference Center • Testing tools Use API logs and Adyen POS test cards Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Testing tools Use API logs and Adyen POS test cards Postman collections Fork Adyen's Postman collections API Logs See the details of past API requests Go to Adyen Docs homepage",
       "added": [
-        "Testing tools Use API logs and Adyen POS test cards",
-        "Postman collections Fork Adyen's Postman collections",
-        "API Logs See the details of past API requests",
-        "Go to Adyen Docs homepage"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List"
+      ],
+      "removed": [
+        "Testing tools Use API logs and Adyen POS test cards",
+        "Postman collections Fork Adyen's Postman collections",
+        "API Logs See the details of past API requests",
+        "Go to Adyen Docs homepage"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Adyen: what new workflow or use case are they trying to unlock?",
@@ -71,7 +71,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-pricing",
@@ -82,22 +82,22 @@
       "url": "https://www.rapyd.net/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Skip to content • Partner Programme • Global Skip to content Partner Programme Referral Agents & Consultants ISOs & ISVs PayFacs Apply Now Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies",
+      "summary": "Global • Your Privacy • Skip to content Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies Skip to content Partner Programme Referral Agents & Consultants ISOs & ISVs PayFacs Apply Now",
       "added": [
-        "Skip to content",
-        "Partner Programme",
-        "Referral Agents & Consultants",
-        "ISOs & ISVs",
-        "PayFacs",
-        "Apply Now"
-      ],
-      "removed": [
         "Global",
         "Your Privacy",
         "Targeting Cookies",
         "Functional Cookies",
         "Performance Cookies",
         "Strictly Necessary Cookies"
+      ],
+      "removed": [
+        "Skip to content",
+        "Partner Programme",
+        "Referral Agents & Consultants",
+        "ISOs & ISVs",
+        "PayFacs",
+        "Apply Now"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -107,7 +107,7 @@
         "pricing",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-docs",
@@ -118,22 +118,22 @@
       "url": "https://docs.rapyd.net/",
       "category": "product",
       "score": 100,
-      "summary": "Get Started as a Merchant • Account Setup • Global Get Started as a Merchant Account Setup Make Your First API Call Create a Payment in Python Community Resources Account Activation Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies",
+      "summary": "Global • Your Privacy • Get Started as a Merchant Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies Get Started as a Merchant Account Setup Make Your First API Call Create a Payment in Python Community Resources Account Activation",
       "added": [
-        "Get Started as a Merchant",
-        "Account Setup",
-        "Make Your First API Call",
-        "Create a Payment in Python",
-        "Community Resources",
-        "Account Activation"
-      ],
-      "removed": [
         "Global",
         "Your Privacy",
         "Targeting Cookies",
         "Functional Cookies",
         "Performance Cookies",
         "Strictly Necessary Cookies"
+      ],
+      "removed": [
+        "Get Started as a Merchant",
+        "Account Setup",
+        "Make Your First API Call",
+        "Create a Payment in Python",
+        "Community Resources",
+        "Account Activation"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
@@ -143,7 +143,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-jobs",
@@ -154,22 +154,22 @@
       "url": "https://careers.adyen.com/",
       "category": "hiring",
       "score": 93,
-      "summary": "Adyen Logocareers • Locations • Cookie Policy Adyen Logocareers Locations Search jobs Learn more here. More info on tech careers More info commercial careers Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Reject All",
+      "summary": "Cookie Policy • Cookie Preference Center • Adyen Logocareers Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Reject All Adyen Logocareers Locations Search jobs Learn more here. More info on tech careers More info commercial careers",
       "added": [
-        "Adyen Logocareers",
-        "Locations",
-        "Search jobs",
-        "Learn more here.",
-        "More info on tech careers",
-        "More info commercial careers"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List",
         "Accept Cookies",
         "Reject All"
+      ],
+      "removed": [
+        "Adyen Logocareers",
+        "Locations",
+        "Search jobs",
+        "Learn more here.",
+        "More info on tech careers",
+        "More info commercial careers"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Adyen; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -180,7 +180,7 @@
         "hiring",
         "talent"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-homepage",
@@ -191,18 +191,18 @@
       "url": "https://www.adyen.com/",
       "category": "positioning",
       "score": 91,
-      "summary": "Intelligent Money Movement • Adyen for Platforms • Cookie Policy Intelligent Money Movement Adyen for Platforms storyAdobe maximized subscription revenue with global payments storyPrada Group brings luxury style with a human touch through payments innovation Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List",
+      "summary": "Cookie Policy • Cookie Preference Center • Intelligent Money Movement Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Intelligent Money Movement Adyen for Platforms storyAdobe maximized subscription revenue with global payments storyPrada Group brings luxury style with a human touch through payments innovation",
       "added": [
-        "Intelligent Money Movement",
-        "Adyen for Platforms",
-        "storyAdobe maximized subscription revenue with global payments",
-        "storyPrada Group brings luxury style with a human touch through payments innovation"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List"
+      ],
+      "removed": [
+        "Intelligent Money Movement",
+        "Adyen for Platforms",
+        "storyAdobe maximized subscription revenue with global payments",
+        "storyPrada Group brings luxury style with a human touch through payments innovation"
       ],
       "isBaseline": false,
       "recommendation": "Compare Adyen's new messaging against peers to see if a broader category shift is underway.",
@@ -212,7 +212,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     }
   ],
   "noise": [
@@ -236,7 +236,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "stripe-pricing",
@@ -257,29 +257,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
-    },
-    {
-      "id": "stripe-docs",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "targetId": "stripe",
-      "pageType": "docs",
-      "url": "https://docs.stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
-      "postAngle": "Stripe appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "stripe-jobs",
@@ -301,7 +279,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-homepage",
@@ -323,7 +301,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-pricing",
@@ -344,7 +322,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-docs",
@@ -366,7 +344,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-jobs",
@@ -388,7 +366,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-homepage",
@@ -410,7 +388,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-pricing",
@@ -431,7 +409,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-docs",
@@ -453,7 +431,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-jobs",
@@ -475,7 +453,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-homepage",
@@ -497,7 +475,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-pricing",
@@ -518,7 +496,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-docs",
@@ -540,7 +518,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-jobs",
@@ -562,7 +540,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-homepage",
@@ -584,7 +562,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-pricing",
@@ -605,7 +583,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-docs",
@@ -627,7 +605,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-jobs",
@@ -649,7 +627,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-homepage",
@@ -671,7 +649,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-pricing",
@@ -692,7 +670,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-docs",
@@ -714,7 +692,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-jobs",
@@ -736,7 +714,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     }
   ],
   "signals": [
@@ -760,7 +738,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "stripe-pricing",
@@ -781,7 +759,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "stripe-docs",
@@ -790,20 +768,24 @@
       "targetId": "stripe",
       "pageType": "docs",
       "url": "https://docs.stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe docs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 83,
+      "summary": "Risk • Platforms and marketplaces Risk Platforms and marketplaces",
+      "added": [
+        "Risk"
+      ],
+      "removed": [
+        "Platforms and marketplaces"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
-      "postAngle": "Stripe appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "docs",
-        "product"
+        "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "stripe-jobs",
@@ -825,7 +807,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-homepage",
@@ -836,18 +818,18 @@
       "url": "https://www.adyen.com/",
       "category": "positioning",
       "score": 91,
-      "summary": "Intelligent Money Movement • Adyen for Platforms • Cookie Policy Intelligent Money Movement Adyen for Platforms storyAdobe maximized subscription revenue with global payments storyPrada Group brings luxury style with a human touch through payments innovation Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List",
+      "summary": "Cookie Policy • Cookie Preference Center • Intelligent Money Movement Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Intelligent Money Movement Adyen for Platforms storyAdobe maximized subscription revenue with global payments storyPrada Group brings luxury style with a human touch through payments innovation",
       "added": [
-        "Intelligent Money Movement",
-        "Adyen for Platforms",
-        "storyAdobe maximized subscription revenue with global payments",
-        "storyPrada Group brings luxury style with a human touch through payments innovation"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List"
+      ],
+      "removed": [
+        "Intelligent Money Movement",
+        "Adyen for Platforms",
+        "storyAdobe maximized subscription revenue with global payments",
+        "storyPrada Group brings luxury style with a human touch through payments innovation"
       ],
       "isBaseline": false,
       "recommendation": "Compare Adyen's new messaging against peers to see if a broader category shift is underway.",
@@ -857,7 +839,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-pricing",
@@ -868,20 +850,20 @@
       "url": "https://www.adyen.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Adyen Logo • Contact usContact us • Cookie Policy Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies",
+      "summary": "Cookie Policy • Cookie Preference Center • Adyen Logo Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel",
       "added": [
-        "Adyen Logo",
-        "Contact usContact us",
-        "Get in touch",
-        "7-Eleven Malaysia",
-        "Accel"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List",
         "Accept Cookies"
+      ],
+      "removed": [
+        "Adyen Logo",
+        "Contact usContact us",
+        "Get in touch",
+        "7-Eleven Malaysia",
+        "Accel"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Adyen is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -890,7 +872,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-docs",
@@ -901,18 +883,18 @@
       "url": "https://docs.adyen.com/",
       "category": "product",
       "score": 100,
-      "summary": "Testing tools Use API logs and Adyen POS test cards • Postman collections Fork Adyen's Postman collections • Cookie Policy Testing tools Use API logs and Adyen POS test cards Postman collections Fork Adyen's Postman collections API Logs See the details of past API requests Go to Adyen Docs homepage Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List",
+      "summary": "Cookie Policy • Cookie Preference Center • Testing tools Use API logs and Adyen POS test cards Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Testing tools Use API logs and Adyen POS test cards Postman collections Fork Adyen's Postman collections API Logs See the details of past API requests Go to Adyen Docs homepage",
       "added": [
-        "Testing tools Use API logs and Adyen POS test cards",
-        "Postman collections Fork Adyen's Postman collections",
-        "API Logs See the details of past API requests",
-        "Go to Adyen Docs homepage"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List"
+      ],
+      "removed": [
+        "Testing tools Use API logs and Adyen POS test cards",
+        "Postman collections Fork Adyen's Postman collections",
+        "API Logs See the details of past API requests",
+        "Go to Adyen Docs homepage"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Adyen: what new workflow or use case are they trying to unlock?",
@@ -922,7 +904,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "adyen-jobs",
@@ -933,22 +915,22 @@
       "url": "https://careers.adyen.com/",
       "category": "hiring",
       "score": 93,
-      "summary": "Adyen Logocareers • Locations • Cookie Policy Adyen Logocareers Locations Search jobs Learn more here. More info on tech careers More info commercial careers Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Reject All",
+      "summary": "Cookie Policy • Cookie Preference Center • Adyen Logocareers Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Reject All Adyen Logocareers Locations Search jobs Learn more here. More info on tech careers More info commercial careers",
       "added": [
-        "Adyen Logocareers",
-        "Locations",
-        "Search jobs",
-        "Learn more here.",
-        "More info on tech careers",
-        "More info commercial careers"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Manage Consent Preferences",
         "Cookie List",
         "Accept Cookies",
         "Reject All"
+      ],
+      "removed": [
+        "Adyen Logocareers",
+        "Locations",
+        "Search jobs",
+        "Learn more here.",
+        "More info on tech careers",
+        "More info commercial careers"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Adyen; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -959,7 +941,7 @@
         "hiring",
         "talent"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-homepage",
@@ -981,7 +963,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-pricing",
@@ -1002,7 +984,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-docs",
@@ -1024,7 +1006,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "checkout-jobs",
@@ -1046,7 +1028,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-homepage",
@@ -1068,7 +1050,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-pricing",
@@ -1089,7 +1071,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-docs",
@@ -1111,7 +1093,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "primer-jobs",
@@ -1133,7 +1115,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-homepage",
@@ -1155,7 +1137,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-pricing",
@@ -1176,7 +1158,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-docs",
@@ -1198,7 +1180,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "finix-jobs",
@@ -1220,7 +1202,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1231,14 +1213,14 @@
       "url": "https://www.rapyd.net/",
       "category": "positioning",
       "score": 81,
-      "summary": "Partners • Products • Global Partners Products Global Your Privacy",
+      "summary": "Global • Your Privacy • Partners Global Your Privacy Partners Products",
       "added": [
-        "Partners",
-        "Products"
-      ],
-      "removed": [
         "Global",
         "Your Privacy"
+      ],
+      "removed": [
+        "Partners",
+        "Products"
       ],
       "isBaseline": false,
       "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
@@ -1248,7 +1230,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1259,22 +1241,22 @@
       "url": "https://www.rapyd.net/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Skip to content • Partner Programme • Global Skip to content Partner Programme Referral Agents & Consultants ISOs & ISVs PayFacs Apply Now Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies",
+      "summary": "Global • Your Privacy • Skip to content Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies Skip to content Partner Programme Referral Agents & Consultants ISOs & ISVs PayFacs Apply Now",
       "added": [
-        "Skip to content",
-        "Partner Programme",
-        "Referral Agents & Consultants",
-        "ISOs & ISVs",
-        "PayFacs",
-        "Apply Now"
-      ],
-      "removed": [
         "Global",
         "Your Privacy",
         "Targeting Cookies",
         "Functional Cookies",
         "Performance Cookies",
         "Strictly Necessary Cookies"
+      ],
+      "removed": [
+        "Skip to content",
+        "Partner Programme",
+        "Referral Agents & Consultants",
+        "ISOs & ISVs",
+        "PayFacs",
+        "Apply Now"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -1284,7 +1266,7 @@
         "pricing",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-docs",
@@ -1295,22 +1277,22 @@
       "url": "https://docs.rapyd.net/",
       "category": "product",
       "score": 100,
-      "summary": "Get Started as a Merchant • Account Setup • Global Get Started as a Merchant Account Setup Make Your First API Call Create a Payment in Python Community Resources Account Activation Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies",
+      "summary": "Global • Your Privacy • Get Started as a Merchant Global Your Privacy Targeting Cookies Functional Cookies Performance Cookies Strictly Necessary Cookies Get Started as a Merchant Account Setup Make Your First API Call Create a Payment in Python Community Resources Account Activation",
       "added": [
-        "Get Started as a Merchant",
-        "Account Setup",
-        "Make Your First API Call",
-        "Create a Payment in Python",
-        "Community Resources",
-        "Account Activation"
-      ],
-      "removed": [
         "Global",
         "Your Privacy",
         "Targeting Cookies",
         "Functional Cookies",
         "Performance Cookies",
         "Strictly Necessary Cookies"
+      ],
+      "removed": [
+        "Get Started as a Merchant",
+        "Account Setup",
+        "Make Your First API Call",
+        "Create a Payment in Python",
+        "Community Resources",
+        "Account Activation"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
@@ -1320,7 +1302,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1331,14 +1313,14 @@
       "url": "https://www.rapyd.net/careers/",
       "category": "hiring",
       "score": 91,
-      "summary": "Company • Legal, Security & Privacy • Global Company Legal, Security & Privacy Global Your Privacy",
+      "summary": "Global • Your Privacy • Company Global Your Privacy Company Legal, Security & Privacy",
       "added": [
-        "Company",
-        "Legal, Security & Privacy"
-      ],
-      "removed": [
         "Global",
         "Your Privacy"
+      ],
+      "removed": [
+        "Company",
+        "Legal, Security & Privacy"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1349,7 +1331,7 @@
         "hiring",
         "enterprise"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-homepage",
@@ -1371,7 +1353,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-pricing",
@@ -1392,7 +1374,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-docs",
@@ -1414,7 +1396,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "lithic-jobs",
@@ -1436,7 +1418,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1458,7 +1440,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1479,7 +1461,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-docs",
@@ -1501,7 +1483,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1523,7 +1505,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-09-30T19:25:29.613Z"
+      "capturedAt": "2026-10-01T19:37:49.452Z"
     }
   ],
   "trends": [
@@ -1556,12 +1538,13 @@
     },
     {
       "category": "positioning",
-      "count": 2,
+      "count": 3,
       "companies": [
         "Adyen",
-        "Rapyd"
+        "Rapyd",
+        "Stripe"
       ],
-      "averageScore": 86
+      "averageScore": 85
     }
   ],
   "snapshots": [
@@ -1595,7 +1578,7 @@
         "Businesses on Stripe generated $1.9T in 2025.",
         "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Stripe",
@@ -1627,7 +1610,7 @@
         "Bank-based and other payment methods",
         "Stablecoins"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Stripe",
@@ -1656,10 +1639,10 @@
         "Search/",
         "Ask AI",
         "Get started",
-        "Data",
-        "Platforms and marketplaces"
+        "Risk",
+        "Data"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Stripe",
@@ -1691,7 +1674,7 @@
         "Atlas",
         "Authorization Boost"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Adyen",
@@ -1707,6 +1690,8 @@
         "Global scale. Local expertise. Powered by trillions of euros in transaction data.",
         "When certainty matters, Adyen’s the platform of choice",
         "If you’re building for scale, there’s no alternative",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "Value Proposition Gallery",
         "Retail",
         "Travel and hospitality",
@@ -1714,16 +1699,14 @@
         "SaaS platforms and marketplaces",
         "Food and beverage",
         "Financial services",
+        "Manage Consent Preferences",
+        "Cookie List",
         "Products",
         "Businesses we serve",
         "About",
-        "Resources",
-        "Intelligent Money Movement",
-        "Adyen for Platforms",
-        "storyAdobe maximized subscription revenue with global payments",
-        "storyPrada Group brings luxury style with a human touch through payments innovation"
+        "Resources"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Adyen",
@@ -1733,12 +1716,16 @@
         "Pricing",
         "Frequently asked questions",
         "Any questions?",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "What is interchange++?",
         "Do you have set up fees and/or monthly fees?",
         "Do you support multi-currency transactions?",
         "Can you link multiple bank accounts?",
         "Are there certain types of businesses you cannot work with?",
         "Is custom pricing available?",
+        "Manage Consent Preferences",
+        "Cookie List",
         "Products",
         "Businesses we serve",
         "About",
@@ -1749,13 +1736,9 @@
         "Platform",
         "Policies and disclaimer",
         "Global (English)Global (English)",
-        "Adyen Logo",
-        "Contact usContact us",
-        "Get in touch",
-        "7-Eleven Malaysia",
-        "Accel"
+        "Accept Cookies"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Adyen",
@@ -1765,6 +1748,10 @@
         "Welcome to Adyen docs",
         "Discover our developer resources",
         "Join our Dev Community",
+        "Cookie Policy",
+        "Cookie Preference Center",
+        "Manage Consent Preferences",
+        "Cookie List",
         "Submit",
         "Payments",
         "Adyen for Platforms",
@@ -1781,13 +1768,9 @@
         "Testing tools Use API logs, test card numbers, and more",
         "API Diff Tool Compare API versions",
         "Server-side libraries Find a library that supports Terminal API",
-        "Example integrations Have a look at our in-person payments examples",
-        "Testing tools Use API logs and Adyen POS test cards",
-        "Postman collections Fork Adyen's Postman collections",
-        "API Logs See the details of past API requests",
-        "Go to Adyen Docs homepage"
+        "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Adyen",
@@ -1803,23 +1786,23 @@
         "Operational",
         "Our benefits",
         "Browse vacancies",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "The Adyen Formula",
         "Office locations",
+        "Manage Consent Preferences",
+        "Cookie List",
         "About us",
         "Adyen Careers",
         "Policies and disclaimer",
         "Global (English)Global (English)",
-        "Adyen Logocareers",
-        "Locations",
-        "Search jobs",
-        "Learn more here.",
-        "More info on tech careers",
-        "More info commercial careers",
-        "More info on product careers",
-        "More info on operational careers",
-        "Amsterdam"
+        "Accept Cookies",
+        "Reject All",
+        "Cookie settings",
+        "Allow All",
+        "Back Button"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Checkout.com",
@@ -1851,7 +1834,7 @@
         "Consumers welcome agentic commerce in MENA",
         "2025 Annual Letter: The Power of the Long View"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Checkout.com",
@@ -1883,7 +1866,7 @@
         "Back Button",
         "Filter Icon"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Checkout.com",
@@ -1915,7 +1898,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Checkout.com",
@@ -1947,7 +1930,7 @@
         "Manage Consent Preferences",
         "Cookie List"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Primer",
@@ -1979,7 +1962,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Primer",
@@ -2001,7 +1984,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Primer",
@@ -2033,7 +2016,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Primer",
@@ -2065,7 +2048,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Finix",
@@ -2097,7 +2080,7 @@
         "Documentation",
         "Reach out"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Finix",
@@ -2129,7 +2112,7 @@
         "PayoutsSend money to any recipient with Finix payouts",
         "Merchant Underwriting"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Finix",
@@ -2161,7 +2144,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Finix",
@@ -2193,7 +2176,7 @@
         "Sr. Organic Growth Manager",
         "Senior Software Engineer"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Rapyd",
@@ -2203,6 +2186,8 @@
         "The Fintech Platform For Every Business",
         "EXPERTISE. ACROSS INDUSTRIES WORLDWIDE.",
         "LET'S GET REAL",
+        "Global",
+        "Your Privacy",
         "1 PAYMENT SOLUTION. 0 screaming.",
         "B2B PAYMENTS",
         "eCOMMERCE",
@@ -2221,11 +2206,9 @@
         "CASE STUDY: KADMOS",
         "CASE STUDY: LITTLEPAY",
         "RAPYD RECOGNITION",
-        "Build Bold. Get Rapyd.",
-        "Partners",
-        "Products"
+        "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Rapyd",
@@ -2233,6 +2216,8 @@
       "url": "https://www.rapyd.net/pricing/",
       "lines": [
         "SORRY, THIS PAGE COULD NOT BE FOUND.",
+        "Global",
+        "Your Privacy",
         "Partners",
         "Products",
         "Icelandic",
@@ -2240,24 +2225,22 @@
         "Developers",
         "Company",
         "Legal, Security & Privacy",
-        "Skip to content",
-        "Partner Programme",
-        "Referral Agents & Consultants",
-        "ISOs & ISVs",
-        "PayFacs",
-        "Apply Now",
-        "Financial Services Infrastructure",
-        "Accept Payments Online",
-        "Accept Payments In-Store",
-        "Short-Term Hire",
-        "Merchant Services",
-        "Israel Card Acquiring",
-        "Send Payouts",
-        "Issue Cards",
-        "Multi-Currency Business Accounts",
-        "Use Cases"
+        "Targeting Cookies",
+        "Functional Cookies",
+        "Performance Cookies",
+        "Strictly Necessary Cookies",
+        "Cookie List",
+        "Cookie Settings",
+        "Reject All",
+        "Accept",
+        "Back Button",
+        "Filter Button",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Confirm My Choices"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Rapyd",
@@ -2266,30 +2249,30 @@
       "lines": [
         "Documentation",
         "Search results",
+        "Global",
+        "Your Privacy",
+        "Targeting Cookies",
+        "Functional Cookies",
+        "Performance Cookies",
+        "Strictly Necessary Cookies",
+        "Cookie List",
         "Toggle navigation",
         "English",
+        "Reject All",
+        "Accept",
+        "Cookie Settings",
+        "Back Button",
+        "Filter Button",
+        "Clear",
+        "Apply",
+        "Cancel",
+        "Confirm My Choices",
+        "Accept All",
         "Skip to main content",
         "Log In",
-        "español",
-        "Get Started as a Merchant",
-        "Account Setup",
-        "Make Your First API Call",
-        "Create a Payment in Python",
-        "Community Resources",
-        "Account Activation",
-        "Client Portal Guide",
-        "Accessing the Client Portal",
-        "Signing Up for an Account",
-        "Signing In to the Client Portal",
-        "Accepting an Invitation to the Client Portal",
-        "Accounts and Credentials",
-        "Using a Two-Factor Authentication App",
-        "Get Started",
-        "Home Page",
-        "My Account",
-        "Managing My Account"
+        "español"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Rapyd",
@@ -2308,6 +2291,8 @@
         "London, U.K (1)",
         "POWER GLOBAL PAYMENTS",
         "DRIVE REAL BUSINESS IMPACT",
+        "Global",
+        "Your Privacy",
         "Don’t Wait For Impact. Create It.",
         "EXPLORE RAPYD CAREERS BY LOCATION",
         "WHAT THE INDUSTRY IS SAYING",
@@ -2317,11 +2302,9 @@
         "Products",
         "Icelandic",
         "Industries",
-        "Developers",
-        "Company",
-        "Legal, Security & Privacy"
+        "Developers"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Lithic",
@@ -2353,7 +2336,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Lithic",
@@ -2385,7 +2368,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Lithic",
@@ -2417,7 +2400,7 @@
         "Sandbox A safe environment mirroring production — run cards, transactions, and webhooks end-to-end. Open the sandbox",
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Lithic",
@@ -2449,7 +2432,7 @@
         "Health Insurance",
         "Family Leave"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Dwolla",
@@ -2481,7 +2464,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Dwolla",
@@ -2513,7 +2496,7 @@
         "Privacy Policy",
         "Skip to content"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Dwolla",
@@ -2545,7 +2528,7 @@
         "Manage Preferences",
         "Resources"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     },
     {
       "company": "Dwolla",
@@ -2577,7 +2560,7 @@
         "Tokenization",
         "Bank Verification"
       ],
-      "fetchedAt": "2026-09-30T19:25:29.613Z"
+      "fetchedAt": "2026-10-01T19:37:49.452Z"
     }
   ],
   "targetCoverage": [
@@ -2585,7 +2568,7 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 83
     },
     {
       "company": "Adyen",
@@ -2633,7 +2616,7 @@
   "weeklyBrief": {
     "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
     "bullets": [
-      "Adyen: Adyen Logo • Contact usContact us • Cookie Policy Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies",
+      "Adyen: Cookie Policy • Cookie Preference Center • Adyen Logo Cookie Policy Cookie Preference Center Manage Consent Preferences Cookie List Accept Cookies Adyen Logo Contact usContact us Get in touch 7-Eleven Malaysia Accel",
       "pricing is the strongest current theme across 2 companies.",
       "8 targets were monitored across 32 pages."
     ]
