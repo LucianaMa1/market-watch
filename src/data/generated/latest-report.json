@@ -1,122 +1,191 @@
 {
-  "generatedAt": "2026-10-05T21:30:00.517Z",
+  "generatedAt": "2026-10-05T21:41:07.359Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 6,
+    "importantSignals": 7,
     "baselineSignals": 0,
     "targetsMonitored": 8,
-    "urgentSignals": 3
+    "urgentSignals": 4
   },
   "topChanges": [
     {
-      "id": "finix-pricing",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
+      "id": "checkout-pricing",
+      "company": "Checkout.com",
+      "companySlug": "checkout-com",
+      "targetId": "checkout",
       "pageType": "pricing",
-      "url": "https://finix.com/pricing",
-      "category": "enterprise",
-      "score": 100,
-      "summary": "Compliance Forms • Reach out Compliance Forms Reach out",
-      "added": [
-        "Compliance Forms"
-      ],
-      "removed": [
-        "Reach out"
-      ],
-      "isBaseline": false,
-      "recommendation": "Track if Finix is stacking enterprise proof points; this usually precedes more assertive sales motion.",
-      "audience": "Enterprise sellers, partnerships leads, and product teams moving upmarket.",
-      "postAngle": "Finix is stacking new enterprise proof points. That usually shows where sales pressure is coming from before the roadmap catches up.",
-      "tags": [
-        "pricing",
-        "enterprise"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "dwolla-pricing",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "pricing",
-      "url": "https://www.dwolla.com/pricing/",
+      "url": "https://www.checkout.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
+      "summary": "Do Not Sell or Share My Personal Data • Cookie List • Cookies and use of our website Do Not Sell or Share My Personal Data Cookie List Do Not Sell or Share My Personal Information Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
+        "Do Not Sell or Share My Personal Data",
+        "Cookie List",
+        "Do Not Sell or Share My Personal Information",
+        "Accept Cookies",
+        "Filter Icon"
       ],
       "removed": [
-        "Close this consent banner",
-        "Close"
+        "Cookies and use of our website",
+        "Cookies Settings",
+        "Vendors List",
+        "Accept All Cookies",
+        "View Vendor Details"
       ],
       "isBaseline": false,
-      "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
-      "postAngle": "Dwolla just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "postAngle": "Checkout.com just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
-      "id": "dwolla-docs",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "docs",
-      "url": "https://developers.dwolla.com/",
-      "category": "product",
-      "score": 95,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
+      "id": "rapyd-pricing",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "pricing",
+      "url": "https://www.rapyd.net/pricing/",
+      "category": "pricing",
+      "score": 100,
+      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details Global Reject All Accept",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details"
       ],
       "removed": [
-        "Close this consent banner",
-        "Search...⌘K"
+        "Global",
+        "Reject All",
+        "Accept"
       ],
       "isBaseline": false,
-      "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
+      "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Rapyd just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "pricing"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "rapyd-docs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "docs",
+      "url": "https://docs.rapyd.net/",
+      "category": "product",
+      "score": 100,
+      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details‎ Global Reject All Accept",
+      "added": [
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details‎"
+      ],
+      "removed": [
+        "Global",
+        "Reject All",
+        "Accept"
+      ],
+      "isBaseline": false,
+      "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
       "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
-      "postAngle": "Dwolla appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
+      "postAngle": "Rapyd appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
-      "id": "dwolla-jobs",
-      "company": "Dwolla",
-      "companySlug": "dwolla",
-      "targetId": "dwolla",
-      "pageType": "jobs",
-      "url": "https://www.dwolla.com/company/careers/",
-      "category": "hiring",
-      "score": 83,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Secure Exchange Solution",
+      "id": "checkout-homepage",
+      "company": "Checkout.com",
+      "companySlug": "checkout-com",
+      "targetId": "checkout",
+      "pageType": "homepage",
+      "url": "https://www.checkout.com/",
+      "category": "pricing",
+      "score": 98,
+      "summary": "Do Not Sell or Share My Personal Data • 2025 Annual Letter: The Power of the Long View • Cookies and use of our website Do Not Sell or Share My Personal Data 2025 Annual Letter: The Power of the Long View Cookies and use of our website Cookies Settings",
       "added": [
-        "Accept",
-        "Deny Non-Essential"
+        "Do Not Sell or Share My Personal Data",
+        "2025 Annual Letter: The Power of the Long View"
       ],
       "removed": [
-        "Close this consent banner",
-        "Secure Exchange Solution"
+        "Cookies and use of our website",
+        "Cookies Settings"
       ],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Checkout.com just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "homepage",
+        "pricing"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "checkout-jobs",
+      "company": "Checkout.com",
+      "companySlug": "checkout-com",
+      "targetId": "checkout",
+      "pageType": "jobs",
+      "url": "https://www.checkout.com/careers",
+      "category": "hiring",
+      "score": 83,
+      "summary": "Do Not Sell or Share My Personal Data • Cookie List • Cookies and use of our website Do Not Sell or Share My Personal Data Cookie List Cookies and use of our website Cookies Settings",
+      "added": [
+        "Do Not Sell or Share My Personal Data",
+        "Cookie List"
+      ],
+      "removed": [
+        "Cookies and use of our website",
+        "Cookies Settings"
+      ],
+      "isBaseline": false,
+      "recommendation": "Watch the role mix at Checkout.com; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Dwolla's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "postAngle": "Checkout.com's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
+    {
+      "id": "rapyd-jobs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "jobs",
+      "url": "https://www.rapyd.net/careers/",
+      "category": "hiring",
+      "score": 83,
+      "summary": "Cookie Settings • Company • Global Cookie Settings Company Global Your Privacy",
+      "added": [
+        "Cookie Settings",
+        "Company"
+      ],
+      "removed": [
+        "Global",
+        "Your Privacy"
+      ],
+      "isBaseline": false,
+      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    }
+  ],
+  "noise": [
     {
       "id": "stripe-homepage",
       "company": "Stripe",
@@ -124,53 +193,21 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Get Stripe product recommendations • 150K+ users have their best day ever on Stripe. Get Stripe product recommendations 150K+ users have their best day ever on Stripe.",
-      "added": [
-        "Get Stripe product recommendations"
-      ],
-      "removed": [
-        "150K+ users have their best day ever on Stripe."
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Stripe homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
-    {
-      "id": "finix-homepage",
-      "company": "Finix",
-      "companySlug": "finix",
-      "targetId": "finix",
-      "pageType": "homepage",
-      "url": "https://finix.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Finix Homepage • Reach out Finix Homepage Reach out",
-      "added": [
-        "Finix Homepage"
-      ],
-      "removed": [
-        "Reach out"
-      ],
-      "isBaseline": false,
-      "recommendation": "Compare Finix's new messaging against peers to see if a broader category shift is underway.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Finix changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    }
-  ],
-  "noise": [
     {
       "id": "stripe-pricing",
       "company": "Stripe",
@@ -190,7 +227,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "stripe-docs",
@@ -212,7 +249,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "stripe-jobs",
@@ -234,7 +271,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-homepage",
@@ -256,7 +293,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-pricing",
@@ -277,7 +314,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-docs",
@@ -299,7 +336,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-jobs",
@@ -321,50 +358,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "checkout-homepage",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "homepage",
-      "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "checkout-pricing",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "pricing",
-      "url": "https://www.checkout.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
-      "postAngle": "Checkout.com just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "checkout-docs",
@@ -386,29 +380,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "checkout-jobs",
-      "company": "Checkout.com",
-      "companySlug": "checkout-com",
-      "targetId": "checkout",
-      "pageType": "jobs",
-      "url": "https://www.checkout.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Checkout.com's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-homepage",
@@ -430,7 +402,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-pricing",
@@ -451,7 +423,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-docs",
@@ -473,7 +445,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-jobs",
@@ -495,7 +467,50 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "finix-homepage",
+      "company": "Finix",
+      "companySlug": "finix",
+      "targetId": "finix",
+      "pageType": "homepage",
+      "url": "https://finix.com/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix homepage monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Finix changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "tags": [
+        "homepage",
+        "positioning"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "finix-pricing",
+      "company": "Finix",
+      "companySlug": "finix",
+      "targetId": "finix",
+      "pageType": "pricing",
+      "url": "https://finix.com/pricing",
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix pricing monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Finix just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "pricing"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-docs",
@@ -517,7 +532,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-jobs",
@@ -539,94 +554,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "rapyd-homepage",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "homepage",
-      "url": "https://www.rapyd.net/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd homepage monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Rapyd changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
-      "tags": [
-        "homepage",
-        "positioning"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "rapyd-pricing",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "pricing",
-      "url": "https://www.rapyd.net/pricing/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd pricing monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
-      "postAngle": "Rapyd just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
-      "tags": [
-        "pricing"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "rapyd-docs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "docs",
-      "url": "https://docs.rapyd.net/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd docs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
-      "postAngle": "Rapyd appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
-      "tags": [
-        "docs",
-        "product"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
-    },
-    {
-      "id": "rapyd-jobs",
-      "company": "Rapyd",
-      "companySlug": "rapyd",
-      "targetId": "rapyd",
-      "pageType": "jobs",
-      "url": "https://www.rapyd.net/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd jobs monitored successfully",
-      "added": [],
-      "removed": [],
-      "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Operators tracking where teams are placing their next strategic bets.",
-      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
-      "tags": [
-        "jobs",
-        "hiring"
-      ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-homepage",
@@ -648,7 +576,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-pricing",
@@ -669,7 +597,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-docs",
@@ -691,7 +619,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-jobs",
@@ -713,7 +641,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "dwolla-homepage",
@@ -735,7 +663,72 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "dwolla-pricing",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
+      "pageType": "pricing",
+      "url": "https://www.dwolla.com/pricing/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla pricing monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Dwolla just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "pricing"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "dwolla-docs",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
+      "pageType": "docs",
+      "url": "https://developers.dwolla.com/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla docs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
+      "postAngle": "Dwolla appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
+      "tags": [
+        "docs",
+        "product"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
+    },
+    {
+      "id": "dwolla-jobs",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
+      "pageType": "jobs",
+      "url": "https://www.dwolla.com/company/careers/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Dwolla's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     }
   ],
   "signals": [
@@ -746,24 +739,20 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Get Stripe product recommendations • 150K+ users have their best day ever on Stripe. Get Stripe product recommendations 150K+ users have their best day ever on Stripe.",
-      "added": [
-        "Get Stripe product recommendations"
-      ],
-      "removed": [
-        "150K+ users have their best day ever on Stripe."
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Stripe homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "stripe-pricing",
@@ -784,7 +773,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "stripe-docs",
@@ -806,7 +795,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "stripe-jobs",
@@ -828,7 +817,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-homepage",
@@ -850,7 +839,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-pricing",
@@ -871,7 +860,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-docs",
@@ -893,7 +882,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "adyen-jobs",
@@ -915,7 +904,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "checkout-homepage",
@@ -924,20 +913,26 @@
       "targetId": "checkout",
       "pageType": "homepage",
       "url": "https://www.checkout.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "pricing",
+      "score": 98,
+      "summary": "Do Not Sell or Share My Personal Data • 2025 Annual Letter: The Power of the Long View • Cookies and use of our website Do Not Sell or Share My Personal Data 2025 Annual Letter: The Power of the Long View Cookies and use of our website Cookies Settings",
+      "added": [
+        "Do Not Sell or Share My Personal Data",
+        "2025 Annual Letter: The Power of the Long View"
+      ],
+      "removed": [
+        "Cookies and use of our website",
+        "Cookies Settings"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
-      "audience": "Founders, marketers, and category designers watching narrative shifts.",
-      "postAngle": "Checkout.com changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Checkout.com just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "homepage",
-        "positioning"
+        "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "checkout-pricing",
@@ -946,19 +941,31 @@
       "targetId": "checkout",
       "pageType": "pricing",
       "url": "https://www.checkout.com/pricing",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com pricing monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "pricing",
+      "score": 100,
+      "summary": "Do Not Sell or Share My Personal Data • Cookie List • Cookies and use of our website Do Not Sell or Share My Personal Data Cookie List Do Not Sell or Share My Personal Information Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
+      "added": [
+        "Do Not Sell or Share My Personal Data",
+        "Cookie List",
+        "Do Not Sell or Share My Personal Information",
+        "Accept Cookies",
+        "Filter Icon"
+      ],
+      "removed": [
+        "Cookies and use of our website",
+        "Cookies Settings",
+        "Vendors List",
+        "Accept All Cookies",
+        "View Vendor Details"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
       "postAngle": "Checkout.com just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "checkout-docs",
@@ -980,7 +987,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "checkout-jobs",
@@ -989,20 +996,26 @@
       "targetId": "checkout",
       "pageType": "jobs",
       "url": "https://www.checkout.com/careers",
-      "category": "noise",
-      "score": 24,
-      "summary": "Checkout.com jobs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "hiring",
+      "score": 83,
+      "summary": "Do Not Sell or Share My Personal Data • Cookie List • Cookies and use of our website Do Not Sell or Share My Personal Data Cookie List Cookies and use of our website Cookies Settings",
+      "added": [
+        "Do Not Sell or Share My Personal Data",
+        "Cookie List"
+      ],
+      "removed": [
+        "Cookies and use of our website",
+        "Cookies Settings"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Watch the role mix at Checkout.com; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Checkout.com's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-homepage",
@@ -1024,7 +1037,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-pricing",
@@ -1045,7 +1058,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-docs",
@@ -1067,7 +1080,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "primer-jobs",
@@ -1089,7 +1102,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-homepage",
@@ -1098,24 +1111,20 @@
       "targetId": "finix",
       "pageType": "homepage",
       "url": "https://finix.com/",
-      "category": "positioning",
-      "score": 71,
-      "summary": "Finix Homepage • Reach out Finix Homepage Reach out",
-      "added": [
-        "Finix Homepage"
-      ],
-      "removed": [
-        "Reach out"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Compare Finix's new messaging against peers to see if a broader category shift is underway.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Finix changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-pricing",
@@ -1124,24 +1133,19 @@
       "targetId": "finix",
       "pageType": "pricing",
       "url": "https://finix.com/pricing",
-      "category": "enterprise",
-      "score": 100,
-      "summary": "Compliance Forms • Reach out Compliance Forms Reach out",
-      "added": [
-        "Compliance Forms"
-      ],
-      "removed": [
-        "Reach out"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Finix pricing monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Track if Finix is stacking enterprise proof points; this usually precedes more assertive sales motion.",
-      "audience": "Enterprise sellers, partnerships leads, and product teams moving upmarket.",
-      "postAngle": "Finix is stacking new enterprise proof points. That usually shows where sales pressure is coming from before the roadmap catches up.",
+      "recommendation": "No action needed yet.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Finix just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
-        "pricing",
-        "enterprise"
+        "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-docs",
@@ -1163,7 +1167,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "finix-jobs",
@@ -1185,7 +1189,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1194,20 +1198,26 @@
       "targetId": "rapyd",
       "pageType": "homepage",
       "url": "https://www.rapyd.net/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 81,
+      "summary": "Cookie Settings • Partners • Global Cookie Settings Partners Global Your Privacy",
+      "added": [
+        "Cookie Settings",
+        "Partners"
+      ],
+      "removed": [
+        "Global",
+        "Your Privacy"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Rapyd's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Rapyd changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1216,19 +1226,27 @@
       "targetId": "rapyd",
       "pageType": "pricing",
       "url": "https://www.rapyd.net/pricing/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd pricing monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "pricing",
+      "score": 100,
+      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details Global Reject All Accept",
+      "added": [
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details"
+      ],
+      "removed": [
+        "Global",
+        "Reject All",
+        "Accept"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Check whether Rapyd is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
       "postAngle": "Rapyd just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "rapyd-docs",
@@ -1237,20 +1255,28 @@
       "targetId": "rapyd",
       "pageType": "docs",
       "url": "https://docs.rapyd.net/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd docs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "product",
+      "score": 100,
+      "summary": "Decline Optional Cookies • Accept All Cookies • Global Decline Optional Cookies Accept All Cookies Cookies Details‎ Global Reject All Accept",
+      "added": [
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details‎"
+      ],
+      "removed": [
+        "Global",
+        "Reject All",
+        "Accept"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Look for downstream GTM implications at Rapyd: what new workflow or use case are they trying to unlock?",
       "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
       "postAngle": "Rapyd appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1259,20 +1285,26 @@
       "targetId": "rapyd",
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Rapyd jobs monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "hiring",
+      "score": 83,
+      "summary": "Cookie Settings • Company • Global Cookie Settings Company Global Your Privacy",
+      "added": [
+        "Cookie Settings",
+        "Company"
+      ],
+      "removed": [
+        "Global",
+        "Your Privacy"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-homepage",
@@ -1294,7 +1326,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-pricing",
@@ -1315,7 +1347,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-docs",
@@ -1337,7 +1369,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "lithic-jobs",
@@ -1359,7 +1391,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1381,7 +1413,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1390,25 +1422,19 @@
       "targetId": "dwolla",
       "pageType": "pricing",
       "url": "https://www.dwolla.com/pricing/",
-      "category": "pricing",
-      "score": 100,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
-      "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
-        "Close this consent banner",
-        "Close"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla pricing monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
       "postAngle": "Dwolla just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "dwolla-docs",
@@ -1417,26 +1443,20 @@
       "targetId": "dwolla",
       "pageType": "docs",
       "url": "https://developers.dwolla.com/",
-      "category": "product",
-      "score": 95,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
-      "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
-        "Close this consent banner",
-        "Search...⌘K"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla docs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
+      "recommendation": "No action needed yet.",
       "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
       "postAngle": "Dwolla appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
       "tags": [
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1445,69 +1465,56 @@
       "targetId": "dwolla",
       "pageType": "jobs",
       "url": "https://www.dwolla.com/company/careers/",
-      "category": "hiring",
-      "score": 83,
-      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Secure Exchange Solution",
-      "added": [
-        "Accept",
-        "Deny Non-Essential"
-      ],
-      "removed": [
-        "Close this consent banner",
-        "Secure Exchange Solution"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Dwolla jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Dwolla's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-05T21:30:00.517Z"
+      "capturedAt": "2026-10-05T21:41:07.359Z"
     }
   ],
   "trends": [
     {
-      "category": "enterprise",
+      "category": "product",
       "count": 1,
       "companies": [
-        "Finix"
+        "Rapyd"
       ],
       "averageScore": 100
     },
     {
       "category": "pricing",
-      "count": 1,
+      "count": 3,
       "companies": [
-        "Dwolla"
+        "Checkout.com",
+        "Rapyd"
       ],
-      "averageScore": 100
-    },
-    {
-      "category": "product",
-      "count": 1,
-      "companies": [
-        "Dwolla"
-      ],
-      "averageScore": 95
+      "averageScore": 99
     },
     {
       "category": "hiring",
-      "count": 1,
+      "count": 2,
       "companies": [
-        "Dwolla"
+        "Checkout.com",
+        "Rapyd"
       ],
       "averageScore": 83
     },
     {
       "category": "positioning",
-      "count": 2,
+      "count": 1,
       "companies": [
-        "Finix",
-        "Stripe"
+        "Rapyd"
       ],
-      "averageScore": 71
+      "averageScore": 81
     }
   ],
   "snapshots": [
@@ -1541,7 +1548,7 @@
         "Choose an integration path.",
         "Businesses on Stripe generated $1.9T in 2025."
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Stripe",
@@ -1573,7 +1580,7 @@
         "Bank-based and other payment methods",
         "Stablecoins"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Stripe",
@@ -1605,7 +1612,7 @@
         "Risk",
         "Data"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Stripe",
@@ -1637,7 +1644,7 @@
         "Atlas",
         "Authorization Boost"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Adyen",
@@ -1669,7 +1676,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Adyen",
@@ -1701,7 +1708,7 @@
         "Global (English)Global (English)",
         "Accept Cookies"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Adyen",
@@ -1733,7 +1740,7 @@
         "Server-side libraries Find a library that supports Terminal API",
         "Example integrations Have a look at our in-person payments examples"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Adyen",
@@ -1765,7 +1772,7 @@
         "Allow All",
         "Back Button"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Checkout.com",
@@ -1785,8 +1792,7 @@
         "Popular resources",
         "Developer resources",
         "Frequently asked questions",
-        "Cookies and use of our website",
-        "Cookies Settings",
+        "Do Not Sell or Share My Personal Data",
         "Thrive Newport Beach 2026: Highlights and key takeaways",
         "Australia’s 2026 card payment changes: What merchants should know",
         "How to master payments in Europe and the UK",
@@ -1795,9 +1801,10 @@
         "What are alternative payment methods (APMs)?",
         "What is a direct debit mandate?",
         "My Path in Payments: Laura Treude Director of Group Payment",
-        "Consumers welcome agentic commerce in MENA"
+        "Consumers welcome agentic commerce in MENA",
+        "2025 Annual Letter: The Power of the Long View"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Checkout.com",
@@ -1810,8 +1817,7 @@
         "Unbeatable benefits",
         "Refreshingly transparent pricing",
         "Empowering forward-thinking companies from startups to global superbrands.",
-        "Cookies and use of our website",
-        "Cookies Settings",
+        "Do Not Sell or Share My Personal Data",
         "Fully flat-rate",
         "Free for charities",
         "Simple interchange++ fees",
@@ -1820,16 +1826,17 @@
         "Fraud tools",
         "Unified Payments API",
         "Manage Consent Preferences",
-        "Vendors List",
+        "Cookie List",
         "Back",
         "Next",
+        "Do Not Sell or Share My Personal Information",
         "Reject All",
-        "Accept All Cookies",
+        "Accept Cookies",
         "Allow All",
-        "View Vendor Details",
-        "Back Button"
+        "Back Button",
+        "Filter Icon"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Checkout.com",
@@ -1861,7 +1868,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Checkout.com",
@@ -1878,8 +1885,7 @@
         "our values",
         "EMPLOYABILITY HUB",
         "Voices of Checkout",
-        "Cookies and use of our website",
-        "Cookies Settings",
+        "Do Not Sell or Share My Personal Data",
         "Diverse Perspectives",
         "Collaboration",
         "Transparency",
@@ -1891,9 +1897,10 @@
         "Davi Chikasha-Auld",
         "Isabel Scavetta",
         "Keisi Mançellari",
-        "Manage Consent Preferences"
+        "Manage Consent Preferences",
+        "Cookie List"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Primer",
@@ -1925,7 +1932,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Primer",
@@ -1947,7 +1954,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Primer",
@@ -1979,7 +1986,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Primer",
@@ -2011,7 +2018,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Finix",
@@ -2043,7 +2050,7 @@
         "Documentation",
         "Finix Homepage"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Finix",
@@ -2075,7 +2082,7 @@
         "Merchant Underwriting",
         "Compliance Forms"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Finix",
@@ -2107,7 +2114,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Finix",
@@ -2139,7 +2146,7 @@
         "Sr. Organic Growth Manager",
         "Senior Software Engineer"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Rapyd",
@@ -2149,8 +2156,7 @@
         "The Fintech Platform For Every Business",
         "EXPERTISE. ACROSS INDUSTRIES WORLDWIDE.",
         "LET'S GET REAL",
-        "Global",
-        "Your Privacy",
+        "Cookie Settings",
         "1 PAYMENT SOLUTION. 0 screaming.",
         "B2B PAYMENTS",
         "eCOMMERCE",
@@ -2169,9 +2175,10 @@
         "CASE STUDY: KADMOS",
         "CASE STUDY: LITTLEPAY",
         "RAPYD RECOGNITION",
-        "Build Bold. Get Rapyd."
+        "Build Bold. Get Rapyd.",
+        "Partners"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Rapyd",
@@ -2179,8 +2186,7 @@
       "url": "https://www.rapyd.net/pricing/",
       "lines": [
         "SORRY, THIS PAGE COULD NOT BE FOUND.",
-        "Global",
-        "Your Privacy",
+        "Cookie Settings",
         "Partners",
         "Products",
         "Icelandic",
@@ -2188,14 +2194,15 @@
         "Developers",
         "Company",
         "Legal, Security & Privacy",
-        "Targeting Cookies",
+        "Your Privacy",
+        "Strictly Necessary Cookies",
         "Functional Cookies",
         "Performance Cookies",
-        "Strictly Necessary Cookies",
+        "Targeting Cookies",
         "Cookie List",
-        "Cookie Settings",
-        "Reject All",
-        "Accept",
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details",
         "Back Button",
         "Filter Button",
         "Clear",
@@ -2203,7 +2210,7 @@
         "Cancel",
         "Confirm My Choices"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Rapyd",
@@ -2212,18 +2219,18 @@
       "lines": [
         "Documentation",
         "Search results",
-        "Global",
+        "Cookie Settings",
         "Your Privacy",
-        "Targeting Cookies",
+        "Strictly Necessary Cookies",
         "Functional Cookies",
         "Performance Cookies",
-        "Strictly Necessary Cookies",
+        "Targeting Cookies",
         "Cookie List",
         "Toggle navigation",
         "English",
-        "Reject All",
-        "Accept",
-        "Cookie Settings",
+        "Decline Optional Cookies",
+        "Accept All Cookies",
+        "Cookies Details‎",
         "Back Button",
         "Filter Button",
         "Clear",
@@ -2235,7 +2242,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Rapyd",
@@ -2245,17 +2252,16 @@
         "DREAM JOBS.REAL OPPORTUNITIES.",
         "BUILD BOLD",
         "LIBERATE GLOBAL COMMERCE",
-        "Reykjavík, Iceland (1)",
-        "Bogota, Colombia (9)",
         "Buenos Aires, Argentina (1)",
         "London, U.K (1)",
         "Singapore (1)",
         "São Paulo, Brazil (1)",
         "Tel Aviv, Israel (17)",
+        "Reykjavík, Iceland (1)",
+        "Bogota, Colombia (9)",
         "POWER GLOBAL PAYMENTS",
         "DRIVE REAL BUSINESS IMPACT",
-        "Global",
-        "Your Privacy",
+        "Cookie Settings",
         "Don’t Wait For Impact. Create It.",
         "EXPLORE RAPYD CAREERS BY LOCATION",
         "WHAT THE INDUSTRY IS SAYING",
@@ -2265,9 +2271,10 @@
         "Products",
         "Icelandic",
         "Industries",
-        "Developers"
+        "Developers",
+        "Company"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Lithic",
@@ -2299,7 +2306,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Lithic",
@@ -2331,7 +2338,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Lithic",
@@ -2363,7 +2370,7 @@
         "Sandbox A safe environment mirroring production — run cards, transactions, and webhooks end-to-end. Open the sandbox",
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Lithic",
@@ -2395,7 +2402,7 @@
         "Health Insurance",
         "Family Leave"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Dwolla",
@@ -2427,7 +2434,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Dwolla",
@@ -2459,7 +2466,7 @@
         "Privacy Policy",
         "Skip to content"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Dwolla",
@@ -2491,7 +2498,7 @@
         "Manage Preferences",
         "Resources"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     },
     {
       "company": "Dwolla",
@@ -2523,7 +2530,7 @@
         "Tokenization",
         "Bank Verification"
       ],
-      "fetchedAt": "2026-10-05T21:30:00.517Z"
+      "fetchedAt": "2026-10-05T21:41:07.359Z"
     }
   ],
   "targetCoverage": [
@@ -2531,7 +2538,7 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 71
+      "latestSignalScore": 24
     },
     {
       "company": "Adyen",
@@ -2543,7 +2550,7 @@
       "company": "Checkout.com",
       "category": "enterprise payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 100
     },
     {
       "company": "Primer",
@@ -2555,13 +2562,13 @@
       "company": "Finix",
       "category": "payments api infrastructure",
       "pagesTracked": 4,
-      "latestSignalScore": 100
+      "latestSignalScore": 24
     },
     {
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 100
     },
     {
       "company": "Lithic",
@@ -2573,14 +2580,14 @@
       "company": "Dwolla",
       "category": "bank payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 100
+      "latestSignalScore": 24
     }
   ],
   "weeklyBrief": {
-    "headline": "enterprise signals are leading this cycle, with Finix setting the pace.",
+    "headline": "product signals are leading this cycle, with Checkout.com setting the pace.",
     "bullets": [
-      "Finix: Compliance Forms • Reach out Compliance Forms Reach out",
-      "enterprise is the strongest current theme across 1 companies.",
+      "Checkout.com: Do Not Sell or Share My Personal Data • Cookie List • Cookies and use of our website Do Not Sell or Share My Personal Data Cookie List Do Not Sell or Share My Personal Information Accept Cookies Filter Icon Cookies and use of our website Cookies Settings Vendors List Accept All Cookies View Vendor Details",
+      "product is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }

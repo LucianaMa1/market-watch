@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-10-05T21:41:07.359Z",
+    "headline": "product signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "product",
+      "pricing",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Rapyd",
+      "Rapyd"
+    ],
+    "urgentSignals": 4,
+    "importantSignals": 7
+  },
+  {
     "generatedAt": "2026-10-05T21:30:00.517Z",
     "headline": "enterprise signals are leading this cycle, with Finix setting the pace.",
     "topCategories": [
@@ -205,21 +221,5 @@
     ],
     "urgentSignals": 4,
     "importantSignals": 9
-  },
-  {
-    "generatedAt": "2026-09-23T18:25:14.869Z",
-    "headline": "pricing signals are leading this cycle, with Finix setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Finix",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 5,
-    "importantSignals": 8
   }
 ]
