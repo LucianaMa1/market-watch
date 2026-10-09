@@ -1,5 +1,20 @@
 [
   {
+    "generatedAt": "2026-10-09T19:33:36.627Z",
+    "headline": "hiring signals are leading this cycle, with Stripe setting the pace.",
+    "topCategories": [
+      "hiring",
+      "product"
+    ],
+    "topCompanies": [
+      "Stripe",
+      "Checkout.com",
+      "Rapyd"
+    ],
+    "urgentSignals": 0,
+    "importantSignals": 3
+  },
+  {
     "generatedAt": "2026-10-08T19:59:04.135Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
@@ -205,21 +220,5 @@
     ],
     "urgentSignals": 5,
     "importantSignals": 11
-  },
-  {
-    "generatedAt": "2026-09-27T18:26:21.000Z",
-    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Checkout.com",
-      "Rapyd",
-      "Rapyd"
-    ],
-    "urgentSignals": 6,
-    "importantSignals": 12
   }
 ]
