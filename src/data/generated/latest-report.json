@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T17:24:56.087Z",
+  "generatedAt": "2026-10-19T19:57:48.907Z",
   "summary": {
     "totalSignals": 32,
-    "importantSignals": 4,
+    "importantSignals": 5,
     "baselineSignals": 0,
     "targetsMonitored": 8,
     "urgentSignals": 2
@@ -17,14 +17,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Close this consent banner • Close • Accept Close this consent banner Close Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
       "added": [
-        "Close this consent banner",
-        "Close"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Close"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -33,7 +33,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-docs",
@@ -44,14 +44,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Close this consent banner • Search...⌘K • Accept Close this consent banner Search...⌘K Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
       "added": [
-        "Close this consent banner",
-        "Search...⌘K"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Search...⌘K"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -61,7 +61,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-jobs",
@@ -72,14 +72,14 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 83,
-      "summary": "Close this consent banner • Secure Exchange Solution • Accept Close this consent banner Secure Exchange Solution Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Secure Exchange Solution",
       "added": [
-        "Close this consent banner",
-        "Secure Exchange Solution"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Secure Exchange Solution"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -89,7 +89,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-jobs",
@@ -100,12 +100,12 @@
       "url": "https://www.rapyd.net/careers/",
       "category": "hiring",
       "score": 73,
-      "summary": "Tel Aviv, Israel (12) • Tel Aviv, Israel (15) Tel Aviv, Israel (12) Tel Aviv, Israel (15)",
+      "summary": "Bogota, Colombia (9) • Bogota, Colombia (13) Bogota, Colombia (9) Bogota, Colombia (13)",
       "added": [
-        "Tel Aviv, Israel (12)"
+        "Bogota, Colombia (9)"
       ],
       "removed": [
-        "Tel Aviv, Israel (15)"
+        "Bogota, Colombia (13)"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -115,10 +115,8 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
-    }
-  ],
-  "noise": [
+      "capturedAt": "2026-10-19T19:57:48.907Z"
+    },
     {
       "id": "stripe-homepage",
       "company": "Stripe",
@@ -126,21 +124,27 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
+      "added": [
+        "150K+ users have their best day ever on Stripe."
+      ],
+      "removed": [
+        "Get Stripe product recommendations"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
-    },
+      "capturedAt": "2026-10-19T19:57:48.907Z"
+    }
+  ],
+  "noise": [
     {
       "id": "stripe-pricing",
       "company": "Stripe",
@@ -160,7 +164,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "stripe-docs",
@@ -182,7 +186,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "stripe-jobs",
@@ -204,7 +208,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-homepage",
@@ -226,7 +230,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-pricing",
@@ -247,7 +251,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-docs",
@@ -269,7 +273,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-jobs",
@@ -291,7 +295,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-homepage",
@@ -313,7 +317,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-pricing",
@@ -334,7 +338,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-docs",
@@ -356,7 +360,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-jobs",
@@ -378,7 +382,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-homepage",
@@ -400,7 +404,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-pricing",
@@ -421,7 +425,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-docs",
@@ -443,7 +447,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-jobs",
@@ -465,7 +469,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-homepage",
@@ -487,7 +491,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-pricing",
@@ -508,7 +512,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-docs",
@@ -530,7 +534,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-jobs",
@@ -552,7 +556,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-homepage",
@@ -574,7 +578,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-pricing",
@@ -595,7 +599,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-docs",
@@ -617,7 +621,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-homepage",
@@ -639,7 +643,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-pricing",
@@ -660,7 +664,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-docs",
@@ -682,7 +686,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-jobs",
@@ -704,7 +708,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-homepage",
@@ -726,7 +730,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     }
   ],
   "signals": [
@@ -737,20 +741,24 @@
       "targetId": "stripe",
       "pageType": "homepage",
       "url": "https://stripe.com/",
-      "category": "noise",
-      "score": 24,
-      "summary": "Stripe homepage monitored successfully",
-      "added": [],
-      "removed": [],
+      "category": "positioning",
+      "score": 71,
+      "summary": "150K+ users have their best day ever on Stripe. • Get Stripe product recommendations 150K+ users have their best day ever on Stripe. Get Stripe product recommendations",
+      "added": [
+        "150K+ users have their best day ever on Stripe."
+      ],
+      "removed": [
+        "Get Stripe product recommendations"
+      ],
       "isBaseline": false,
-      "recommendation": "No action needed yet.",
+      "recommendation": "Compare Stripe's new messaging against peers to see if a broader category shift is underway.",
       "audience": "Founders, marketers, and category designers watching narrative shifts.",
       "postAngle": "Stripe changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "stripe-pricing",
@@ -771,7 +779,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "stripe-docs",
@@ -793,7 +801,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "stripe-jobs",
@@ -815,7 +823,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-homepage",
@@ -837,7 +845,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-pricing",
@@ -858,7 +866,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-docs",
@@ -880,7 +888,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "adyen-jobs",
@@ -902,7 +910,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-homepage",
@@ -924,7 +932,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-pricing",
@@ -945,7 +953,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-docs",
@@ -967,7 +975,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "checkout-jobs",
@@ -989,7 +997,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-homepage",
@@ -1011,7 +1019,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-pricing",
@@ -1032,7 +1040,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-docs",
@@ -1054,7 +1062,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "primer-jobs",
@@ -1076,7 +1084,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-homepage",
@@ -1098,7 +1106,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-pricing",
@@ -1119,7 +1127,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-docs",
@@ -1141,7 +1149,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "finix-jobs",
@@ -1163,7 +1171,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1185,7 +1193,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1206,7 +1214,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-docs",
@@ -1228,7 +1236,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1239,12 +1247,12 @@
       "url": "https://www.rapyd.net/careers/",
       "category": "hiring",
       "score": 73,
-      "summary": "Tel Aviv, Israel (12) • Tel Aviv, Israel (15) Tel Aviv, Israel (12) Tel Aviv, Israel (15)",
+      "summary": "Bogota, Colombia (9) • Bogota, Colombia (13) Bogota, Colombia (9) Bogota, Colombia (13)",
       "added": [
-        "Tel Aviv, Israel (12)"
+        "Bogota, Colombia (9)"
       ],
       "removed": [
-        "Tel Aviv, Israel (15)"
+        "Bogota, Colombia (13)"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1254,7 +1262,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-homepage",
@@ -1276,7 +1284,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-pricing",
@@ -1297,7 +1305,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-docs",
@@ -1319,7 +1327,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "lithic-jobs",
@@ -1341,7 +1349,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1363,7 +1371,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1374,14 +1382,14 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Close this consent banner • Close • Accept Close this consent banner Close Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
       "added": [
-        "Close this consent banner",
-        "Close"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Close"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -1390,7 +1398,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-docs",
@@ -1401,14 +1409,14 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 95,
-      "summary": "Close this consent banner • Search...⌘K • Accept Close this consent banner Search...⌘K Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Search...⌘K",
       "added": [
-        "Close this consent banner",
-        "Search...⌘K"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Search...⌘K"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -1418,7 +1426,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1429,14 +1437,14 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 83,
-      "summary": "Close this consent banner • Secure Exchange Solution • Accept Close this consent banner Secure Exchange Solution Accept Deny Non-Essential",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Secure Exchange Solution",
       "added": [
-        "Close this consent banner",
-        "Secure Exchange Solution"
-      ],
-      "removed": [
         "Accept",
         "Deny Non-Essential"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Secure Exchange Solution"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1446,7 +1454,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-10-18T17:24:56.087Z"
+      "capturedAt": "2026-10-19T19:57:48.907Z"
     }
   ],
   "trends": [
@@ -1474,6 +1482,14 @@
         "Rapyd"
       ],
       "averageScore": 78
+    },
+    {
+      "category": "positioning",
+      "count": 1,
+      "companies": [
+        "Stripe"
+      ],
+      "averageScore": 71
     }
   ],
   "snapshots": [
@@ -1484,7 +1500,6 @@
       "lines": [
         "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
         "Flexible solutions for every business model.",
-        "Get Stripe product recommendations",
         "The backbone of global commerce",
         "Powering businesses of all sizes.",
         "Reliable, extensible infrastructure for every stack.",
@@ -1505,9 +1520,10 @@
         "Connect to existing systems.",
         "Scale with confidence.",
         "Choose an integration path.",
-        "Businesses on Stripe generated $1.9T in 2025."
+        "Businesses on Stripe generated $1.9T in 2025.",
+        "150K+ users have their best day ever on Stripe."
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Stripe",
@@ -1539,7 +1555,7 @@
         "Bank-based and other payment methods",
         "Stablecoins"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Stripe",
@@ -1571,7 +1587,7 @@
         "Risk",
         "Data"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Stripe",
@@ -1603,7 +1619,7 @@
         "Atlas",
         "Authorization Boost"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Adyen",
@@ -1635,7 +1651,7 @@
         "About",
         "Resources"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Adyen",
@@ -1667,7 +1683,7 @@
         "Global (English)Global (English)",
         "Accept Cookies"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Adyen",
@@ -1699,7 +1715,7 @@
         "Example integrations Have a look at our online payments examples",
         "Testing tools Use API logs, test card numbers, and more"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Adyen",
@@ -1731,7 +1747,7 @@
         "Allow All",
         "Back Button"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Checkout.com",
@@ -1763,7 +1779,7 @@
         "What are alternative payment methods (APMs)?",
         "What is a direct debit mandate?"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Checkout.com",
@@ -1795,7 +1811,7 @@
         "View Vendor Details",
         "Back Button"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Checkout.com",
@@ -1827,7 +1843,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Checkout.com",
@@ -1859,7 +1875,7 @@
         "Isabel Scavetta",
         "Keisi Mançellari"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Primer",
@@ -1891,7 +1907,7 @@
         "Accept all",
         "Reject non-essential"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Primer",
@@ -1913,7 +1929,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The page you are looking for, does not exist anymore."
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Primer",
@@ -1945,7 +1961,7 @@
         "API ReferenceAll the endpoints and payloads you need to build with Primer.",
         "SDK ReferenceAdd our Checkout SDKs and bring your integration to life with just a few lines of code."
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Primer",
@@ -1977,7 +1993,7 @@
         "What opportunities are there for growth?",
         "How does compensation work at Primer?"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Finix",
@@ -2009,7 +2025,7 @@
         "Digital wallets",
         "Lenders"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Finix",
@@ -2041,7 +2057,7 @@
         "PayoutsSend money to any recipient with Finix payouts",
         "Merchant Underwriting"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Finix",
@@ -2073,7 +2089,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Finix",
@@ -2105,7 +2121,7 @@
         "Sr. Field & Community Manager",
         "Sr. Creative & Design Manager"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Rapyd",
@@ -2137,7 +2153,7 @@
         "RAPYD RECOGNITION",
         "Build Bold. Get Rapyd."
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Rapyd",
@@ -2169,7 +2185,7 @@
         "Cancel",
         "Confirm My Choices"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Rapyd",
@@ -2201,7 +2217,7 @@
         "Log In",
         "español"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Rapyd",
@@ -2211,12 +2227,12 @@
         "DREAM JOBS.REAL OPPORTUNITIES.",
         "BUILD BOLD",
         "LIBERATE GLOBAL COMMERCE",
-        "Reykjavík, Iceland (1)",
-        "Bogota, Colombia (13)",
-        "Buenos Aires, Argentina (1)",
-        "London, U.K (1)",
         "São Paulo, Brazil (1)",
         "Tel Aviv, Israel (12)",
+        "Reykjavík, Iceland (1)",
+        "Bogota, Colombia (9)",
+        "Buenos Aires, Argentina (1)",
+        "London, U.K (1)",
         "POWER GLOBAL PAYMENTS",
         "DRIVE REAL BUSINESS IMPACT",
         "Global",
@@ -2233,7 +2249,7 @@
         "Developers",
         "Company"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Lithic",
@@ -2265,7 +2281,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Lithic",
@@ -2297,7 +2313,7 @@
         "Agentic CommerceRealtime payments with AI",
         "CreditStreamline your lending"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Lithic",
@@ -2329,7 +2345,7 @@
         "Sandbox A safe environment mirroring production — run cards, transactions, and webhooks end-to-end. Open the sandbox",
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Lithic",
@@ -2361,7 +2377,7 @@
         "Health Insurance",
         "Family Leave"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Dwolla",
@@ -2393,7 +2409,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Dwolla",
@@ -2415,17 +2431,17 @@
         "No Hidden Fees",
         "Multiple Rails Included",
         "Dedicated Support",
-        "Close this consent banner",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
         "Platform",
         "Solutions",
         "Developers",
         "Learn",
         "Privacy Policy",
-        "Skip to content",
-        "Close"
+        "Skip to content"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Dwolla",
@@ -2452,12 +2468,12 @@
         "Support",
         "Blog",
         "GitHub",
-        "Close this consent banner",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
-        "Resources",
-        "Search...⌘K"
+        "Resources"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     },
     {
       "company": "Dwolla",
@@ -2465,7 +2481,8 @@
       "url": "https://www.dwolla.com/company/careers/",
       "lines": [
         "PAGE NOT FOUND.",
-        "Close this consent banner",
+        "Accept",
+        "Deny Non-Essential",
         "Manage Preferences",
         "Privacy Policy",
         "Skip to content",
@@ -2486,10 +2503,9 @@
         "Security",
         "Open Banking Services",
         "Tokenization",
-        "Bank Verification",
-        "Secure Exchange Solution"
+        "Bank Verification"
       ],
-      "fetchedAt": "2026-10-18T17:24:56.087Z"
+      "fetchedAt": "2026-10-19T19:57:48.907Z"
     }
   ],
   "targetCoverage": [
@@ -2497,7 +2513,7 @@
       "company": "Stripe",
       "category": "payments api platform",
       "pagesTracked": 4,
-      "latestSignalScore": 24
+      "latestSignalScore": 71
     },
     {
       "company": "Adyen",
@@ -2545,7 +2561,7 @@
   "weeklyBrief": {
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "bullets": [
-      "Dwolla: Close this consent banner • Close • Accept Close this consent banner Close Accept Deny Non-Essential",
+      "Dwolla: Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Close this consent banner Close",
       "pricing is the strongest current theme across 1 companies.",
       "8 targets were monitored across 32 pages."
     ]
