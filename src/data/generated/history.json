@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-10-24T17:28:39.324Z",
+    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Rapyd",
+      "Rapyd"
+    ],
+    "urgentSignals": 8,
+    "importantSignals": 11
+  },
+  {
     "generatedAt": "2026-10-23T18:29:14.350Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
@@ -202,13 +218,5 @@
     ],
     "urgentSignals": 3,
     "importantSignals": 4
-  },
-  {
-    "generatedAt": "2026-10-12T22:09:21.558Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
