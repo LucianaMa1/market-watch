@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-10-27T19:27:02.755Z",
+    "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
+    "topCategories": [
+      "pricing",
+      "product",
+      "hiring"
+    ],
+    "topCompanies": [
+      "Dwolla",
+      "Dwolla",
+      "Dwolla"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-10-26T20:10:43.149Z",
     "headline": "positioning signals are leading this cycle, with Stripe setting the pace.",
     "topCategories": [
@@ -198,21 +214,5 @@
     ],
     "urgentSignals": 2,
     "importantSignals": 6
-  },
-  {
-    "generatedAt": "2026-10-15T18:19:32.115Z",
-    "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Adyen",
-      "Checkout.com",
-      "Dwolla"
-    ],
-    "urgentSignals": 5,
-    "importantSignals": 7
   }
 ]
