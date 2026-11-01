@@ -1,5 +1,21 @@
 [
   {
+    "generatedAt": "2026-11-01T18:58:17.703Z",
+    "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
+    "topCategories": [
+      "pricing",
+      "hiring",
+      "positioning"
+    ],
+    "topCompanies": [
+      "Checkout.com",
+      "Checkout.com",
+      "Checkout.com"
+    ],
+    "urgentSignals": 2,
+    "importantSignals": 5
+  },
+  {
     "generatedAt": "2026-10-31T18:35:43.156Z",
     "headline": "pricing signals are leading this cycle, with Dwolla setting the pace.",
     "topCategories": [
@@ -189,22 +205,6 @@
   },
   {
     "generatedAt": "2026-10-20T18:29:01.448Z",
-    "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Stripe",
-      "Adyen",
-      "Adyen"
-    ],
-    "urgentSignals": 12,
-    "importantSignals": 12
-  },
-  {
-    "generatedAt": "2026-10-19T20:14:20.614Z",
     "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
     "topCategories": [
       "pricing",
