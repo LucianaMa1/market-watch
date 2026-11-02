@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-11-02T22:55:32.153Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-11-02T22:48:13.886Z",
     "headline": "pricing signals are leading this cycle, with Checkout.com setting the pace.",
     "topCategories": [
@@ -201,22 +209,6 @@
       "Checkout.com"
     ],
     "urgentSignals": 4,
-    "importantSignals": 8
-  },
-  {
-    "generatedAt": "2026-10-21T18:40:23.621Z",
-    "headline": "pricing signals are leading this cycle, with Adyen setting the pace.",
-    "topCategories": [
-      "pricing",
-      "product",
-      "hiring"
-    ],
-    "topCompanies": [
-      "Adyen",
-      "Checkout.com",
-      "Dwolla"
-    ],
-    "urgentSignals": 5,
     "importantSignals": 8
   }
 ]
