@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T20:31:42.162Z",
+  "generatedAt": "2026-11-04T20:50:44.201Z",
   "summary": {
     "totalSignals": 32,
     "importantSignals": 12,
@@ -17,16 +17,16 @@
       "url": "https://stripe.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Tools to optimise your checkout • Payments optimisations to boost revenue • Tools to optimize your checkout Tools to optimise your checkout Payments optimisations to boost revenue Disputes Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins",
+      "summary": "Tools to optimize your checkout • Payments optimizations to boost revenue • Tools to optimise your checkout Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins Tools to optimise your checkout Payments optimisations to boost revenue Disputes",
       "added": [
-        "Tools to optimise your checkout",
-        "Payments optimisations to boost revenue",
-        "Disputes"
-      ],
-      "removed": [
         "Tools to optimize your checkout",
         "Payments optimizations to boost revenue",
         "Stablecoins"
+      ],
+      "removed": [
+        "Tools to optimise your checkout",
+        "Payments optimisations to boost revenue",
+        "Disputes"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Stripe is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -35,7 +35,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-pricing",
@@ -46,16 +46,16 @@
       "url": "https://www.adyen.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: Cookie Policy Cookie Preference Center Accept Cookies",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Accept Cookies We Care About Your Privacy About Your Privacy We and our partners process data to provide:",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Accept Cookies"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Adyen is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -64,7 +64,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-docs",
@@ -75,16 +75,16 @@
       "url": "https://docs.adyen.com/",
       "category": "product",
       "score": 100,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: Cookie Policy Cookie Preference Center Testing tools Use API logs, test card numbers, and more",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Testing tools Use API logs, test card numbers, and more We Care About Your Privacy About Your Privacy We and our partners process data to provide:",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Testing tools Use API logs, test card numbers, and more"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Adyen: what new workflow or use case are they trying to unlock?",
@@ -94,7 +94,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "checkout-pricing",
@@ -105,18 +105,18 @@
       "url": "https://www.checkout.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Privacy Preference Center • Cookie List • Cookies and use of our website Privacy Preference Center Cookie List Custom Settings Back Button Cookies and use of our website Cookies Settings Vendors List View Vendor Details",
+      "summary": "Cookies and use of our website • Cookies Settings • Privacy Preference Center Cookies and use of our website Cookies Settings Vendors List View Vendor Details Privacy Preference Center Cookie List Custom Settings Back Button",
       "added": [
-        "Privacy Preference Center",
-        "Cookie List",
-        "Custom Settings",
-        "Back Button"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings",
         "Vendors List",
         "View Vendor Details"
+      ],
+      "removed": [
+        "Privacy Preference Center",
+        "Cookie List",
+        "Custom Settings",
+        "Back Button"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -125,72 +125,70 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
-      "id": "primer-homepage",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
-      "pageType": "homepage",
-      "url": "https://primer.io/",
-      "category": "enterprise",
-      "score": 100,
-      "summary": "Every payment moving in sync • Billions move through Primer every month • Unified intelligence for payments Every payment moving in sync Billions move through Primer every month Turn every stage of your payments into a growth opportunity Unlock more value from every payment decision. Turn payments into your unfair advantage Keep more of what your business earns Unified intelligence for payments Proven. Trusted. Built for Scale. Payments and finance have never been more complex. Or more disconnected. Solutions for every step of your payments journey Built for ambitious businesses of all sizes, anywhere Backed by enterprise-grade security and scale",
-      "added": [
-        "Every payment moving in sync",
-        "Billions move through Primer every month",
-        "Turn every stage of your payments into a growth opportunity",
-        "Unlock more value from every payment decision.",
-        "Turn payments into your unfair advantage",
-        "Keep more of what your business earns"
-      ],
-      "removed": [
-        "Unified intelligence for payments",
-        "Proven. Trusted. Built for Scale.",
-        "Payments and finance have never been more complex. Or more disconnected.",
-        "Solutions for every step of your payments journey",
-        "Built for ambitious businesses of all sizes, anywhere",
-        "Backed by enterprise-grade security and scale"
-      ],
-      "isBaseline": false,
-      "recommendation": "Track if Primer is stacking enterprise proof points; this usually precedes more assertive sales motion.",
-      "audience": "Enterprise sellers, partnerships leads, and product teams moving upmarket.",
-      "postAngle": "Primer is stacking new enterprise proof points. That usually shows where sales pressure is coming from before the roadmap catches up.",
-      "tags": [
-        "homepage",
-        "enterprise"
-      ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
-    },
-    {
-      "id": "primer-pricing",
-      "company": "Primer",
-      "companySlug": "primer",
-      "targetId": "primer",
+      "id": "dwolla-pricing",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
       "pageType": "pricing",
-      "url": "https://primer.io/pricing",
+      "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "We can't find that page • Back to homepage • Page not found. We can't find that page Back to homepage The link may be broken, or the page may have moved. Head back to the homepage to keep exploring Primer. Page not found. Home The page you are looking for, does not exist anymore.",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Manage Preferences privacy policy. Close this consent banner Save Accept All Reject Non-Essential",
       "added": [
-        "We can't find that page",
-        "Back to homepage",
-        "The link may be broken, or the page may have moved. Head back to the homepage to keep exploring Primer."
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "privacy policy."
       ],
       "removed": [
-        "Page not found.",
-        "Home",
-        "The page you are looking for, does not exist anymore."
+        "Close this consent banner",
+        "Save",
+        "Accept All",
+        "Reject Non-Essential"
       ],
       "isBaseline": false,
-      "recommendation": "Check whether Primer is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
-      "postAngle": "Primer just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "postAngle": "Dwolla just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
+    },
+    {
+      "id": "dwolla-docs",
+      "company": "Dwolla",
+      "companySlug": "dwolla",
+      "targetId": "dwolla",
+      "pageType": "docs",
+      "url": "https://developers.dwolla.com/",
+      "category": "product",
+      "score": 100,
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Manage Preferences Resources Close this consent banner Save Accept All Reject Non-Essential",
+      "added": [
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "Resources"
+      ],
+      "removed": [
+        "Close this consent banner",
+        "Save",
+        "Accept All",
+        "Reject Non-Essential"
+      ],
+      "isBaseline": false,
+      "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
+      "audience": "Builders, product strategists, and ecosystem teams looking for capability shifts.",
+      "postAngle": "Dwolla appears to be opening a new workflow surface. The real question is what downstream GTM motion this unlocks.",
+      "tags": [
+        "docs",
+        "product"
+      ],
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     }
   ],
   "noise": [
@@ -214,7 +212,28 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
+    },
+    {
+      "id": "primer-pricing",
+      "company": "Primer",
+      "companySlug": "primer",
+      "targetId": "primer",
+      "pageType": "pricing",
+      "url": "https://primer.io/pricing",
+      "category": "noise",
+      "score": 24,
+      "summary": "Primer pricing monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Primer just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "pricing"
+      ],
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "primer-docs",
@@ -236,7 +255,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-homepage",
@@ -258,7 +277,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-pricing",
@@ -279,7 +298,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-docs",
@@ -301,7 +320,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-jobs",
@@ -323,7 +342,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-homepage",
@@ -345,7 +364,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-pricing",
@@ -366,7 +385,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-docs",
@@ -388,7 +407,72 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
+    },
+    {
+      "id": "rapyd-jobs",
+      "company": "Rapyd",
+      "companySlug": "rapyd",
+      "targetId": "rapyd",
+      "pageType": "jobs",
+      "url": "https://www.rapyd.net/careers/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Operators tracking where teams are placing their next strategic bets.",
+      "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
+      "tags": [
+        "jobs",
+        "hiring"
+      ],
+      "capturedAt": "2026-11-04T20:50:44.201Z"
+    },
+    {
+      "id": "lithic-homepage",
+      "company": "Lithic",
+      "companySlug": "lithic",
+      "targetId": "lithic",
+      "pageType": "homepage",
+      "url": "https://www.lithic.com/",
+      "category": "noise",
+      "score": 24,
+      "summary": "Lithic homepage monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Lithic changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
+      "tags": [
+        "homepage",
+        "positioning"
+      ],
+      "capturedAt": "2026-11-04T20:50:44.201Z"
+    },
+    {
+      "id": "lithic-pricing",
+      "company": "Lithic",
+      "companySlug": "lithic",
+      "targetId": "lithic",
+      "pageType": "pricing",
+      "url": "https://www.lithic.com/pricing",
+      "category": "noise",
+      "score": 24,
+      "summary": "Lithic pricing monitored successfully",
+      "added": [],
+      "removed": [],
+      "isBaseline": false,
+      "recommendation": "No action needed yet.",
+      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
+      "postAngle": "Lithic just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "tags": [
+        "pricing"
+      ],
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-docs",
@@ -410,7 +494,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-jobs",
@@ -432,7 +516,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "dwolla-homepage",
@@ -454,7 +538,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     }
   ],
   "signals": [
@@ -467,22 +551,22 @@
       "url": "https://stripe.com/",
       "category": "product",
       "score": 93,
-      "summary": "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth. • What's happening • Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth. Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth. What's happening Accept and optimise payments globally – online and in person Monetise through agentic commerce Create a card issuing programme Businesses on Stripe generated US$1.9tn in 2025. Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth. What’s happening Accept and optimize payments globally—online and in person Monetize through agentic commerce Create a card issuing program Businesses on Stripe generated $1.9T in 2025.",
+      "summary": "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth. • Get Stripe product recommendations • Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth. Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth. Get Stripe product recommendations What’s happening Accept and optimize payments globally—online and in person Monetize through agentic commerce Create a card issuing program Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth. What's happening Accept and optimise payments globally – online and in person Monetise through agentic commerce Create a card issuing programme Businesses on Stripe generated US$1.9tn in 2025.",
       "added": [
+        "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
+        "Get Stripe product recommendations",
+        "What’s happening",
+        "Accept and optimize payments globally—online and in person",
+        "Monetize through agentic commerce",
+        "Create a card issuing program"
+      ],
+      "removed": [
         "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth.",
         "What's happening",
         "Accept and optimise payments globally – online and in person",
         "Monetise through agentic commerce",
         "Create a card issuing programme",
         "Businesses on Stripe generated US$1.9tn in 2025."
-      ],
-      "removed": [
-        "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
-        "What’s happening",
-        "Accept and optimize payments globally—online and in person",
-        "Monetize through agentic commerce",
-        "Create a card issuing program",
-        "Businesses on Stripe generated $1.9T in 2025."
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Stripe: what new workflow or use case are they trying to unlock?",
@@ -492,7 +576,7 @@
         "homepage",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "stripe-pricing",
@@ -503,16 +587,16 @@
       "url": "https://stripe.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Tools to optimise your checkout • Payments optimisations to boost revenue • Tools to optimize your checkout Tools to optimise your checkout Payments optimisations to boost revenue Disputes Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins",
+      "summary": "Tools to optimize your checkout • Payments optimizations to boost revenue • Tools to optimise your checkout Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins Tools to optimise your checkout Payments optimisations to boost revenue Disputes",
       "added": [
-        "Tools to optimise your checkout",
-        "Payments optimisations to boost revenue",
-        "Disputes"
-      ],
-      "removed": [
         "Tools to optimize your checkout",
         "Payments optimizations to boost revenue",
         "Stablecoins"
+      ],
+      "removed": [
+        "Tools to optimise your checkout",
+        "Payments optimisations to boost revenue",
+        "Disputes"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Stripe is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -521,7 +605,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "stripe-docs",
@@ -532,14 +616,14 @@
       "url": "https://docs.stripe.com/",
       "category": "product",
       "score": 95,
-      "summary": "Accept all • Reject all • Risk Accept all Reject all Risk Data",
+      "summary": "Risk • Data • Accept all Risk Data Accept all Reject all",
       "added": [
-        "Accept all",
-        "Reject all"
-      ],
-      "removed": [
         "Risk",
         "Data"
+      ],
+      "removed": [
+        "Accept all",
+        "Reject all"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Stripe: what new workflow or use case are they trying to unlock?",
@@ -549,7 +633,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "stripe-jobs",
@@ -560,14 +644,14 @@
       "url": "https://stripe.com/jobs/search",
       "category": "hiring",
       "score": 83,
-      "summary": "Accept all • Reject all • Atlas Accept all Reject all Atlas Authorization Boost",
+      "summary": "Subscribe • Continue • Accept all Subscribe Continue Accept all Reject all",
       "added": [
-        "Accept all",
-        "Reject all"
+        "Subscribe",
+        "Continue"
       ],
       "removed": [
-        "Atlas",
-        "Authorization Boost"
+        "Accept all",
+        "Reject all"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Stripe; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -577,7 +661,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-homepage",
@@ -588,16 +672,16 @@
       "url": "https://www.adyen.com/",
       "category": "positioning",
       "score": 91,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: Cookie Policy Cookie Preference Center Resources",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Resources We Care About Your Privacy About Your Privacy We and our partners process data to provide:",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Resources"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:"
       ],
       "isBaseline": false,
       "recommendation": "Compare Adyen's new messaging against peers to see if a broader category shift is underway.",
@@ -607,7 +691,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-pricing",
@@ -618,16 +702,16 @@
       "url": "https://www.adyen.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: Cookie Policy Cookie Preference Center Accept Cookies",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Accept Cookies We Care About Your Privacy About Your Privacy We and our partners process data to provide:",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Accept Cookies"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Adyen is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -636,7 +720,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-docs",
@@ -647,16 +731,16 @@
       "url": "https://docs.adyen.com/",
       "category": "product",
       "score": 100,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: Cookie Policy Cookie Preference Center Testing tools Use API logs, test card numbers, and more",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Testing tools Use API logs, test card numbers, and more We Care About Your Privacy About Your Privacy We and our partners process data to provide:",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Testing tools Use API logs, test card numbers, and more"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Adyen: what new workflow or use case are they trying to unlock?",
@@ -666,7 +750,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "adyen-jobs",
@@ -677,20 +761,20 @@
       "url": "https://careers.adyen.com/",
       "category": "hiring",
       "score": 93,
-      "summary": "We Care About Your Privacy • About Your Privacy • Cookie Policy We Care About Your Privacy About Your Privacy We and our partners process data to provide: I Accept Show Purposes Cookie Policy Cookie Preference Center Accept Cookies Cookie settings Back Button",
+      "summary": "Cookie Policy • Cookie Preference Center • We Care About Your Privacy Cookie Policy Cookie Preference Center Accept Cookies Cookie settings Back Button We Care About Your Privacy About Your Privacy We and our partners process data to provide: I Accept Show Purposes",
       "added": [
-        "We Care About Your Privacy",
-        "About Your Privacy",
-        "We and our partners process data to provide:",
-        "I Accept",
-        "Show Purposes"
-      ],
-      "removed": [
         "Cookie Policy",
         "Cookie Preference Center",
         "Accept Cookies",
         "Cookie settings",
         "Back Button"
+      ],
+      "removed": [
+        "We Care About Your Privacy",
+        "About Your Privacy",
+        "We and our partners process data to provide:",
+        "I Accept",
+        "Show Purposes"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Adyen; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -700,7 +784,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "checkout-homepage",
@@ -711,14 +795,14 @@
       "url": "https://www.checkout.com/",
       "category": "pricing",
       "score": 98,
-      "summary": "Privacy Preference Center • 2025 Annual Letter: The Power of the Long View • Cookies and use of our website Privacy Preference Center 2025 Annual Letter: The Power of the Long View Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Privacy Preference Center Cookies and use of our website Cookies Settings Privacy Preference Center 2025 Annual Letter: The Power of the Long View",
       "added": [
-        "Privacy Preference Center",
-        "2025 Annual Letter: The Power of the Long View"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Privacy Preference Center",
+        "2025 Annual Letter: The Power of the Long View"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -728,7 +812,7 @@
         "homepage",
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "checkout-pricing",
@@ -739,18 +823,18 @@
       "url": "https://www.checkout.com/pricing",
       "category": "pricing",
       "score": 100,
-      "summary": "Privacy Preference Center • Cookie List • Cookies and use of our website Privacy Preference Center Cookie List Custom Settings Back Button Cookies and use of our website Cookies Settings Vendors List View Vendor Details",
+      "summary": "Cookies and use of our website • Cookies Settings • Privacy Preference Center Cookies and use of our website Cookies Settings Vendors List View Vendor Details Privacy Preference Center Cookie List Custom Settings Back Button",
       "added": [
-        "Privacy Preference Center",
-        "Cookie List",
-        "Custom Settings",
-        "Back Button"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings",
         "Vendors List",
         "View Vendor Details"
+      ],
+      "removed": [
+        "Privacy Preference Center",
+        "Cookie List",
+        "Custom Settings",
+        "Back Button"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Checkout.com is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -759,7 +843,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "checkout-docs",
@@ -781,7 +865,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "checkout-jobs",
@@ -792,14 +876,14 @@
       "url": "https://www.checkout.com/careers",
       "category": "hiring",
       "score": 83,
-      "summary": "Privacy Preference Center • Manage Consent Preferences • Cookies and use of our website Privacy Preference Center Manage Consent Preferences Cookies and use of our website Cookies Settings",
+      "summary": "Cookies and use of our website • Cookies Settings • Privacy Preference Center Cookies and use of our website Cookies Settings Privacy Preference Center Manage Consent Preferences",
       "added": [
-        "Privacy Preference Center",
-        "Manage Consent Preferences"
-      ],
-      "removed": [
         "Cookies and use of our website",
         "Cookies Settings"
+      ],
+      "removed": [
+        "Privacy Preference Center",
+        "Manage Consent Preferences"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Checkout.com; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -809,7 +893,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "primer-homepage",
@@ -818,34 +902,24 @@
       "targetId": "primer",
       "pageType": "homepage",
       "url": "https://primer.io/",
-      "category": "enterprise",
-      "score": 100,
-      "summary": "Every payment moving in sync • Billions move through Primer every month • Unified intelligence for payments Every payment moving in sync Billions move through Primer every month Turn every stage of your payments into a growth opportunity Unlock more value from every payment decision. Turn payments into your unfair advantage Keep more of what your business earns Unified intelligence for payments Proven. Trusted. Built for Scale. Payments and finance have never been more complex. Or more disconnected. Solutions for every step of your payments journey Built for ambitious businesses of all sizes, anywhere Backed by enterprise-grade security and scale",
+      "category": "positioning",
+      "score": 71,
+      "summary": "You’ve seen what’s possible. Now take control. • You’ve Seen What’s Possible. Now Take Control. You’ve seen what’s possible. Now take control. You’ve Seen What’s Possible. Now Take Control.",
       "added": [
-        "Every payment moving in sync",
-        "Billions move through Primer every month",
-        "Turn every stage of your payments into a growth opportunity",
-        "Unlock more value from every payment decision.",
-        "Turn payments into your unfair advantage",
-        "Keep more of what your business earns"
+        "You’ve seen what’s possible. Now take control."
       ],
       "removed": [
-        "Unified intelligence for payments",
-        "Proven. Trusted. Built for Scale.",
-        "Payments and finance have never been more complex. Or more disconnected.",
-        "Solutions for every step of your payments journey",
-        "Built for ambitious businesses of all sizes, anywhere",
-        "Backed by enterprise-grade security and scale"
+        "You’ve Seen What’s Possible. Now Take Control."
       ],
       "isBaseline": false,
-      "recommendation": "Track if Primer is stacking enterprise proof points; this usually precedes more assertive sales motion.",
-      "audience": "Enterprise sellers, partnerships leads, and product teams moving upmarket.",
-      "postAngle": "Primer is stacking new enterprise proof points. That usually shows where sales pressure is coming from before the roadmap catches up.",
+      "recommendation": "Compare Primer's new messaging against peers to see if a broader category shift is underway.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Primer changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
-        "enterprise"
+        "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "primer-pricing",
@@ -854,27 +928,19 @@
       "targetId": "primer",
       "pageType": "pricing",
       "url": "https://primer.io/pricing",
-      "category": "pricing",
-      "score": 100,
-      "summary": "We can't find that page • Back to homepage • Page not found. We can't find that page Back to homepage The link may be broken, or the page may have moved. Head back to the homepage to keep exploring Primer. Page not found. Home The page you are looking for, does not exist anymore.",
-      "added": [
-        "We can't find that page",
-        "Back to homepage",
-        "The link may be broken, or the page may have moved. Head back to the homepage to keep exploring Primer."
-      ],
-      "removed": [
-        "Page not found.",
-        "Home",
-        "The page you are looking for, does not exist anymore."
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Primer pricing monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Check whether Primer is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
       "postAngle": "Primer just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "primer-docs",
@@ -896,7 +962,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "primer-jobs",
@@ -906,23 +972,13 @@
       "pageType": "jobs",
       "url": "https://primer.io/careers",
       "category": "hiring",
-      "score": 93,
-      "summary": "Unify the payments landscape with us • You’ve Seen What’s Possible. Now Take Control. • Unify the payments landscapewithArshiyaBoyiJulianaDanLeoClaraGan WeiHarrietIulianJasminePrimer Unify the payments landscape with us You’ve Seen What’s Possible. Now Take Control. Total raised Glassdoor rating People across 30+ countries We’re on our mission to make every payment drive growth for merchants everywhere. Unify the payments landscapewithArshiyaBoyiJulianaDanLeoClaraGan WeiHarrietIulianJasminePrimer Women at Primer Unify the paymentslandscape with us. Private health insurance What does “high accountability” mean in practice? How would you describe the pace of work?",
+      "score": 73,
+      "summary": "You’ve seen what’s possible. Now take control. • You’ve Seen What’s Possible. Now Take Control. You’ve seen what’s possible. Now take control. You’ve Seen What’s Possible. Now Take Control.",
       "added": [
-        "Unify the payments landscape with us",
-        "You’ve Seen What’s Possible. Now Take Control.",
-        "Total raised",
-        "Glassdoor rating",
-        "People across 30+ countries",
-        "We’re on our mission to make every payment drive growth for merchants everywhere."
+        "You’ve seen what’s possible. Now take control."
       ],
       "removed": [
-        "Unify the payments landscapewithArshiyaBoyiJulianaDanLeoClaraGan WeiHarrietIulianJasminePrimer",
-        "Women at Primer",
-        "Unify the paymentslandscape with us.",
-        "Private health insurance",
-        "What does “high accountability” mean in practice?",
-        "How would you describe the pace of work?"
+        "You’ve Seen What’s Possible. Now Take Control."
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Primer; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -932,7 +988,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-homepage",
@@ -954,7 +1010,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-pricing",
@@ -975,7 +1031,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-docs",
@@ -997,7 +1053,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "finix-jobs",
@@ -1019,7 +1075,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-homepage",
@@ -1041,7 +1097,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-pricing",
@@ -1062,7 +1118,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-docs",
@@ -1084,7 +1140,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "rapyd-jobs",
@@ -1093,26 +1149,20 @@
       "targetId": "rapyd",
       "pageType": "jobs",
       "url": "https://www.rapyd.net/careers/",
-      "category": "hiring",
-      "score": 83,
-      "summary": "Tel Aviv, Israel (9) • Bogota, Colombia (8) • Tel Aviv, Israel (10) Tel Aviv, Israel (9) Bogota, Colombia (8) Tel Aviv, Israel (10) Bogota, Colombia (9)",
-      "added": [
-        "Tel Aviv, Israel (9)",
-        "Bogota, Colombia (8)"
-      ],
-      "removed": [
-        "Tel Aviv, Israel (10)",
-        "Bogota, Colombia (9)"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Rapyd jobs monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Watch the role mix at Rapyd; hiring patterns often reveal the next strategic bet before the homepage does.",
+      "recommendation": "No action needed yet.",
       "audience": "Operators tracking where teams are placing their next strategic bets.",
       "postAngle": "Rapyd's jobs page is more revealing than its homepage right now. The role mix hints at the next operating priority.",
       "tags": [
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-homepage",
@@ -1121,24 +1171,20 @@
       "targetId": "lithic",
       "pageType": "homepage",
       "url": "https://www.lithic.com/",
-      "category": "pricing",
-      "score": 80,
-      "summary": "Program ServicesAn extension of your team • CreditStreamline your lending Program ServicesAn extension of your team CreditStreamline your lending",
-      "added": [
-        "Program ServicesAn extension of your team"
-      ],
-      "removed": [
-        "CreditStreamline your lending"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Lithic homepage monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Check whether Lithic is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
-      "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
-      "postAngle": "Lithic just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
+      "recommendation": "No action needed yet.",
+      "audience": "Founders, marketers, and category designers watching narrative shifts.",
+      "postAngle": "Lithic changed how it frames the category. That is useful if you want to see where the market narrative is tightening.",
       "tags": [
         "homepage",
-        "pricing"
+        "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-pricing",
@@ -1147,23 +1193,19 @@
       "targetId": "lithic",
       "pageType": "pricing",
       "url": "https://www.lithic.com/pricing",
-      "category": "pricing",
-      "score": 100,
-      "summary": "Program ServicesAn extension of your team • CreditStreamline your lending Program ServicesAn extension of your team CreditStreamline your lending",
-      "added": [
-        "Program ServicesAn extension of your team"
-      ],
-      "removed": [
-        "CreditStreamline your lending"
-      ],
+      "category": "noise",
+      "score": 24,
+      "summary": "Lithic pricing monitored successfully",
+      "added": [],
+      "removed": [],
       "isBaseline": false,
-      "recommendation": "Check whether Lithic is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
+      "recommendation": "No action needed yet.",
       "audience": "Founders pricing agent products, payments infra teams, and GTM operators.",
       "postAngle": "Lithic just changed the pricing conversation. The interesting question is whether this reduces buyer friction, moves them upmarket, or both.",
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-docs",
@@ -1185,7 +1227,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "lithic-jobs",
@@ -1207,7 +1249,7 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "dwolla-homepage",
@@ -1229,7 +1271,7 @@
         "homepage",
         "positioning"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "dwolla-pricing",
@@ -1240,16 +1282,18 @@
       "url": "https://www.dwolla.com/pricing/",
       "category": "pricing",
       "score": 100,
-      "summary": "Save • Accept All • Manage Preferences Save Accept All Reject Non-Essential Manage Preferences privacy policy. View Docs",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Manage Preferences privacy policy. Close this consent banner Save Accept All Reject Non-Essential",
       "added": [
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "privacy policy."
+      ],
+      "removed": [
+        "Close this consent banner",
         "Save",
         "Accept All",
         "Reject Non-Essential"
-      ],
-      "removed": [
-        "Manage Preferences",
-        "privacy policy.",
-        "View Docs"
       ],
       "isBaseline": false,
       "recommendation": "Check whether Dwolla is moving upmarket or tightening monetization, then compare against your own pricing narratives.",
@@ -1258,7 +1302,7 @@
       "tags": [
         "pricing"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "dwolla-docs",
@@ -1269,16 +1313,18 @@
       "url": "https://developers.dwolla.com/",
       "category": "product",
       "score": 100,
-      "summary": "Save • Accept All • Manage Preferences Save Accept All Reject Non-Essential Manage Preferences Resources Search...⌘K",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Manage Preferences Resources Close this consent banner Save Accept All Reject Non-Essential",
       "added": [
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "Resources"
+      ],
+      "removed": [
+        "Close this consent banner",
         "Save",
         "Accept All",
         "Reject Non-Essential"
-      ],
-      "removed": [
-        "Manage Preferences",
-        "Resources",
-        "Search...⌘K"
       ],
       "isBaseline": false,
       "recommendation": "Look for downstream GTM implications at Dwolla: what new workflow or use case are they trying to unlock?",
@@ -1288,7 +1334,7 @@
         "docs",
         "product"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "id": "dwolla-jobs",
@@ -1299,18 +1345,20 @@
       "url": "https://www.dwolla.com/company/careers/",
       "category": "hiring",
       "score": 93,
-      "summary": "Save • Accept All • Manage Preferences Save Accept All Reject Non-Essential Storage Preferences Manage Preferences Tokenization Bank Verification Secure Exchange Solution",
+      "summary": "Accept • Deny Non-Essential • Close this consent banner Accept Deny Non-Essential Manage Preferences Tokenization Bank Verification Close this consent banner Save Accept All Reject Non-Essential Storage Preferences",
       "added": [
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "Tokenization",
+        "Bank Verification"
+      ],
+      "removed": [
+        "Close this consent banner",
         "Save",
         "Accept All",
         "Reject Non-Essential",
         "Storage Preferences"
-      ],
-      "removed": [
-        "Manage Preferences",
-        "Tokenization",
-        "Bank Verification",
-        "Secure Exchange Solution"
       ],
       "isBaseline": false,
       "recommendation": "Watch the role mix at Dwolla; hiring patterns often reveal the next strategic bet before the homepage does.",
@@ -1320,28 +1368,18 @@
         "jobs",
         "hiring"
       ],
-      "capturedAt": "2026-11-03T20:31:42.162Z"
+      "capturedAt": "2026-11-04T20:50:44.201Z"
     }
   ],
   "trends": [
     {
       "category": "pricing",
-      "count": 7,
+      "count": 5,
       "companies": [
         "Adyen",
         "Checkout.com",
         "Dwolla",
-        "Lithic",
-        "Primer",
         "Stripe"
-      ],
-      "averageScore": 100
-    },
-    {
-      "category": "enterprise",
-      "count": 1,
-      "companies": [
-        "Primer"
       ],
       "averageScore": 100
     },
@@ -1354,6 +1392,23 @@
         "Stripe"
       ],
       "averageScore": 97
+    },
+    {
+      "category": "hiring",
+      "count": 2,
+      "companies": [
+        "Adyen",
+        "Dwolla"
+      ],
+      "averageScore": 93
+    },
+    {
+      "category": "positioning",
+      "count": 1,
+      "companies": [
+        "Adyen"
+      ],
+      "averageScore": 91
     }
   ],
   "snapshots": [
@@ -1362,16 +1417,17 @@
       "pageType": "homepage",
       "url": "https://stripe.com/",
       "lines": [
-        "Financial infrastructure to grow your revenue. Accept payments, offer financial services and implement custom revenue models – from your first transaction to your billionth.",
+        "Financial infrastructure to grow your revenue. Accept payments, handle business banking,1 and implement custom revenue models—from your first transaction to your billionth.",
         "Flexible solutions for every business model.",
+        "Get Stripe product recommendations",
         "The backbone of global commerce",
         "Powering businesses of all sizes.",
         "Reliable, extensible infrastructure for every stack.",
-        "What's happening",
-        "Accept and optimise payments globally – online and in person",
+        "What’s happening",
+        "Accept and optimize payments globally—online and in person",
         "Enable any billing model",
-        "Monetise through agentic commerce",
-        "Create a card issuing programme",
+        "Monetize through agentic commerce",
+        "Create a card issuing program",
         "Access borderless money movement with stablecoins and crypto",
         "Embed payments in your platform",
         "Transform your enterprise with agile financial infrastructure",
@@ -1384,10 +1440,9 @@
         "Connect to existing systems.",
         "Scale with confidence.",
         "Choose an integration path.",
-        "Businesses on Stripe generated US$1.9tn in 2025.",
-        "150K+ users have their best day ever on Stripe."
+        "Businesses on Stripe generated $1.9T in 2025."
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Stripe",
@@ -1406,8 +1461,8 @@
         "Features available out of the box:",
         "Global access",
         "Built-in fraud prevention",
-        "Tools to optimise your checkout",
-        "Payments optimisations to boost revenue",
+        "Tools to optimize your checkout",
+        "Payments optimizations to boost revenue",
         "Embedded payments for platforms & marketplaces",
         "Fast, predictable payouts to your bank accounts",
         "Phone, chat, and email support",
@@ -1417,9 +1472,9 @@
         "Cards and wallets",
         "Buy Now Pay Later",
         "Bank-based and other payment methods",
-        "Disputes"
+        "Stablecoins"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Stripe",
@@ -1441,17 +1496,17 @@
         "Get your balance",
         "Manage taxes",
         "Copy",
-        "Accept all",
-        "Reject all",
         "Skip to content",
         "Create account",
         "Sign in",
         "The Stripe Docs logo",
         "Search/",
         "Ask AI",
-        "Get started"
+        "Get started",
+        "Risk",
+        "Data"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Stripe",
@@ -1466,9 +1521,9 @@
         "Clear all filters",
         "Prev",
         "Next",
+        "Subscribe",
+        "Continue",
         "United States(English)",
-        "Accept all",
-        "Reject all",
         "Opportunity",
         "Compatibility",
         "Emerging talent",
@@ -1483,7 +1538,7 @@
         "candidatefeedback-applications@stripe.com",
         "Pricing"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Adyen",
@@ -1499,8 +1554,8 @@
         "Global scale. Local expertise. Powered by trillions of euros in transaction data.",
         "When certainty matters, Adyen’s the platform of choice",
         "If you’re building for scale, there’s no alternative",
-        "We Care About Your Privacy",
-        "About Your Privacy",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "Value Proposition Gallery",
         "Retail",
         "Travel and hospitality",
@@ -1508,14 +1563,14 @@
         "SaaS platforms and marketplaces",
         "Food and beverage",
         "Financial services",
-        "We and our partners process data to provide:",
         "Manage Consent Preferences",
         "Cookie List",
         "Products",
         "Businesses we serve",
-        "About"
+        "About",
+        "Resources"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Adyen",
@@ -1525,15 +1580,14 @@
         "Pricing",
         "Frequently asked questions",
         "Any questions?",
-        "We Care About Your Privacy",
-        "About Your Privacy",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "What is interchange++?",
         "Do you have set up fees and/or monthly fees?",
         "Do you support multi-currency transactions?",
         "Can you link multiple bank accounts?",
         "Are there certain types of businesses you cannot work with?",
         "Is custom pricing available?",
-        "We and our partners process data to provide:",
         "Manage Consent Preferences",
         "Cookie List",
         "Products",
@@ -1545,9 +1599,10 @@
         "More information",
         "Platform",
         "Policies and disclaimer",
-        "Global (English)Global (English)"
+        "Global (English)Global (English)",
+        "Accept Cookies"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Adyen",
@@ -1558,10 +1613,9 @@
         "Discover our developer resources",
         "Join our Dev Community",
         "Contact support",
-        "We Care About Your Privacy",
-        "About Your Privacy",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "Can’t sign in or don’t have an account?",
-        "We and our partners process data to provide:",
         "Manage Consent Preferences",
         "Cookie List",
         "Submit",
@@ -1577,9 +1631,10 @@
         "Intelligent Money Movement",
         "API Explorer Use Adyen's interactive API reference",
         "Server-side libraries Find a library in your preferred language",
-        "Example integrations Have a look at our online payments examples"
+        "Example integrations Have a look at our online payments examples",
+        "Testing tools Use API logs, test card numbers, and more"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Adyen",
@@ -1595,23 +1650,23 @@
         "Operational",
         "Our benefits",
         "Browse vacancies",
-        "We Care About Your Privacy",
-        "About Your Privacy",
+        "Cookie Policy",
+        "Cookie Preference Center",
         "The Adyen Formula",
         "Office locations",
-        "We and our partners process data to provide:",
         "Manage Consent Preferences",
         "Cookie List",
         "About us",
         "Adyen Careers",
         "Policies and disclaimer",
         "Global (English)Global (English)",
-        "I Accept",
+        "Accept Cookies",
         "Reject All",
-        "Show Purposes",
-        "Allow All"
+        "Cookie settings",
+        "Allow All",
+        "Back Button"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Checkout.com",
@@ -1631,7 +1686,8 @@
         "Popular resources",
         "Developer resources",
         "Frequently asked questions",
-        "Privacy Preference Center",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Why Checkout.com pursued a US MALPB charter: An interview with Jordan Reynolds",
         "What’s next in payments: Four takeaways from Money20/20 USA",
         "Payment authentication explained",
@@ -1640,10 +1696,9 @@
         "Thrive Newport Beach 2026: Highlights and key takeaways",
         "Australia’s 2026 card payment changes: What merchants should know",
         "How to master payments in Europe and the UK",
-        "Building trusted AI infrastructure with the Checkout.com MCP",
-        "2025 Annual Letter: The Power of the Long View"
+        "Building trusted AI infrastructure with the Checkout.com MCP"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Checkout.com",
@@ -1656,7 +1711,8 @@
         "Unbeatable benefits",
         "Refreshingly transparent pricing",
         "Empowering forward-thinking companies from startups to global superbrands.",
-        "Privacy Preference Center",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Fully flat-rate",
         "Free for charities",
         "Simple interchange++ fees",
@@ -1665,17 +1721,16 @@
         "Fraud tools",
         "Unified Payments API",
         "Manage Consent Preferences",
-        "Cookie List",
+        "Vendors List",
         "Back",
         "Next",
-        "Custom Settings",
         "Explore Checkout.com with your preferred AI",
         "Reject All",
         "Accept All Cookies",
         "Allow All",
-        "Back Button"
+        "View Vendor Details"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Checkout.com",
@@ -1707,7 +1762,7 @@
         "Cancel",
         "Reject All"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Checkout.com",
@@ -1725,7 +1780,8 @@
         "our values",
         "EMPLOYABILITY HUB",
         "Voices of Checkout",
-        "Privacy Preference Center",
+        "Cookies and use of our website",
+        "Cookies Settings",
         "Diverse Perspectives",
         "Collaboration",
         "Transparency",
@@ -1736,10 +1792,9 @@
         "UNITE",
         "Davi Chikasha-Auld",
         "Zack Levine",
-        "Keisi Mançellari",
-        "Manage Consent Preferences"
+        "Keisi Mançellari"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Primer",
@@ -1758,7 +1813,7 @@
         "Deep dive into payments",
         "Built by people who know how to keep money moving",
         "FAQs",
-        "You’ve Seen What’s Possible. Now Take Control.",
+        "You’ve seen what’s possible. Now take control.",
         "Recovered monthly with Fallbacks",
         "Uptime worldwide",
         "Airalo",
@@ -1771,7 +1826,7 @@
         "Connect to any providers that fuel your growth",
         "Move money globally with greater control"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Primer",
@@ -1793,7 +1848,7 @@
         "We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. Cookie Policy.",
         "The link may be broken, or the page may have moved. Head back to the homepage to keep exploring Primer."
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Primer",
@@ -1825,7 +1880,7 @@
         "ChangelogsSee what’s new, what’s better, and what’s coming next.",
         "API ReferenceAll the endpoints and payloads you need to build with Primer."
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Primer",
@@ -1839,7 +1894,7 @@
         "Our values",
         "Meet our Primigos",
         "FAQs",
-        "You’ve Seen What’s Possible. Now Take Control.",
+        "You’ve seen what’s possible. Now take control.",
         "Total raised",
         "Glassdoor rating",
         "People across 30+ countries",
@@ -1857,7 +1912,7 @@
         "Do you have set working hours?",
         "What kind of people thrive at Primer?"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Finix",
@@ -1889,7 +1944,7 @@
         "Digital wallets",
         "Lenders"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Finix",
@@ -1921,7 +1976,7 @@
         "PayoutsSend money to any recipient with Finix payouts",
         "Merchant Underwriting"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Finix",
@@ -1953,7 +2008,7 @@
         "Online Payments",
         "In-Person Payments"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Finix",
@@ -1985,7 +2040,7 @@
         "Regulatory Counsel, High-Risk",
         "Compliance Director, High-Risk"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Rapyd",
@@ -2017,7 +2072,7 @@
         "Build It.",
         "WITH RAPYD."
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Rapyd",
@@ -2049,7 +2104,7 @@
         "Cancel",
         "Confirm My Choices"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Rapyd",
@@ -2081,7 +2136,7 @@
         "Managing My Account",
         "Resetting Your Account Password"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Rapyd",
@@ -2091,10 +2146,10 @@
         "DREAM JOBS.REAL OPPORTUNITIES.",
         "BUILD BOLD",
         "LIBERATE GLOBAL COMMERCE",
-        "São Paulo, Brazil (1)",
-        "Tel Aviv, Israel (9)",
         "Bogota, Colombia (8)",
         "London, U.K (1)",
+        "São Paulo, Brazil (1)",
+        "Tel Aviv, Israel (9)",
         "POWER GLOBAL PAYMENTS",
         "DRIVE REAL BUSINESS IMPACT",
         "Global",
@@ -2113,7 +2168,7 @@
         "Legal, Security & Privacy",
         "Targeting Cookies"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Lithic",
@@ -2145,7 +2200,7 @@
         "Giftly Partners with Lithic for Issuer Processing · Company",
         "Agentic CommerceRealtime payments with AI"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Lithic",
@@ -2177,7 +2232,7 @@
         "Giftly Partners with Lithic for Issuer Processing · Company",
         "Agentic CommerceRealtime payments with AI"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Lithic",
@@ -2209,7 +2264,7 @@
         "Sandbox A safe environment mirroring production — run cards, transactions, and webhooks end-to-end. Open the sandbox",
         "Developer Authentication, environments, rate limits, and idempotency — the fundamentals every integration needs. View the basics"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Lithic",
@@ -2241,7 +2296,7 @@
         "Health Insurance",
         "Family Leave"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Dwolla",
@@ -2273,7 +2328,7 @@
         "Control at Transaction Scale",
         "Ship Faster, Maintain Less"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Dwolla",
@@ -2295,17 +2350,17 @@
         "No Hidden Fees",
         "Multiple Rails Included",
         "Dedicated Support",
-        "Close this consent banner",
-        "Save",
-        "Accept All",
-        "Reject Non-Essential",
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
         "Platform",
         "Solutions",
         "Developers",
         "Learn",
-        "Privacy Policy"
+        "Privacy Policy",
+        "privacy policy."
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Dwolla",
@@ -2332,12 +2387,12 @@
         "Support",
         "Blog",
         "GitHub",
-        "Close this consent banner",
-        "Save",
-        "Accept All",
-        "Reject Non-Essential"
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
+        "Resources"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     },
     {
       "company": "Dwolla",
@@ -2345,12 +2400,10 @@
       "url": "https://www.dwolla.com/company/careers/",
       "lines": [
         "PAGE NOT FOUND.",
-        "Close this consent banner",
-        "Save",
-        "Accept All",
-        "Reject Non-Essential",
+        "Accept",
+        "Deny Non-Essential",
+        "Manage Preferences",
         "Privacy Policy",
-        "Storage Preferences",
         "Skip to content",
         "Close",
         "Platform",
@@ -2367,9 +2420,11 @@
         "Correlation ID",
         "Addenda Records",
         "Security",
-        "Open Banking Services"
+        "Open Banking Services",
+        "Tokenization",
+        "Bank Verification"
       ],
-      "fetchedAt": "2026-11-03T20:31:42.162Z"
+      "fetchedAt": "2026-11-04T20:50:44.201Z"
     }
   ],
   "targetCoverage": [
@@ -2395,7 +2450,7 @@
       "company": "Primer",
       "category": "payments infrastructure platform",
       "pagesTracked": 4,
-      "latestSignalScore": 100
+      "latestSignalScore": 73
     },
     {
       "company": "Finix",
@@ -2407,13 +2462,13 @@
       "company": "Rapyd",
       "category": "global payments api",
       "pagesTracked": 4,
-      "latestSignalScore": 83
+      "latestSignalScore": 24
     },
     {
       "company": "Lithic",
       "category": "card issuing api",
       "pagesTracked": 4,
-      "latestSignalScore": 100
+      "latestSignalScore": 24
     },
     {
       "company": "Dwolla",
@@ -2425,8 +2480,8 @@
   "weeklyBrief": {
     "headline": "pricing signals are leading this cycle, with Stripe setting the pace.",
     "bullets": [
-      "Stripe: Tools to optimise your checkout • Payments optimisations to boost revenue • Tools to optimize your checkout Tools to optimise your checkout Payments optimisations to boost revenue Disputes Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins",
-      "pricing is the strongest current theme across 6 companies.",
+      "Stripe: Tools to optimize your checkout • Payments optimizations to boost revenue • Tools to optimise your checkout Tools to optimize your checkout Payments optimizations to boost revenue Stablecoins Tools to optimise your checkout Payments optimisations to boost revenue Disputes",
+      "pricing is the strongest current theme across 4 companies.",
       "8 targets were monitored across 32 pages."
     ]
   }
