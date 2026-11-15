@@ -1,5 +1,13 @@
 [
   {
+    "generatedAt": "2026-11-15T19:48:13.201Z",
+    "headline": "No material market movement detected this cycle.",
+    "topCategories": [],
+    "topCompanies": [],
+    "urgentSignals": 0,
+    "importantSignals": 0
+  },
+  {
     "generatedAt": "2026-11-14T19:12:07.056Z",
     "headline": "No material market movement detected this cycle.",
     "topCategories": [],
@@ -194,13 +202,5 @@
     ],
     "urgentSignals": 12,
     "importantSignals": 12
-  },
-  {
-    "generatedAt": "2026-11-02T22:55:32.153Z",
-    "headline": "No material market movement detected this cycle.",
-    "topCategories": [],
-    "topCompanies": [],
-    "urgentSignals": 0,
-    "importantSignals": 0
   }
 ]
